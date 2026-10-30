@@ -1,0 +1,139 @@
+[00:00:06] Hi, I'm Jeff Cavanaugh at Emphasis Connect in Los Angeles.
+[00:00:10] Today, I'm joined by Siyash, president of Simplus, one of Emphasis' subsidiaries.
+[00:00:15] Good to see you, Siyash.
+[00:00:16] Good to see you, Jeff, and thanks for the opportunity.
+[00:00:19] Absolutely.
+[00:00:20] Well, let's talk about the world of Salesforce and also what you're seeing in the ecosystem.
+[00:00:26] How are your companies, your clients, trying to unlock AI value?
+[00:00:31] So, very good question.
+[00:00:34] And from an unlocking AI perspective, I think there's a lot of focus right now towards the value.
+[00:00:42] So what we're seeing the customer...
+[00:00:43] So not just buying something, but actually getting something measurable from it.
+[00:00:46] Absolutely.
+[00:00:47] And the enterprise objectives and values are becoming more critical because the investments are huge.
+[00:00:54] And that's what's driving, right?
+[00:00:56] What's the return on investment?
+[00:00:57] And the unlocking of value right now is starting with a lot of new process reinventions,
+[00:01:03] understanding a lot of prospects and penetrating new markets, bringing new revenue opportunities
+[00:01:10] that did not exist in the past. So the efficiency part is also the innovation part. Absolutely.
+[00:01:17] So from a whole aspect, they're giving them the possibilities that they did not even know.
+[00:01:23] Which markets to penetrate, which territory to focus, where should I get the biggest bank for
+[00:01:28] my buck? How can I optimize my processes to reduce the cost? Some of those aspects were there,
+[00:01:34] but with AI, it's giving you those decisions now and then also a whole roadmap to execute.
+[00:01:40] What's a recent example of a client who came in wanting to maybe simplify or get more productive
+[00:01:47] and then found one of these nuggets of wisdom coming out of there? So one of our customers,
+[00:01:51] it's one of the top two or top three networking equipment manufacturers based in the San Francisco
+[00:02:00] Bay Area. And as they're reimagining their whole channel revenue cycles or partner relationship
+[00:02:08] management, one of the things we started to do was one of the big fours already did the whole
+[00:02:14] strategy for them, but it was not executable. They gave them a PowerPoint sitting with the
+[00:02:19] chief automation officer it was not even vibing it was opening one of our platforms like topaz fabric
+[00:02:26] and talking to them creating a prompt and then identifying a lot of those ass because see
+[00:02:33] the uniqueness of these companies is the assets the ai assets that they had right
+[00:02:38] so just like us like our assets are topaz fabric but also built on the back of 50 other
+[00:02:43] some shiny new model is what you already have their context absolutely so they ran the same
+[00:02:48] prompt on their own internal gpt version and then we ran it and what came out was the areas of focus
+[00:02:57] that they should like immediately get some define an mvp not just here's a strategy 30 60 90 day
+[00:03:04] two-year two-year plan but an mvp and then also created one very important aspect of even
+[00:03:11] onboarding partners how do you do due diligence how you assign your risk and what we were able
+[00:03:16] so you got down to the job to be done the actual activity in the job and defining an mvp what we
+[00:03:23] gave them as an outcome of this whole session so it was is the powerpoint they actually could
+[00:03:27] execute it it was not a powerpoint 95 of the partner onboarding could be very quickly automated
+[00:03:35] with ai and the cycle will go down from today which is like 16 to 20 days to hours no what
+[00:03:43] Hours. Hours. Because partners, they don't come and go, but you want the ability to change them
+[00:03:49] out when you need to. Absolutely. Absolutely. And then the other thing is which partners they
+[00:03:54] should not be doing any business with. That's another very important. You're seeing leading
+[00:03:58] indicators then pattern recognition of maybe why you shouldn't continue with a partner. Absolutely.
+[00:04:04] Absolutely. So see, this is AI value in action. You reduce the onboarding time by up to 95 percent,
+[00:04:12] moved it from days to hours the other aspect was fast tracking your time to revenue because
+[00:04:18] when the partner comes in you can enable them you can enable the right parker in the channel
+[00:04:23] to kind of drive that revenue through them so that's a real use because there's many more
+[00:04:28] about three four others in the communication technology space that they're working in
+[00:04:32] financial services specifically banking we're seeing a lot of this reinvention going on does
+[00:04:37] tech get in the way because you're doing the mvp you're putting the prompts in you're getting good
+[00:04:41] information back but you do have to at some point connect to an erp system or some kind of
+[00:04:46] foundational any issues there we are what we're seeing now is a heavy emphasis see models a lot
+[00:04:54] of the organizations are focusing on models entropic all the frontier models not to name
+[00:04:59] anybody but that's not where you start models are just one of the seven layers of ai right
+[00:05:08] and where we come in and play so tech can get in the way if you are not looking the holistic
+[00:05:16] picture like you start with defining your goals and objectives as we start and you work way your
+[00:05:21] way backward technology also will participate if they see the value that and then this is new
+[00:05:28] they want to play they do not want to become a roadblock in this reimagination that we are going
+[00:05:34] through and tech modernization actually is becoming a big thing as our chairman talked about
+[00:05:39] it there's 11.8 trillion dollar you know addressable market just on legacy modernization
+[00:05:46] so there's a lot of work so tech will not get in the way we'll be partnering with them to drive
+[00:05:51] some of this and the value we bring in is our engineering expertise how you integrate do see
+[00:05:58] you don't fix what's not broken right we are solving the whole technical debt burden absolutely
+[00:06:03] not just technical debt it's your process debt it's your data debt it's your strategy debt
+[00:06:10] and it's also your tech debt so it's not just one aspect we had to have this whole thing on
+[00:06:14] digital bankruptcy avoiding digital bankruptcy yeah so it's so it's exciting time and the other
+[00:06:20] thing one of the other aspects that you're seeing on the same topic of is tech or this business or
+[00:06:25] tech you know kind of tussle that we have seen and then the top down bottoms up approach what
+[00:06:31] I've seen now happen is a mandate from top down right which is very critical but also bottoms up
+[00:06:38] for adoption otherwise it's just theatrics it's just slideware conversation customers want to see
+[00:06:45] an experience versus being presented to people who already want to experiment they have their
+[00:06:51] own personal versions of all these things so these experiments have gone in for two years now
+[00:06:55] Yeah. Now we are able to deliver actual working apps and solutions within days and weeks,
+[00:07:04] not months and years. Let's talk about people for a second. The tech, the process, the strategy.
+[00:07:09] How are you keeping humans both in the loop and in the building?
+[00:07:12] Yeah, very good question. See, today it's not just about a company coming in and taking over.
+[00:07:19] coding is just one aspect right using frontier models some of these uh coding platform white
+[00:07:26] coding platforms you can automate that but still on the decisioning there's still a lot of
+[00:07:34] psychofancy and hallucinations on the model you cannot rely on it today and i don't think it's
+[00:07:38] going to change even ai will give you predictions it's going to give you projections it's going to
+[00:07:45] give you the data but ultimately the same uh prompt if you use on another model it could give
+[00:07:53] you a little bit of a nuanced oh absolutely that's the whole deterministic non-deterministic problem
+[00:07:58] yeah so it's moved from deterministic to indicative to realistic right to in in the form
+[00:08:05] of the decision making as long as the eye doesn't tell us it depends absolutely yeah no today models
+[00:08:11] are not telling it depends today the model is saying well excellence question let me and they
+[00:08:15] will answer, what do you want to hear?
+[00:08:17] They'll boldly say it incorrectly, yeah.
+[00:08:19] Right.
+[00:08:19] So it's a very interesting time, Jeff,
+[00:08:22] and I think we're living it.
+[00:08:24] What do you think is the one thing to look for
+[00:08:28] in the next six to 12 months that's going to help companies
+[00:08:32] kind of get to that next level?
+[00:08:34] I think I see very, and we are living,
+[00:08:37] obviously being in the Bay Area,
+[00:08:38] we get exposed to a lot of these new tech companies.
+[00:08:41] See, number one is customers are being thrown.
+[00:08:46] Go back to the dot-com or the cloud days.
+[00:08:49] A lot was throwing, everything was as a service.
+[00:08:52] Similar on-site we're seeing with AI now.
+[00:08:55] Companies are being thrown too many solutions,
+[00:08:58] too many AI native point solutions as well, or models.
+[00:09:03] Everyday new thing is coming.
+[00:09:05] I think choosing the right partner
+[00:09:07] and right AI stack is gonna be very important.
+[00:09:11] So look at a holistic strategy of partnership.
+[00:09:14] Look at your own objectives and goals, right?
+[00:09:17] And really if I, so those are the two main things
+[00:09:20] and then focus on the data.
+[00:09:22] There's garbage in and garbage out.
+[00:09:23] And this is where you can not take human out of them.
+[00:09:26] You definitely need data scientists.
+[00:09:28] You need experts that can view those things
+[00:09:30] and come back with this is my AI strategy
+[00:09:34] for the next 12 months.
+[00:09:35] So partnerships are very important.
+[00:09:37] That is where we also play as you know,
+[00:09:39] being simplest Salesforce partners.
+[00:09:42] But we need to expand.
+[00:09:43] We need to think through
+[00:09:44] of how the right partnership model
+[00:09:46] can be leveraged.
+[00:09:48] And the human and AI in the loop
+[00:09:50] is going to be pretty critical
+[00:09:52] to achieve those goals.
+[00:09:54] Got it.
+[00:09:54] Well, speaking of partnering,
+[00:09:55] I know you have a lot of people
+[00:09:56] at this conference to speak with.
+[00:09:57] So thank you so much for your time.
+[00:09:59] Thank you, Jeff.
+[00:09:59] And it's always a pleasure.
+[00:10:01] Yeah, you bet.
+[00:10:01] Thank you.
+[00:10:03] I'm Jeff Cavanaugh.
+[00:10:05] Until next time,
+[00:10:06] keep learning and keep sharing.

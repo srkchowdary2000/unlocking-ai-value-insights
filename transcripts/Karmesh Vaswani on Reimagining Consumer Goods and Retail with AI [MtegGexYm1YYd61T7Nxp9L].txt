@@ -1,0 +1,168 @@
+[00:00:06] I'm Jeff Cavanaugh with Infosys Knowledge Institute, and we're here at Infosys Connect
+[00:00:10] Conference in Los Angeles. I'm joined by Karmesh Baswani, head of the Consumer Goods Retail
+[00:00:16] Logistics Unit. Karmesh, good to see you. Pleasure meeting you, Jeff. Thank you.
+[00:00:21] I have a few questions on unlocking value in AI for your industries. First one is,
+[00:00:28] what is it in this whole consumer goods and retail area that you see as a real trend when
+[00:00:36] people being successful well if you look at the evolution of consumer goods
+[00:00:42] industry yeah the typical cost of goods sold for a consumer products company and
+[00:00:49] the typical price paid by the consumer after it's sold through a retailer there
+[00:00:55] is approximately 70% of the value which is involved in shipment from the
+[00:01:00] consumer goods company through the retailer to the consumer and with AI a lot of these linear
+[00:01:07] consumer value chains can reimagine their business models both in the physical world and the digital
+[00:01:12] world reduce that 70 and reduce that 70 to lower which will help them improve the value proposition
+[00:01:19] to the consumer improve the yeah volumes improve the pricing power and generally create better
+[00:01:25] value for every entity in the value chain whether it's a consumer goods company the retailer the
+[00:01:30] distributor and the consumer. And I think AI is both the digital form factors of AI and the
+[00:01:35] physical form factors of AI are helping approach each segment of the consumer goods value chain
+[00:01:42] and the retail value chain to be reimagined, to be renovated, to be innovated. So that's helping
+[00:01:47] out with the productivity part. What about on the innovation part, maybe more of a personalization?
+[00:01:52] that's a that's a great point i mean if you think about the kind of advertising marketing
+[00:02:00] spends that the consumer products companies have in any channel whether it's a social media channel
+[00:02:06] or e-commerce channel like amazon or a marketplace like a walmart or a target marketplace or their
+[00:02:12] e-commerce businesses the promotional offers tend to be mass marketed yeah you don't get a
+[00:02:19] promotional offer that is personalized to your needs, your context, your demographics, your
+[00:02:25] situational reality. And as AI is helping bring multi-modal capabilities to process data, image,
+[00:02:36] text, audio, video, consumer goods companies are able to reimagine now on how to increase
+[00:02:43] the volume of personalized offers while reducing the cost of delivering those offers.
+[00:02:49] So, we recently worked for one of the leading global FMCG companies who has 3 billion consumers that touch their product, 3 billion consumers globally who touch one of their brands at any point in time in any part of the world.
+[00:03:06] And to reach those 3 billion consumers, they generate 19 million digital assets.
+[00:03:13] And those 19 million digital assets are nowhere close to achieving hyper-personalization with the consumers, because it all goes through a mass market format.
+[00:03:22] Now with AI, we are helping them reduce the cost of those 19 million assets by 95%.
+[00:03:29] So their average spend was $100 per asset. It's coming down to less than $2.
+[00:03:35] Which means now for the same spend, they can look at amplifying their personalization 50 times.
+[00:03:42] times and that'll that'll mean greater consumer engagement greater mindshare mindshare translates
+[00:03:49] into market share and greater growth better margins for their business that sounds like
+[00:03:54] reducing the cost but increasing that ability to reach them on the human side is similar so
+[00:04:01] you're increasing productivity but not firing a bunch of people or well in this case they were
+[00:04:07] relying on agency of record agency of record having local agencies in japan in tokyo in china
+[00:04:14] in u.s in europe now we are having ai agencies that we have designed for them there is a translation
+[00:04:23] studio there is adaptation studio there is a image factoring studio which is improved so they're not
+[00:04:32] losing any of their headcount internally.
+[00:04:35] So their headcount needs to become more productive.
+[00:04:38] Their category managers and brand managers feel more empowered that earlier they would
+[00:04:42] deal with an agency who takes six weeks to deliver something and it will go through five
+[00:04:47] iterations.
+[00:04:48] Now they are able to just talk through prompts, look at their past digital assets, reorient
+[00:04:54] those assets for any form factor that will appeal to you as a consumer.
+[00:04:58] A bit of a play on words, but the workers have more agency by working less through the agencies.
+[00:05:03] Yeah.
+[00:05:04] Now, the agencies might lose business.
+[00:05:06] Yeah.
+[00:05:06] The agencies who are smart and who have seen our work, they are saying we should embrace this model and help our CPG clients to increase the quantum of consumer engagement.
+[00:05:19] So their value add has to go up for them to stay relevant.
+[00:05:21] Absolutely.
+[00:05:22] Yeah.
+[00:05:22] Okay.
+[00:05:23] What do you think is the biggest challenge senior executives have to face?
+[00:05:27] Because what you're saying on an absolute basis is great, but if everyone's doing that in CPG or in retail, they have to compete.
+[00:05:34] So who will the winners be? What will they be doing?
+[00:05:37] So it's a hugely fragmented industry.
+[00:05:40] I mean, if you go into any hypermarket for every category, you'll find that there are a plethora of brands,
+[00:05:47] some from the big CPG, some from the mid-sized CPG, some from new emerging players.
+[00:05:52] I think this will lead to more consolidation because there will be few companies who will embrace this into their business model.
+[00:05:59] So the number of brands might not go down, but the number of companies holding all those, they'll wait to roll them up?
+[00:06:05] Absolutely. Absolutely. And as the consumer awareness goes up, because when consumers start having more personalized engagement, it will also lead to an element of number of brands reducing.
+[00:06:17] the opportunity for so many brands in a category to coexist is because the extent of personalization
+[00:06:25] is not there so every consumer goes and finds something that appeals to them if i'm using a
+[00:06:30] hair care product i'm using a skin care product everyone has some unique need which is not being
+[00:06:35] addressed by a certain brand they switch to a brand and that creates a market opportunity
+[00:06:39] and the lag between the manufacturer happening that happening and then being aware of it start
+[00:06:46] shrinking. And so they're able to, the innovation cycle is faster. Innovation cycle is much faster
+[00:06:52] because acquiring a consumer insight, converting that into a pattern, a cluster, comparing that
+[00:07:01] with the product attributes, the product benefit proposition, the product formulation, the product
+[00:07:06] positioning, those cycles are reducing and insight to action is becoming much faster. And that is a
+[00:07:13] massive headache for a human without that kind of tool set to address it absolutely yeah well if all
+[00:07:19] that happens then it seems the bottleneck is now on logistics supply chain fulfillment so what do
+[00:07:25] you see the impact of ai in that area so i think in logistics also we will see there would be
+[00:07:32] more intelligent form factors of logistics logistics is becoming multi-modal you earlier
+[00:07:37] only had demand sensing data talking to transport talking to warehouse now you could be having
+[00:07:47] real-time in-store video feeds or shelves talking directly to a warehouse which stops
+[00:07:56] directly to a transporter which automatically schedules the labor required to load the transport
+[00:08:02] which perhaps even talks to the the robotics equipment inside the warehouse and with very
+[00:08:09] little human intervention both inbound and outbound logistics is getting scheduled
+[00:08:14] and the human human is in the lead yeah but the effort that the humans had to take to
+[00:08:20] plan replan look for variations has surprises of a transporter not turning up or a truck having a
+[00:08:27] breakdown. All of those now are data signals which are talking to each other.
+[00:08:32] Well, you used to think of logistics being so deterministic because they're assuming a formulaic,
+[00:08:37] but now you're able to run so many scenarios and plan for it, which given whether it's geopolitics,
+[00:08:44] whether it's the price of fuel, they're having to run thousands of simulations just to make
+[00:08:48] their own choices. Yeah, so the ability to deal with data volume, variety, velocity in logistics.
+[00:08:56] logistics is like a live heartbeat living business living breathing business with so many variables
+[00:09:04] and the ability to do deterministic planning was constrained on the ability of being able to take
+[00:09:11] live data signals on different trade lanes or different routes on variations in pricing on
+[00:09:18] periodic surpluses shortages in capacity now all of that becomes a set of data signals which can
+[00:09:25] and be going into these planning algorithms
+[00:09:27] and help optimize the end-to-end logistics costs.
+[00:09:31] Looking ahead the next nine to 12 months,
+[00:09:33] what do you think executives should be either worried about
+[00:09:38] or hopeful about given the next evolution
+[00:09:41] of AI's impact on their business?
+[00:09:44] So I would take a macro view.
+[00:09:46] If you look at enterprise productivity in S&P 500 companies,
+[00:09:51] in the last 30 years,
+[00:09:53] there has been about 3.5 times productivity improvement.
+[00:09:56] So in 1990s for a S&P 500 company,
+[00:09:59] for every billion dollars of sale,
+[00:10:01] you had approximately 7,000 human headcount.
+[00:10:05] That figure has come down to about 2,500 by 2025.
+[00:10:11] But in the next three to five years,
+[00:10:14] 2,000 could come down to about 500.
+[00:10:16] You could have a similar quantum of productivity improvement.
+[00:10:20] And every enterprise has to look at
+[00:10:22] that how much human effort do I have?
+[00:10:25] How much physical capital do I have?
+[00:10:27] How much working capital do I have?
+[00:10:29] And am I in a position to climb
+[00:10:31] a three to five times productivity improvement
+[00:10:33] in the next three to five years?
+[00:10:36] Because if I'm not doing that to my business,
+[00:10:38] my competitor might be doing it
+[00:10:40] and I might lose my relevance in the industry.
+[00:10:43] Yeah, because if you improve by this much,
+[00:10:45] but if someone else improves by this much
+[00:10:47] on a relative basis, you're still behind
+[00:10:48] because you're fighting the same consumer.
+[00:10:50] Absolutely. Same price point.
+[00:10:51] Yes.
+[00:10:52] What is the consumer of tomorrow or what should executives be doing to reach them?
+[00:10:58] You talked about the business, the outside-in view.
+[00:11:00] What is it that's going to be the consumer of tomorrow's, you know, the winning hand for them?
+[00:11:06] Well, the consumer of tomorrow would be someone who has a number of agents working for him or her.
+[00:11:13] So you're not just selling to them, but they're agents.
+[00:11:15] Yes, you're relying on how their agents are interpreting the mind, the behavior, the mood of the consumer.
+[00:11:21] and how those agents are coming
+[00:11:24] and looking at your value proposition
+[00:11:26] as a Tanjima goods company or a retail company
+[00:11:29] and how do you make sure
+[00:11:31] that for different sentiments,
+[00:11:33] different moods,
+[00:11:34] different behavioral aspects,
+[00:11:37] your proposition,
+[00:11:39] both in terms of products,
+[00:11:40] price, promotion, place,
+[00:11:41] is aligned to the segmentation of those agents.
+[00:11:46] Last question.
+[00:11:48] Are you fearful?
+[00:11:50] Are you optimistic about the impact that AI is going to have in your industry?
+[00:11:55] I'm quite optimistic because if we look at the historical evolution of humanity and humans
+[00:12:01] by their very nature are creative people, humanity will continue to find new ways and
+[00:12:06] means to uplift the standards.
+[00:12:07] Our wants keep growing, right?
+[00:12:09] Yeah.
+[00:12:10] So the standards of living will keep increasing and every evolution with technology of this
+[00:12:16] nature would mean that the aspirations can be fulfilled with lower effort lower cost lower time
+[00:12:24] and that means that there will be more availability more abundance
+[00:12:29] so this will help elevate access affordability in good form factors provided there is good
+[00:12:38] governance and regulation if there is responsible governance responsible regulation i think this
+[00:12:44] This AI wave can really help alleviate some of the perils of humanity around poverty,
+[00:12:52] around malnourishment, around lack of opportunities for literacy and education.
+[00:12:57] And at the same time, for the sections of the society who can afford all this,
+[00:13:03] give them a better value proposition.
+[00:13:06] Well, on that positive note, I appreciate your time.
+[00:13:08] Thank you very much.
+[00:13:09] Thank you, Jeff.
+[00:13:10] Pleasure talking to you again.
+[00:13:11] You bet.
+[00:13:11] Thank you.
+[00:13:11] Until next time, I'm Jeff Cavanaugh.
+[00:13:15] Keep learning and keep sharing.

@@ -1,0 +1,199 @@
+[00:00:05] I'm Jeff Cavanaugh with the Infosys Knowledge Institute.
+[00:00:08] We're here at Infosys Connect conference in Los Angeles.
+[00:00:11] And very happy to be joined today by Mayank Ardawal, who's the head of cybersecurity Americas at Infosys.
+[00:00:17] Hey Jeff, so nice to meet you.
+[00:00:19] You bet.
+[00:00:20] We're talking about unlocking value from AI.
+[00:00:24] And I can't think of a more important and sometimes misunderstood area of cybersecurity.
+[00:00:29] So let's just jump into it.
+[00:00:30] what is it that you're seeing now trend wise with cyber security and AI it's a
+[00:00:39] pretty interesting topic first of all you talked about cyber security being a
+[00:00:43] little bit of a misunderstood topic thanks for saying that a lot of times
+[00:00:48] people talk about cyber security as a function that wants to port a lot of
+[00:00:55] guardrails that slows down innovation in fact the way i look at it is cyber security is fully
+[00:01:03] important in a environment in a client environment because these guardrails help you to go faster
+[00:01:10] it's like i was talking to one of the race drivers and what he said is typically in a
+[00:01:16] race car what do you think is the most important thing that helps me go faster and i was guessing
+[00:01:22] for some time and then he said to my surprise it's the brakes i was amazed uh because he said
+[00:01:29] yes uh it's the aerodynamic body the engine all of those are good but finally knowing that i can
+[00:01:37] truly rely on my braking systems because i have the right guard rail that truly helped me coming
+[00:01:43] back to your question on ai and cyber security that whole intersection we see two interplays in
+[00:01:49] that yeah first truly protecting AI because when you truly look at AI how do
+[00:01:56] you make sure that you work with the models the data is protected the agent
+[00:02:02] identity is taken care of all the output that's coming in that's right it's
+[00:02:06] acceptable it's following the laws of the land and so on and so forth so
+[00:02:12] that's one area which is all protecting and guarding the AI second piece is all
+[00:02:17] about leveraging AI to truly amplify the work that we are doing in cybersecurity.
+[00:02:25] So finding the needle in the haystack faster, fighting the bad actors in your
+[00:02:31] environment faster, and truly acting it at scale. So that's are the two things.
+[00:02:35] One is protecting AI and second is leveraging AI to make sure we are truly
+[00:02:41] amplifying the work of the cybersecurity team.
+[00:02:45] Can you share an example, a recent one,
+[00:02:47] from one of the clients you work with
+[00:02:49] where it really hit that home run?
+[00:02:52] You know, it really was able to overcome something
+[00:02:54] and build that trust?
+[00:02:56] So two things, what we did recently with a customer.
+[00:03:00] One, we built a agent that does a lot of work
+[00:03:07] which is needed in risk management,
+[00:03:10] compliance from a cybersecurity perspective and a lot of times that whole activity used
+[00:03:16] to be a big tedious activity reaching out to multiple sets of individuals, looking at
+[00:03:21] different sets of submission reports and stuff.
+[00:03:24] So we've been able to create a GRC agent that truly is a global risk and compliance agent
+[00:03:31] and that is something that has been able to automate a lot of that work.
+[00:03:36] been able to cut down the time it used to take to prepare for a cyber audit for a certain
+[00:03:42] function from more than four, four and a half months to less than a month timeframe.
+[00:03:48] So that has been significant.
+[00:03:50] Second piece, what we've done when it comes to leveraging AI in cyber, there is this whole
+[00:03:58] area called SOC, Security Operations Center.
+[00:04:02] And the whole job out there is to find out patterns and activities where you try to see
+[00:04:09] if there is an attacker who's trying to or an attacker or an adversary who's trying to
+[00:04:14] get into your environment, take all the good data.
+[00:04:17] So that's where earlier it used to take in a complex environment.
+[00:04:22] It used to take between 12 hours to almost two to three days to solve a very, very complex
+[00:04:30] kind of case.
+[00:04:31] Today, what we have been able to do is amplify the work that our agents are doing, and we've been able to correlate a lot of information, give them the information, and that has truly helped them to cut down this analysis from 12 hours to two to three days to almost like less than two hours.
+[00:04:51] So a lot of powerful use cases in cybersecurity around AI.
+[00:04:56] What I'm hearing as well is it's not just what you have to do is being reduced.
+[00:05:01] Maybe things you couldn't have time to do before, you can now do more of.
+[00:05:05] In other words, you can have more coverage, the nice-to-haves.
+[00:05:08] You can actually do more of that even beyond the compliance just for protection.
+[00:05:12] Oh, absolutely.
+[00:05:13] It's built in by design.
+[00:05:15] Yes, it's built in.
+[00:05:16] In fact, earlier we were running SOC for this large chip manufacturing company.
+[00:05:23] and what used to happen earlier was so there are significant number of alerts
+[00:05:31] which were there that who will assign to a user group and they were taking their
+[00:05:37] own time and trying to solve those and stuff now with the advent of AI what we
+[00:05:42] have been able to do is truly solve those things in a much efficient way and
+[00:05:48] then only escalate to those user groups which are the manufacturing say plant
+[00:05:53] which they have across the globe,
+[00:05:56] only a handful of them that truly needs their settings.
+[00:06:00] So what we've been able to do is cut down the work
+[00:06:03] of the manufacturing team out there
+[00:06:05] and effectively improve the cybersecurity in the region.
+[00:06:09] So it has worked out very well.
+[00:06:12] You know, we hear a lot about trust
+[00:06:15] and trust is often with loyalty and customers.
+[00:06:19] I'm thinking cyber has to play a role
+[00:06:22] in developing trust with regulatory agents,
+[00:06:25] with your customers, with your corporate leaders?
+[00:06:29] Absolutely, when you associate trust,
+[00:06:33] in fact, even in our strategy,
+[00:06:35] out of the hexagon strategy that we have,
+[00:06:38] Trust.ai is one of the big pillars which is out there.
+[00:06:42] And the reason why trust is so important,
+[00:06:44] because it's all about putting the right set of guardrails
+[00:06:48] when you are sending someone or some information,
+[00:06:52] You truly want to trust that information is coming in
+[00:06:55] from that individual, that person.
+[00:06:57] If it's a black box, you have to trust.
+[00:07:00] Absolutely, and there is nothing that has been truly made,
+[00:07:05] someone has not made any changes
+[00:07:07] when they send this information.
+[00:07:09] So there is confidentiality,
+[00:07:10] there is integrity and availability,
+[00:07:13] all through our very important dimensions of trust
+[00:07:17] that we take care of from a cybersecurity perspective.
+[00:07:20] Yeah. Well, as you're thinking about this, I think about the tens of thousands of attacks that could be coming in.
+[00:07:30] Could you just paint a picture of what a modern CISO, cyber officer in a company is dealing with?
+[00:07:39] How many attacks come in? How many of them are thwarted through AI?
+[00:07:45] And then how are they using cyber to overcome it?
+[00:07:47] So, let me define the role of this person, the head of cybersecurity, CISO.
+[00:07:57] Dealing with attacks is just one part of his job.
+[00:08:00] So that is what we call as threats, so he or she truly needs to look at what are the
+[00:08:08] different threat actors that are attacking the enterprise, not just indirectly, but maybe
+[00:08:14] through their suppliers as well.
+[00:08:16] That's true, tier two, tier three.
+[00:08:17] Yeah, the supply chain attacks that we talked about.
+[00:08:19] From their smart devices.
+[00:08:20] Yes, absolutely.
+[00:08:21] The cameras, even the target attack happened through a fish tank.
+[00:08:26] A fish tank? No way.
+[00:08:28] Yeah, so it's truly interesting.
+[00:08:31] So one is working and truly protecting the company against the threats.
+[00:08:36] Second piece is there are a lot of converting these threats into risks
+[00:08:40] because there is probability, there is impact analysis, impact to the business.
+[00:08:45] converting all of them into a risk then creating a risk mitigation plan some you
+[00:08:50] can transfer the risk to insurance some you can do a remediation residual risk
+[00:08:55] which is there and creating this whole risk management framework and reporting
+[00:09:00] back to the board that happens third is there's a lot of compliance that CISO
+[00:09:05] deals with so elements around SOX compliance which is all around software
+[00:09:11] attestation the identity and access pieces there are privacy requirement pci dss hipaa and so on
+[00:09:18] and so forth so a lot of those things that the cso has to deal with fourth is if there is a true
+[00:09:25] cyber event that happens how do you truly recover from it and it's really different from a bcp or a
+[00:09:32] dr event which is there so it's all about baking in a cyber resiliency plan which is there and
+[00:09:39] And lastly, cyber is also truly responsible for providing a secure user experience which
+[00:09:47] is there and all of this leveraging AI, protecting AI.
+[00:09:52] So that's where I call the five things that the CISOs are responsible for.
+[00:09:56] Managing threats, converting those threats into risk and reporting to the board, making
+[00:10:02] sure there is cyber compliance which is there, ensuring there is cyber resiliency and last
+[00:10:09] Mostly it's all about providing the secured user experience and those are five things
+[00:10:13] that the CISO is responsible for, not just Thrix.
+[00:10:18] Well put.
+[00:10:19] Well played.
+[00:10:20] You said one little phrase you dropped in there, important to the board.
+[00:10:25] It's interesting how visible, I mean board members, NACD, the whole corporate directors,
+[00:10:32] they have training for board members on cyber.
+[00:10:35] I think of all the areas that board members get training on, they actually go deeper and
+[00:10:39] more detailed in cyber.
+[00:10:40] So talk about why board members are getting involved with this.
+[00:10:44] So very interesting.
+[00:10:46] In fact, a cyber event can truly impact the market cap of a company in a big way.
+[00:10:54] We've seen instances where publicly traded companies, their market cap can drop by 25-30%
+[00:11:03] because of a cyber incident.
+[00:11:05] So that's a very, very large number.
+[00:11:08] We call it asymmetric warfare.
+[00:11:09] Yes.
+[00:11:11] And it could be like 20s, 30s of billions of dollars market cap that we are talking about.
+[00:11:16] So that's why the board has the fiduciary responsibility to truly make sure it puts the right set of processes in place and the oversight to ensure that the companies are there for long runs and long periods of time.
+[00:11:31] So for that, if a single event can impact the value by 30%, they have to understand it better.
+[00:11:40] They have to ensure that the management team is aware of the risk and they put all the right systems and processes to make sure it doesn't happen to them.
+[00:11:52] Well, taking that to a whole other level, we got to talk about mythos.
+[00:11:57] So, what's your perspective on the new model coming out, its impact on cyber risk, and what are you telling clients these days about it?
+[00:12:08] In fact, last, I'll say, less than five weeks, I've done at least 25 conversations around mythos.
+[00:12:18] So, obviously, it started with fear.
+[00:12:21] About the new model, and the problem comes out with it, and it's going to attack everyone.
+[00:12:25] Yes. So what is, let me just first talk about what Mythos does.
+[00:12:30] So Mythos, what it does is it truly provides an ability to chain multiple vulnerabilities
+[00:12:39] which could have been very low probability, low severity vulnerability.
+[00:12:44] But what it does is it chains all of them together
+[00:12:47] and it can create a truly critical vulnerability in the environment
+[00:12:52] which if and when it is exploited it can truly bring down the entire enterprise
+[00:12:59] and that's what what we have seen today not just mythos but all other models
+[00:13:05] included Opus 4.7 GPT 5.5 clear wing and law of other models which are there
+[00:13:11] they are have very very high ability to chain these vulnerabilities together and
+[00:13:19] and they are not just available to the attackers but now also to the defenders so one important
+[00:13:25] dimensions for all the seesaws and and and even the boards is to truly look at what's truly the
+[00:13:34] most important critical vulnerabilities or chain of vulnerabilities which are there in the
+[00:13:40] environment that could get impacted so that's one part figuring out having the right visibility
+[00:13:46] putting the remediation plan if you cannot remediate is there a risk
+[00:13:50] transfer plan can you put compensating controls they're out there so that's one
+[00:13:55] thing second piece is also about fully working on resilience a cyber resilience
+[00:14:05] plan that could work in minutes not in days yeah so that's a learning yeah yeah
+[00:14:11] the response time so that's the second part to it and third is making sure that
+[00:14:16] the entire enterprise is aware of such a thing because businesses if a
+[00:14:23] company is in a manufacturing space they are all worried about are there
+[00:14:28] manufacturing lines running are they making the right set of output and a
+[00:14:33] retail company is all focused on are there right skews at the places and
+[00:14:38] stuff so all talking about all of this and bringing it together I think that's
+[00:14:42] what it's important that the enterprise is aware of it and then taking the right
+[00:14:46] set of steps around it so that's what our role is on this well now you have to
+[00:14:51] get back to things one last question what is it that executives should be
+[00:14:55] thinking about relative to cyber as the next big thing coming or the next
+[00:15:00] opportunity for them the next nine to twelve months I said more than nine to
+[00:15:04] 12 months the big opportunity today is definitely unlocking the value from AI
+[00:15:10] one is going back to the first question where we started one is protecting the
+[00:15:16] AI make sure you are putting the right set of guardrails you know which agent
+[00:15:21] is doing what and you are able to crack that entire lifecycle of that whole
+[00:15:25] thing second is leveraging AI to the fullest in this cyber function so that
+[00:15:31] that you are able to amplify the work
+[00:15:33] that the cyber teams have been doing.
+[00:15:35] So cyber for AI and cyber in AI.
+[00:15:38] Absolutely, you put it absolutely correctly.
+[00:15:42] Well, Mike, it's been a pleasure talking with you.
+[00:15:43] So nice meeting you.
+[00:15:44] Thank you so much for your time.
+[00:15:45] Thank you.
+[00:15:46] I'm Jeff Cavanaugh.
+[00:15:47] Until next time, keep learning, do check.

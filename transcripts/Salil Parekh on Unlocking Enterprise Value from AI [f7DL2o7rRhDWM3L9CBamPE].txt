@@ -1,0 +1,61 @@
+[00:00:08] I'm Jeb Cavanaugh, head of the Infosys Knowledge Institute, and we're here at Infosys Connect Conference in Los Angeles.
+[00:00:14] Here with our CEO for Infosys, Salil. Thank you so much for joining us.
+[00:00:18] Thanks, Jeff, and thanks for having me here.
+[00:00:20] We're here to talk about unlocking value from AI, and I know it's a nice, high-sounding message,
+[00:00:25] but it's got some very real kind of an edge to it that we need to get into.
+[00:00:30] What is it now that beyond the basics that people have been thinking about for a while that's top of mind for senior leaders?
+[00:00:38] So today, I think what I hear when I talk to our clients, CEOs and senior executives
+[00:00:42] is how can they translate the enormous potential of AI into what can benefit their company.
+[00:00:52] There are two massive dimensions.
+[00:00:55] One is how can they do new things that can help them grow faster?
+[00:00:58] And there are several areas in that where we are helping our clients,
+[00:01:03] for example building things that can assess and target a set of clients
+[00:01:10] customers much more narrowly and allow them to get the customers to buy their
+[00:01:16] product that they really want at that time can scale it up and then the second
+[00:01:22] question is how can they make things more efficient across the organization
+[00:01:27] how can they do things faster how can customer service improve how can other
+[00:01:32] the stats improve. And there again, we have a set of areas where we can help, whether it's by
+[00:01:38] building agents, whether it's by looking at customer service, whether it's by looking at
+[00:01:43] supply chain processes, making all of those improve in the quality that they're looking for.
+[00:01:50] That's a great way of describing I'll call it efficiency in the process. Thinking about a
+[00:01:55] senior executive perspective, this has profound implications on operating model, capital
+[00:02:00] structure and even what the long-term value of a company is what should senior leaders be thinking
+[00:02:07] about from that perspective so there i think many many of our clients are already in discussions
+[00:02:15] internally with their leadership teams with their boards looking at what is the step function change
+[00:02:22] they can drive by using this and there a lot of it is making sure the ai works within that culture of
+[00:02:29] the organization making sure they can make that change by deploying it with speed today so the
+[00:02:37] idea really is use the ai capabilities whether it's foundation models whether it's the platforms
+[00:02:46] on top of them and scale up as quickly as you can many companies are also rethinking completely
+[00:02:53] their approach because there are areas where you could do things in days and hours and minutes
+[00:03:00] which were taking weeks and months and so that changes the way you can approach a certain area
+[00:03:06] of your business so those are the sorts of discussions that our clients are having
+[00:03:11] and we are in a fortunate position to support them our own work with ai is a large percentage
+[00:03:17] of our business, growing very fast, and in six broad areas where we can provide these services.
+[00:03:24] It's interesting you mention culture because you have to also think about people and culture in
+[00:03:31] our own company. What's the approach you've taken at a 300,000 person company ourselves and what
+[00:03:37] might a lesson be for others? So here we've taken an approach where essentially we are re-skilling
+[00:03:43] all of our teams with the new AI, both foundation model and toolkits, and there's a huge array of
+[00:03:52] them out there today. So our approach, for example, last year, we recruited about 20,000 college
+[00:03:59] graduates. We are continuing to recruit and grow. We are not planning layoffs. We are doing things
+[00:04:04] which will reskill our employees, and this is a longer-term approach within Infosys. This is an
+[00:04:10] approach we believe is the right approach. A lot of our people have deep insights into what clients
+[00:04:16] know. It's now a question of using those insights with new tools and technologies which are massively
+[00:04:22] productive but also massively different and then learn new skills so some of the tasks that they
+[00:04:29] were doing in the past can be done more efficiently and they can do new tasks with all the context
+[00:04:34] experience for the clients. It's taken a long-term view converting it into to
+[00:04:40] borrow from Jim Collins a flywheel concept it continually reinforces and
+[00:04:45] makes it better. No absolutely and I think we feel quite good at where we are
+[00:04:50] we've defined six broad areas for example AI engineering building agents
+[00:04:57] code modernization other areas which are growing rapidly and those areas with
+[00:05:03] this flywheel that you mentioned allow us to go faster and faster with ar i keep hearing that
+[00:05:10] emphasis on speed if you had one thing to say to your peers out there that are companies what
+[00:05:16] should they be thinking about at a strategic level to drive this i think here my sense is
+[00:05:22] the technology is already proven itself there are huge innovations especially here in the us
+[00:05:30] which can be leveraged across all businesses so to me this is the time to actually get in
+[00:05:36] and do these things at scale as you do them as our clients do them there will be ups and downs
+[00:05:43] but when you have a partner like infosys you can sort of ride that and make sure you can deliver
+[00:05:48] well and you'll be learning along the way absolutely it's ongoing the learning for them
+[00:05:53] and building on our sort of topaz fabric all the skills we can bring to them awesome so thank you
+[00:05:59] Thank you so much for your time and thanks very much for doing this.
+[00:06:02] I'm Jeff Cavanaugh.
+[00:06:03] Until next time, keep learning and keep sharing.

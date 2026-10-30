@@ -1,0 +1,184 @@
+[00:00:06] I'm Jeff Cavanaugh, head of the Infosys Knowledge Institute.
+[00:00:09] Here's the Infosys Connect Conference in Los Angeles.
+[00:00:12] Glad to be here with Bauschuklup, who heads transformation and AI for financial services.
+[00:00:17] Good to see you.
+[00:00:18] Good to see you, Jeff. Thanks for having me here.
+[00:00:20] You bet. Well, the word of the day, topic of the day is AI, especially unlocking value from AI.
+[00:00:27] And financial services, what's top of mind now in the next level of AI and value?
+[00:00:33] See, finance services at Roseville has always been into AI space for quite some time,
+[00:00:41] right? So AI is not new in finance services space as we call it.
+[00:00:44] But still evolving.
+[00:00:45] But exactly. But what has happened now is we have got this gen AI, agentic AI,
+[00:00:50] which is going to take the next leap of faith what's going to happen and all. And that is
+[00:00:55] changing the business model completely from how things can happen for today versus tomorrow.
+[00:00:59] So the biggest thing that's happening in FAS space now is reimagine every process that they are working on today.
+[00:01:06] That's a big change.
+[00:01:07] And that's a big deal for banks who don't like to change things much.
+[00:01:10] Exactly.
+[00:01:11] So we start with simple thing like onboarding.
+[00:01:13] A customer onboarding, which is take a couple of weeks, can be done in days, right, and hours.
+[00:01:19] That's what people are looking at, right?
+[00:01:21] If I'm a private banker customer and I want to make sure how can I do my onboarding, my entitlement done much, much faster.
+[00:01:29] so not only you do for me you do for my family officer as well if i'm a financial advisor how
+[00:01:34] can i do the job that i can do to you which is much much advanced and making more intelligent
+[00:01:40] to you not just going and going back to spreadsheets and figuring out information
+[00:01:43] from policy documents and all so all the rules that we have that we see now is getting to be
+[00:01:49] transformed from a front office perspective you look at the call center business what's going on
+[00:01:54] that are getting disrupted to it's a council of ai to start off and then go to you know humans only
+[00:01:59] as need be an example like that or fancy advisors who get enough information available on the
+[00:02:06] fingertips before they come and present to our customers now that makes your life much much
+[00:02:11] faster to go back from a financial planning perspective and the customers uh expectations
+[00:02:16] are so much higher we're used to seeing pretty graphs instant feedback and so before it was okay
+[00:02:22] great i got this kind of return the bank's doing this now it has to be pretty and fast and
+[00:02:27] simulations and not only this they want interactive and then a lot of new things also coming up right
+[00:02:33] in the crypto world coming up tokenizing coming up and all so looking at how do i go to new asset
+[00:02:38] class completely what should happen to me if i do this class now and the most important thing you
+[00:02:42] know to do this part it will take years to do that piece because there is so much of legacy platform
+[00:02:48] behind it you know code banking platform for you know mortgage platform your payments platform
+[00:02:54] well spread all were on legacy mainframe and arcane code base what they're saying now is oh
+[00:03:00] you know what my rules and my policies were all embedded somewhere now can expedite that piece
+[00:03:05] from three years five years online to the next 18 months how much change can i you have to make
+[00:03:09] what was kind of hidden in an implicit explicit and exactly it's almost like an iceberg you know
+[00:03:16] FAS space is an iceberg where what you see at the top is a very small, huge legacy. The iceberg is
+[00:03:21] coming up now. Oh, and by the way, that financial institution may have had a bunch of acquisitions.
+[00:03:26] Absolutely. That makes it even more complex. You have got five core banking softwares running
+[00:03:30] underneath you and then what you do now. And now you're looking at how do you strip off,
+[00:03:34] hollow the core. You hollow the core, what can happen? How can I change my branch experience
+[00:03:38] completely? What can happen now? And fraud is a big, big thing for us, right? And that's a big
+[00:03:44] thing on trust the how to make sure you're making sure that you're taking giving safeguard to the
+[00:03:49] customer by ensuring that you you allow me to avoid any fraudulent activity but if i come and
+[00:03:55] complain you from a complaints management you're going to resolve my complaints much much faster
+[00:03:59] now so dispute and claims management becomes much faster for me what do you take me five or eight
+[00:04:05] days to come back to me can you do within a day to me now if i come and complete your transaction
+[00:04:09] can you do completion much faster now so all those things if you this look amount of customer
+[00:04:13] experience right and expectation is coming down and you want to bank with someone who can give
+[00:04:18] you this peace of mind all the time one important is coming now as well in the peace of mind is
+[00:04:24] you know we charge you nsf fees you know non you know non-service delivery fees right because you
+[00:04:30] didn't have enough balance in the account that's not saying why do you have to do that you exactly
+[00:04:34] know how much money i have my account how much i do you know payment for credit card for mortgage
+[00:04:40] for all the things in a month how much again you exactly know which day what comes in give me a
+[00:04:44] heads up if i would do it give me a heads up a week back here your account is low i don't transfer
+[00:04:51] so a lot of agentic work is coming you know and that's why agent commerce is coming as well right
+[00:04:56] how can i do agentic commerce now where you have my permission to do something at this level
+[00:05:00] in the controls of course given with human the loop as it goes beyond certain entitlement limits
+[00:05:05] how can you do that like auto pay on steroids yeah yeah otherwise steroids yeah huge opportunity in
+[00:05:11] fine service space because all the personas right in the rm personal financial persona
+[00:05:16] you know in retail banking coming to payments and all as we do customer experience customer service
+[00:05:21] center all persons are getting class from financial services space that's why you see
+[00:05:26] Every AI lab partner, if you talk to them, they say, you know, 80% of my client base is finance
+[00:05:30] services. That's a general trend I see. It's coming from hand services in some shape and form
+[00:05:35] because they're the first mover advantage. They want to try it out because they've been doing AI
+[00:05:40] for a while. They have these challenges and it's also market driven. If two players have done,
+[00:05:45] two have not done, it's an impact to them. So rather everybody wants to be on the same.
+[00:05:50] You can be making incremental progress on an absolute basis, but if your competitor is
+[00:05:54] relatively doing it faster, you're losing out.
+[00:05:57] Exactly.
+[00:05:58] The example of a private banker example,
+[00:05:59] if I get the same experience, same product capabilities
+[00:06:03] from another entity, who do I go to?
+[00:06:06] Right?
+[00:06:07] So...
+[00:06:08] You spend your work days thinking about transformation.
+[00:06:11] What are the essential aspects that our financial companies
+[00:06:15] should be thinking about for transformation?
+[00:06:18] The three very important things
+[00:06:19] that every company has to think of in transformation.
+[00:06:22] First thing is, lay the rails right.
+[00:06:25] Because your rails are very important.
+[00:06:27] It's almost like how you lay the rails right
+[00:06:29] for any transformation that you do, right?
+[00:06:31] The rails are very important to set up,
+[00:06:33] which means the foundations have to be set right.
+[00:06:36] One of the key comfort of foundation
+[00:06:37] is change management as well, right?
+[00:06:39] Which is like, you let the organized structure set right
+[00:06:42] with the right mindsets.
+[00:06:44] The change is very, very important
+[00:06:46] in the transformation space.
+[00:06:47] A change is happening to every responsibility,
+[00:06:49] every role, every process that's coming up.
+[00:06:51] So people having this approach of saying,
+[00:06:53] look, he's going to change my own way of working
+[00:06:56] for the right benefit is very important.
+[00:06:58] Third important thing I would say,
+[00:06:59] change would not come on day one,
+[00:07:01] everything would be perfect.
+[00:07:02] It will not be.
+[00:07:03] It's a gradual progression and you have to believe in this,
+[00:07:05] be with this to do that.
+[00:07:06] Like, you know, hallucination as we call, right?
+[00:07:09] When you come to process your redesign process,
+[00:07:10] sometimes, oh, something is wrong.
+[00:07:12] And I've seen example in certain banks
+[00:07:14] who took six months to do contact center,
+[00:07:16] knowledge management, transmission,
+[00:07:18] just knowledge management.
+[00:07:18] Because you know, the document that I'm using
+[00:07:21] right some document is in my head when I come back and use documents oh you know you didn't
+[00:07:25] give the right information I have so much in my head so how do you bring back the knowledge from
+[00:07:30] my head back to knowledge document that comes through agentic way of working it takes a while
+[00:07:34] so important thing in finance officer for transfer is three important things first is
+[00:07:38] set the foundation rails right with the tools technology everything has to come right
+[00:07:42] b set the right change management operative model right third is the ability to go towards it has
+[00:07:48] to come in a manner which is called lab-based work,
+[00:07:51] expansion-based work.
+[00:07:52] Lab, iteration, learnability.
+[00:07:54] Be open to some failure points, right?
+[00:07:56] Don't think they're perfect day one,
+[00:07:58] but be with this, it will just flywheel effect will come.
+[00:08:01] These to me are the three key ingredients to make it happen.
+[00:08:04] Believe in this and pace it up,
+[00:08:07] it will have flywheel effect very, very soon.
+[00:08:08] We talked about AI a lot.
+[00:08:09] What about the people aspect?
+[00:08:11] What is the impact on the workers
+[00:08:13] and this whole relationship with the machines?
+[00:08:17] So I mentioned about change management,
+[00:08:19] that's the 80% of work is change management in this case,
+[00:08:22] because the work that every individual is doing
+[00:08:25] from the old hierarchy, from the CEO office,
+[00:08:28] all the way to the lowest manager level, right?
+[00:08:30] Every job is changing completely,
+[00:08:33] the way you have to augment with AI today.
+[00:08:35] So-
+[00:08:36] That's hard for people to internalize
+[00:08:37] if it must change.
+[00:08:38] It must be internalized, right?
+[00:08:39] A financial team may understand in my job
+[00:08:43] is to only spread seeds,
+[00:08:44] and AI is going to help me in this way.
+[00:08:45] That's not enough.
+[00:08:46] about scenario planning. AI can look at the scenario plan much much faster with all the
+[00:08:50] attributes you can look at and you can augment your thinking with this. As you augment thinking
+[00:08:55] it becomes reinforcement learning now. Next time it has got the knowledge as well back into it,
+[00:08:59] right? So next time it does much better on this. So what is happening in the organization is that
+[00:09:04] first is embrace technology, AI. That's one thing to do, which is lab-based, experiment-based work
+[00:09:09] to do. Treat everyone to understand AI, not just AI at the higher level. Go down and do it yourself.
+[00:09:16] my mantra is very simple until you do it yourself you learn answer the power of ai today right for
+[00:09:21] personal use you do it then you start using proportional use as well and apply it and then
+[00:09:26] you say how much power is there the other day someone asked me a very simple example i want
+[00:09:31] to do a presentation to client and in a banking world presentation to your commercial banking
+[00:09:36] customer to your financial advisor you know private banker and i drew how do you do about it
+[00:09:41] it's an approach you get all the data put into ppt and then prepare and think through the story and
+[00:09:45] go back today you can either give it to one of the llm providers get the information back from them
+[00:09:51] it's much better story now because it has got the ingredients of all the intelligence of people have
+[00:09:55] put it and now you apply your thinking to make it further productive and you do it apply it next
+[00:10:00] time so it's a very much template driven approach going to come across but most importantly people
+[00:10:05] have to try it themselves so in every organization what we see is technology shifting very fast this
+[00:10:10] is a gap i see business is coming little later so technology of course everybody should learn
+[00:10:16] you know some of the technology which ai you know augmented technology you know get github
+[00:10:20] copilot or use devin use cloud absolutely you have to know gemini produce all the tools right
+[00:10:26] business side has to do it as well that's why viber is so important nowadays just to believe
+[00:10:30] in it i'm not saying you vibe and put into production i'm not saying that but everybody
+[00:10:34] has to know that what i should think in my head i can put on paper it could interactive let's see
+[00:10:39] how it looks like what as i get my thoughts that crush down the big time in the organization for
+[00:10:44] six months to a few weeks now but that used to be longest poll in my view of course engineering has
+[00:10:49] been solved but this part of product management needs to be a long pole which is getting shortened
+[00:10:53] now the benefit of this is what could happen in nine months or 12 months then go to market then
+[00:10:57] take another 12 months to test out the market now you can do three to six months test out three
+[00:11:01] months iterate make new features the learning is coming much faster so that's the show and tell
+[00:11:07] will help everybody learn faster and once one organization done it one group next group also
+[00:11:11] picks on third fourth you will not believe how soon it can become much faster that entire
+[00:11:16] organization is now looking at it and say how can be part of it that's the way we'll see product
+[00:11:21] management that's the way to go right yes awesome listen i really appreciate your time thank you so
+[00:11:27] much thank you so much you bet i'm jeff cavanaugh until next time keep learning and keep sharing

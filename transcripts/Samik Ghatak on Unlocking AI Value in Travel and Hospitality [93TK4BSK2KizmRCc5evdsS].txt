@@ -1,0 +1,154 @@
+[00:00:05] I'm Jeff Cavanaugh at the Infosys Knowledge Institute here at the Infosys Connect Conference in Los Angeles.
+[00:00:11] I'm glad to be here with Sivik, who leads the Infosys Travel and Hospitality area.
+[00:00:17] Good to see you.
+[00:00:17] Nice meeting you, Jeff.
+[00:00:18] You bet.
+[00:00:19] Well, given we've all traveled here, this is probably an appropriate topic.
+[00:00:25] Unlocking value in AI for travel and hospitality.
+[00:00:28] It's a crazy time for this industry.
+[00:00:31] What's top of mind for your clients as they think about where they are with AI right now?
+[00:00:36] Well, the first thing is, thank you for having me here.
+[00:00:38] The first thing, obviously, is that the travel industry loves when people travel.
+[00:00:41] So the fact that this event is happening and everybody's come here spending money on the travel industries like the airlines and the car rental companies.
+[00:00:49] Hotels.
+[00:00:50] Hotels, of course.
+[00:00:51] So that's the first thing is to make sure that people can connect because ultimately travel is about making people connect with people.
+[00:00:58] You know what?
+[00:00:59] I think COVID taught people a lesson.
+[00:01:01] That being in person and traveling, either to experience a vacation or traveling for business, it matters.
+[00:01:06] It absolutely matters.
+[00:01:07] And we've seen that, you know, people, if you go back hundreds of years, have traveled to meet other people and make friends, you know, make that personal connection.
+[00:01:17] And now with the technology and with all the things that are available to us, people still want to travel, even though you can do everything online, so to speak.
+[00:01:25] To see new experiences, to go out to places, to reach new destinations, new frontiers.
+[00:01:29] so what the travel industry is trying to make sure is that travel doesn't come in
+[00:01:34] the way of your personal aspirations your fulfillment your goals whatever it
+[00:01:37] may be and so when you think about traveling they want to make it as
+[00:01:41] frictionless as possible and technology is one big piece to make that happen and
+[00:01:45] they want to make sure that whether you shop online or you shop on Google or
+[00:01:51] whatever right you always get the best treatment you always get what you
+[00:01:55] actually want not adding more friction actually removing it yeah so the idea is that like for
+[00:02:01] example is let's say you've booked a car rental but you don't know which car you're going to get
+[00:02:06] until you reach the exact point right so technology and for that matter ai can actually help you
+[00:02:12] determine that once you land at lax you are going to get a pick of these five cars that are available
+[00:02:18] and that visibility is something that because you might need big suitcase family disability
+[00:02:25] access and and not only that you can even prescribe some of those things ahead of time
+[00:02:29] and then a digital concierge might show up and say that okay you know what this car is specifically
+[00:02:35] fitted for you and you can walk in out there and then drive it up and then that's it completely
+[00:02:40] makes experience frictionless for you so that's the blend of where technology and sort of the
+[00:02:45] that's on the experience side travel and hospitality also have a uh uh i don't know
+[00:02:51] financial ceiling they can charge before they lose people.
+[00:02:54] So getting their costs under control, despite fuel,
+[00:02:58] despite inflation, how is AI helping with that?
+[00:03:02] If you look at it historically,
+[00:03:04] companies have tried to make travel economical
+[00:03:07] to reach mass market.
+[00:03:08] If you go back to the 50s and 60s,
+[00:03:10] travel used to be only for the people who had money.
+[00:03:13] But over time, it has been democratized
+[00:03:15] and technology has helped that a lot.
+[00:03:16] And even today, the travel companies are making sure
+[00:03:19] that they're using technology very very efficiently to keep the cost under control and even with the
+[00:03:24] escalating jet fuel prices and everything else that is going on the efficiency that technology
+[00:03:29] is delivering in everyday work for example making sure that the flights are full the fares are
+[00:03:34] highly optimized the the cargo is most optimally delivered the fact that you know temperature
+[00:03:40] control in the in the inside the cabin is well maintained the fact that when they are taxiing
+[00:03:45] the runway only one engine is running and and and what cruise altitude they should fly so for every
+[00:03:50] single thing to optimize and make sure that they are doing the right things travel is essential
+[00:03:55] even in this hotel for the example i was talking to the manager and they were telling me that of
+[00:04:00] all the eight list banks only certain list banks operate at particular hours so that they can save
+[00:04:04] on fuel and then save on costs and generators and things like that so there's a lot of optimizations
+[00:04:08] that we don't see that's happening all the time and that's all being powered by technology by data
+[00:04:13] by AI and so on and so forth. Back on the care part one quick example even from last week
+[00:04:18] I accidentally left a laptop in a rental vehicle and of course very nervous about that
+[00:04:23] within a few hours was able to contact car rental agency isolate it and take care of it and I started
+[00:04:29] thinking if you didn't have tech working like that very manual who knows if you can get it back it's
+[00:04:36] It's mailed back weeks later, and so the ability to quickly pinpoint, personalize it, and make
+[00:04:42] sure that even though they're handling thousands of rentals, they could find that one.
+[00:04:47] That was one of the success stories.
+[00:04:49] Yeah, and that's just one of the so many examples that are out there.
+[00:04:53] I mean, if you see people traveling, especially on airlines, the number one concern that they
+[00:04:58] have besides the flight being on time is that they don't want to lose their bags when they
+[00:05:02] reach the destination.
+[00:05:03] so much important to every single passenger. So the airlines are making sure that they use
+[00:05:07] technology to pinpoint the exact bag if in case the bag does get missed in a tight connection
+[00:05:13] or whatever. But they have made sure that you can actually track your bag globally anywhere it is
+[00:05:19] and missed bag rates have come down dramatically. Not to reinforce your point but on the same trip
+[00:05:23] last week I had bags go because of cancellations in two different airports but was able to track
+[00:05:30] track them down the next day so at least we know where it was that's true so i felt better about
+[00:05:35] that yeah i'm glad you got the the you're able to trace it and then we'll get away and that goes to
+[00:05:39] the point that you know we are still a little bit away from where i would say the nirvana stage
+[00:05:44] where everything is perfect because we're never going to be there's always going to be weather
+[00:05:47] phenomenon and things which are outside of control and what travel is trying to do is making sure
+[00:05:52] that with technology with insights with data they're creating this what we call something
+[00:05:56] similar to what Infosys is talking about, like the Topaz framework, is an orchestration layer
+[00:06:01] which kind of operates the underlying subsystems in the best efficient way so that the travel and
+[00:06:06] the experience is delivered correctly. It's going to need to because now I think these things work
+[00:06:09] when you have a savvy traveler or a savvy person who kind of knows the questions to ask and what
+[00:06:14] to do. What about the person who might not know these things? So how can you make it more intuitive?
+[00:06:20] I think AI might be able to help there. One good example is that when people are traveling who do
+[00:06:25] not know english for example and and they are language language they're exactly and then you
+[00:06:29] know people coming into airports and they want to go through customs pick up bags or drop off bags
+[00:06:34] and things like that so every single message is being communicated on their mobile app with proper
+[00:06:38] guidance in their language and very specifically saying that okay your next connecting flight is
+[00:06:43] you know so many meters away and then go there contextualization as well it's a great point
+[00:06:48] Because, for example, LAX here, the Uber, the shared area, it's very different than every airport's different.
+[00:06:57] Some, they put you into a cattle car area, or some, it's very intuitive, but you need to make it so that isn't a big source of stress.
+[00:07:04] Yeah, and that's an interesting point because over here you see how widespread the travel industry is compared to others
+[00:07:10] because you're talking about three different service providers.
+[00:07:13] You've got the airline, which is taking you all the way to the gate.
+[00:07:16] Then you've got the airport, which actually is where you travel through.
+[00:07:18] Then you've got the transportation company, which is actually taking you from the bus to the Uber stand.
+[00:07:23] And then you've got Uber itself.
+[00:07:24] And then you've got the driver in a separate car.
+[00:07:26] So you've got all these you're trying to coordinate.
+[00:07:28] And the thing that I think we will start seeing in the very near future is that all these three or four ecosystem players
+[00:07:35] kind of share their data, share their technology, and make it easy for the traveler to actually get from the point they need to come from
+[00:07:43] the point that we need to go to in all very seamless way because you don't have to switch
+[00:07:47] between the airport app and the airline app and the uber app because it's all going to come
+[00:07:50] together we've already seen a fair degree of integration between let's say the uber and the
+[00:07:55] airline but we're also going to now see all of these three pieces come together so that you kind
+[00:07:59] of get through this process in a very serious way that's all on the rosy side what about the dark
+[00:08:04] underbelly security cyber security privacy yeah and and that's that's always keeping the the cios
+[00:08:11] and the CISOs of all these travel companies.
+[00:08:14] And we see that happen time to time.
+[00:08:16] Back 10 years ago, Starwood Hotels back then,
+[00:08:19] before they got acquired by Marriott, had a major breach.
+[00:08:21] A lot of loyalty data got out.
+[00:08:23] Since then, of course, things have improved.
+[00:08:25] And we're going to see continuously things being checked.
+[00:08:29] And now with AI and new mythos coming out,
+[00:08:32] I think there's a lot of focus to make sure that the internal systems
+[00:08:35] as well as the perimeter is well guarded so that travel data
+[00:08:38] And a lot of people have a lot of personal data about where they travel, who they travel with, things like that.
+[00:08:43] They want to keep it guarded.
+[00:08:44] And the last thing that any travel company wants to do is have a breach.
+[00:08:48] So there is always that sensitivity out there.
+[00:08:50] But the good thing is that with technology and with AI, a lot of things that were previously not possible is now possible, which is edge-based perimeter security.
+[00:09:00] What about the people?
+[00:09:00] It's a very people-oriented business.
+[00:09:02] And yet, in some industries, the concern is about AI taking over people's jobs.
+[00:09:08] Where do you see that playing out?
+[00:09:10] Yeah, so there is always going to be this dynamic between AI or technology and people.
+[00:09:16] And in some areas, like for example, contact center, I do see technology actually helping
+[00:09:21] and assisting contact center quite a bit.
+[00:09:23] So you don't have to spend during a disruption, one phone, even though you're a gold, platinum,
+[00:09:27] whatever, for hours talking to someone.
+[00:09:30] And help will be immediately available.
+[00:09:31] In most cases, it is proactive.
+[00:09:33] So it actually will send you the information most of the time.
+[00:09:35] but in other cases for example where let's say there is a real disruption and your bag is in a
+[00:09:40] pile of 10 000 bags in a heat throw you will you ai is not to the point where there is a robot which
+[00:09:46] goes and gets your bag and things like that there will be some of those elements still out there
+[00:09:50] uh but the good thing is that we are moving in the right direction uh so for example you know
+[00:09:55] in this particular hilton that we are here you could have checked a room and picked your room
+[00:09:59] ahead of time even before you showed up at the registration booth i mean those are things that
+[00:10:04] are out there which is actually making a little bit of i guess customers driving a little bit of
+[00:10:08] customer satisfaction but we are still far away from where the perfect world is but we're getting
+[00:10:13] that i think now technology is allowing people to get there i think it all comes down to the
+[00:10:17] underlying data the technology and um the the ability to make sure that the the data is such
+[00:10:23] that it can be actually worked with using the technology that is available today because travel
+[00:10:28] industry some vast amount of data i mean that is a given but how do you make use of all of that to
+[00:10:33] drive the efficient outcome that's where the real like many things in life a good foundation allows
+[00:10:38] you to do all the fun stuff that is true yeah and it's no different awesome you know i know you've
+[00:10:43] got to finish the conference thank you so much for your time thanks thank you i'm jeff cavanaugh
+[00:10:49] until next time keep learning and keep sharing

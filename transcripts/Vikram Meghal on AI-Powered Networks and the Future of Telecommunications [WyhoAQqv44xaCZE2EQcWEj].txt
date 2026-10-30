@@ -1,0 +1,132 @@
+[00:00:05] I'm Jeff Cavanaugh and the Infosys Knowledge Institute here at Infosys Connect Conference
+[00:00:09] in Los Angeles. Very happy to be joined by Victor Magal, my colleague who's in charge
+[00:00:14] of engineering services at Infosys. Hi, Jeff. Good to see you. Well, the topic of the day is
+[00:00:19] unlocking value in AI and obviously it's top of mind for people. What does it mean
+[00:00:24] in engineering services and what's top of mind in AI right now? So one thing that most of the
+[00:00:31] network part of the focus is on autonomous networks and that's the way
+[00:00:36] that most of the telcos as well as large enterprises are looking at bringing both
+[00:00:41] efficiency and intelligence into the network because as we get ready for the
+[00:00:46] AI world the intelligence will have to be embedded at different touch points so
+[00:00:50] you're embedding intelligence at various points in the telecommunications now in
+[00:00:54] the network itself and that will actually give rise to a lot of edge AI
+[00:00:58] use cases this frontier model kind of thing exactly exactly so right now AI is
+[00:01:04] more focused on cloud delivered AI which is have a big hub and you deliver
+[00:01:10] inferencing which is it's an improvement over the old days but it's only part of
+[00:01:14] the way part of yeah so once you look at really getting into edge AI and touching
+[00:01:20] every point of life that we live then it gets into more how do you embed that
+[00:01:25] that intelligence closer to the consumer and that's where the network comes into the picture
+[00:01:30] because what's between the cloud and the consumer is the network and the network needs to get more
+[00:01:35] intelligent as we go forward. Okay let's talk about the big providers you know the companies
+[00:01:40] that make the big equipment what's it mean for them? So they are actually looking at how they
+[00:01:45] can build an you know layered approach to bring intelligence into their products but also ensure
+[00:01:53] that this intelligence can be shared with other products from their
+[00:01:56] competitors or partners. That is very important. They have to be more open. They
+[00:02:00] have to be more open and TMF is driving some of that structures. What is? TMF, the
+[00:02:05] tele-management forum and they are ensuring that finally products can talk
+[00:02:10] to each other at an intelligence level rather than just at a protocol level. So
+[00:02:15] standards have to come along far enough so that you can't have these competitive
+[00:02:20] modes they have to talk to each other yeah and that's where the telcos are playing a very
+[00:02:25] important role because while we have this embedded intelligence into different products telcos don't
+[00:02:31] sell products they actually create services on top and that's what earns their revenue and they
+[00:02:37] have enough scale they can be a bit of a channel master and kind of influence influencing that
+[00:02:41] ecosystem so that's exactly the role so we are actually working with telcos in ensuring that
+[00:02:46] they can step up their autonomous network preparedness,
+[00:02:51] go from level two where most of the people are to level four.
+[00:02:55] So that journey is going to be probably a two to three year journey.
+[00:02:59] And we are actually actively taking people
+[00:03:01] from autonomous AN level two to AN level three plus.
+[00:03:06] And that's where most of the investments are going in.
+[00:03:09] The average consumer, they understand what they're able to do
+[00:03:12] on a smartphone or on a machine.
+[00:03:14] the enterprise departments they can kind of know what their capabilities are what does it really
+[00:03:19] mean to go to that next level for a network autonomous yeah so there are two ways to look
+[00:03:24] at it one is internally how do they manage these networks and that's where network planning network
+[00:03:31] engineering network operations will completely get disrupted because it will get more real-time
+[00:03:37] more autonomous so that you can react to changes in the network very quickly it's helping bad
+[00:03:43] things not happen. Not happen. What about the good things happen? Yes and it will also allow people to
+[00:03:49] from a consumer perspective let's say you are having a very critical conference call while
+[00:03:55] your kids are watching a movie. Right. Yep and you want to ensure that this traffic gets prioritized
+[00:04:02] over the gaming or the movie watching that's happening in your environment. So it isn't just
+[00:04:07] a big pipe you can actually prioritize. You can actually create that intelligence so that
+[00:04:11] you can sense that there is an important activity happening the network actually reconfigures itself
+[00:04:17] to get ready for this new stream which is coming in which is high priority but to do that
+[00:04:23] effectively you need to build intelligence into the network you need to build intelligence into
+[00:04:27] the edge where the customer premise equipment sits and then throughout the network and that
+[00:04:33] is the important part which will hit the consumers now we are just talking about consumer initiated
+[00:04:38] traffic. But tomorrow there will be a lot of automation initiated traffic. I'm thinking about
+[00:04:44] the industrial internet. Exactly. Machines. Vehicles. Yeah exactly. Vehicles, machines and
+[00:04:51] every instrument that you can imagine. Really interconnected devices. Exactly. So that's when
+[00:04:57] the ability to sense this intelligently and react to that at real time is going to become very
+[00:05:04] important the one of the bad things that uh this is the good part of it the bad part is the what
+[00:05:10] is happening with mythos and how about to get to cyber in a moment yeah let's talk about security
+[00:05:15] yeah so actually if you look at it networks are becoming a critical infrastructure for any country
+[00:05:21] and that's where you know the rate at which these are going to be attacked in the future
+[00:05:27] is going to go up and you need to have that ability to you know automatically isolate certain
+[00:05:34] sections of the network to understand what is causing this attack or impact right and that is
+[00:05:41] what again inclusion networks will be able to do rather than you know having a human-led interaction
+[00:05:47] or intervention to isolate some of those components how do you automatically isolate
+[00:05:53] certain sections of the network while you analyze what is causing that attack and then quickly
+[00:05:59] react to that. So that complete change means you need more autonomous functions into your network.
+[00:06:05] And that's exactly what building intelligence is all about. Talking about the tech side,
+[00:06:10] the consumer side, what about the employees? As all these agents and all this capability comes in,
+[00:06:17] is it a threat to their employment? Do they get to have more capabilities? What's going to happen?
+[00:06:21] the one thing is that their ways of working are going to change and that's where what we are
+[00:06:28] looking at is how do you take the tech plus ops together rather than just building beautiful tech
+[00:06:34] which never gets adopted right so the focus is on network operations for example how do you do both
+[00:06:41] the technology and drive the adoption at the same pace and that means you know it's not only about
+[00:06:47] adopting tools which used to be what automation did this is about reimagining the way you do the
+[00:06:52] work the question to be asked is does a human need to do this or can it be can it be delegated to a
+[00:06:59] machine or an agent right and that is driving the change so that reimagination is going to actually
+[00:07:07] bring new roles into the for example network ops area it's obviously going to you know challenge
+[00:07:14] some of the existing skills people will have to build new skills there and over time it will
+[00:07:20] actually help the humans to focus on more of the creative part of it on how do you add more
+[00:07:27] security layers for example rather than fixing problems which are mundane right so that's where
+[00:07:35] we i think it's going it will impact uh you know the skills part people who can actually write this
+[00:07:42] learn from this and adopt this faster,
+[00:07:45] we'll actually have a great future ahead.
+[00:07:49] He's talking gratefully,
+[00:07:49] because you and I have known each other for decades,
+[00:07:51] from a couple of decades,
+[00:07:52] and the operating model for telcos
+[00:07:54] and everyone in between has shifted
+[00:07:57] from being very profitable to fighting for existence.
+[00:08:01] And where is the value created?
+[00:08:03] Where is it captured?
+[00:08:04] And who gets to keep it?
+[00:08:06] Who are the winners and losers
+[00:08:07] going to be in the next few years?
+[00:08:09] I think the telcos which are going to look at AI as an opportunity to provide more services.
+[00:08:17] For example, a lot of countries are looking at sovereignty as a very important aspect, right?
+[00:08:23] And telcos are the natural nation builders in these smaller countries.
+[00:08:28] They are their utility now of some kind.
+[00:08:30] Exactly. And they are a critical utility. Yes, you're right.
+[00:08:34] Intelligent utility.
+[00:08:35] Yes. So I think that is a natural path that telcos can take. Because if you look at the entire IoT era, the over-the-top players to call the revenue and the money, and the telcos saw very little of that. And, you know, I think this is the time when telcos can actually focus on how do they build meaningful intelligence, which can be priced.
+[00:08:59] And no political support because the sovereignty comes in.
+[00:09:01] Exactly. And that's where I think everyone is getting smarter about how their data can be used and how it can be restricted.
+[00:09:09] And the telcos have proven to be the keepers of critical data over the ages.
+[00:09:14] So I think that's the role they need to enhance and focus on.
+[00:09:18] And that will lead to more revenue accumulation for them.
+[00:09:21] Given your role and your vantage point with all these things that are going on at Infosys,
+[00:09:26] What's the one thing that telco leaders and network leaders should think about the next nine months or so to get through this?
+[00:09:33] I think they have to look at a three-pronged strategy.
+[00:09:38] Number one, they have to embrace AI to ensure that they can take out costs from network operations, planning, design, running their existing systems.
+[00:09:49] Because they have a lot of legacy because network technology was built across generations.
+[00:09:54] so you just went on building one above the other right so that legacy is not going to go away so
+[00:10:00] they have to use ai to ensure that they can manage this very effectively right but at the same time
+[00:10:06] they have to think about building new capabilities at the speed of customer expectation see
+[00:10:12] consumers are expecting things to happen immediately because they are used to that
+[00:10:18] in their day-to-day operations or day-to-day life now if telcos can't match that pace
+[00:10:23] then they will actually look for other options and which will actually mean you know erosion of
+[00:10:30] telco bandwidth for example ott tv actually taking over what used to be paid tv right
+[00:10:37] it's just because the pace of change was so slow so i think telcos have to have this dual speed
+[00:10:42] strategy one is take the cost out of the legacy manage that in a very efficient way but build the
+[00:10:49] you very rapidly with the agility that AI makes it happen.
+[00:10:54] I hear duality, a phrase coming up a lot, bi-modal duality.
+[00:10:58] Listen, Vikram, as you get a lot to on here,
+[00:11:01] thanks for your insights. Great talking with you.
+[00:11:03] Thanks, Jeff.
+[00:11:04] Thank you.
+[00:11:05] Pleasure.
+[00:11:05] I'm Jeff Cavanaugh. Until next time,
+[00:11:07] keep learning and keep sharing.

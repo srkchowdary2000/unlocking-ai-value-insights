@@ -1,0 +1,244 @@
+1
+00:00:08,400 --> 00:00:14,039
+I'm Jeb Cavanaugh, head of the Infosys Knowledge Institute, and we're here at Infosys Connect Conference in Los Angeles.
+
+2
+00:00:14,539 --> 00:00:18,140
+Here with our CEO for Infosys, Salil. Thank you so much for joining us.
+
+3
+00:00:18,260 --> 00:00:19,920
+Thanks, Jeff, and thanks for having me here.
+
+4
+00:00:20,000 --> 00:00:25,059
+We're here to talk about unlocking value from AI, and I know it's a nice, high-sounding message,
+
+5
+00:00:25,579 --> 00:00:29,820
+but it's got some very real kind of an edge to it that we need to get into.
+
+6
+00:00:30,559 --> 00:00:37,280
+What is it now that beyond the basics that people have been thinking about for a while that's top of mind for senior leaders?
+
+7
+00:00:38,000 --> 00:00:42,780
+So today, I think what I hear when I talk to our clients, CEOs and senior executives
+
+8
+00:00:42,780 --> 00:00:52,320
+is how can they translate the enormous potential of AI into what can benefit their company.
+
+9
+00:00:52,439 --> 00:00:54,560
+There are two massive dimensions.
+
+10
+00:00:55,159 --> 00:00:58,840
+One is how can they do new things that can help them grow faster?
+
+11
+00:00:58,840 --> 00:01:03,579
+And there are several areas in that where we are helping our clients,
+
+12
+00:01:03,579 --> 00:01:10,060
+for example building things that can assess and target a set of clients
+
+13
+00:01:10,060 --> 00:01:16,900
+customers much more narrowly and allow them to get the customers to buy their
+
+14
+00:01:16,900 --> 00:01:22,959
+product that they really want at that time can scale it up and then the second
+
+15
+00:01:22,959 --> 00:01:27,620
+question is how can they make things more efficient across the organization
+
+16
+00:01:27,620 --> 00:01:32,379
+how can they do things faster how can customer service improve how can other
+
+17
+00:01:32,379 --> 00:01:38,760
+the stats improve. And there again, we have a set of areas where we can help, whether it's by
+
+18
+00:01:38,760 --> 00:01:43,140
+building agents, whether it's by looking at customer service, whether it's by looking at
+
+19
+00:01:43,140 --> 00:01:49,060
+supply chain processes, making all of those improve in the quality that they're looking for.
+
+20
+00:01:50,000 --> 00:01:55,079
+That's a great way of describing I'll call it efficiency in the process. Thinking about a
+
+21
+00:01:55,079 --> 00:02:00,579
+senior executive perspective, this has profound implications on operating model, capital
+
+22
+00:02:00,579 --> 00:02:07,540
+structure and even what the long-term value of a company is what should senior leaders be thinking
+
+23
+00:02:07,540 --> 00:02:15,060
+about from that perspective so there i think many many of our clients are already in discussions
+
+24
+00:02:15,060 --> 00:02:22,020
+internally with their leadership teams with their boards looking at what is the step function change
+
+25
+00:02:22,020 --> 00:02:29,939
+they can drive by using this and there a lot of it is making sure the ai works within that culture of
+
+26
+00:02:29,939 --> 00:02:37,460
+the organization making sure they can make that change by deploying it with speed today so the
+
+27
+00:02:37,460 --> 00:02:46,180
+idea really is use the ai capabilities whether it's foundation models whether it's the platforms
+
+28
+00:02:46,180 --> 00:02:53,460
+on top of them and scale up as quickly as you can many companies are also rethinking completely
+
+29
+00:02:53,460 --> 00:03:00,819
+their approach because there are areas where you could do things in days and hours and minutes
+
+30
+00:03:00,819 --> 00:03:06,580
+which were taking weeks and months and so that changes the way you can approach a certain area
+
+31
+00:03:06,580 --> 00:03:11,060
+of your business so those are the sorts of discussions that our clients are having
+
+32
+00:03:11,060 --> 00:03:17,939
+and we are in a fortunate position to support them our own work with ai is a large percentage
+
+33
+00:03:17,939 --> 00:03:23,539
+of our business, growing very fast, and in six broad areas where we can provide these services.
+
+34
+00:03:24,580 --> 00:03:31,919
+It's interesting you mention culture because you have to also think about people and culture in
+
+35
+00:03:31,919 --> 00:03:37,219
+our own company. What's the approach you've taken at a 300,000 person company ourselves and what
+
+36
+00:03:37,219 --> 00:03:43,939
+might a lesson be for others? So here we've taken an approach where essentially we are re-skilling
+
+37
+00:03:43,939 --> 00:03:52,340
+all of our teams with the new AI, both foundation model and toolkits, and there's a huge array of
+
+38
+00:03:52,340 --> 00:03:59,219
+them out there today. So our approach, for example, last year, we recruited about 20,000 college
+
+39
+00:03:59,219 --> 00:04:04,659
+graduates. We are continuing to recruit and grow. We are not planning layoffs. We are doing things
+
+40
+00:04:04,659 --> 00:04:10,300
+which will reskill our employees, and this is a longer-term approach within Infosys. This is an
+
+41
+00:04:10,300 --> 00:04:16,500
+approach we believe is the right approach. A lot of our people have deep insights into what clients
+
+42
+00:04:16,500 --> 00:04:22,939
+know. It's now a question of using those insights with new tools and technologies which are massively
+
+43
+00:04:22,939 --> 00:04:29,139
+productive but also massively different and then learn new skills so some of the tasks that they
+
+44
+00:04:29,139 --> 00:04:34,480
+were doing in the past can be done more efficiently and they can do new tasks with all the context
+
+45
+00:04:34,480 --> 00:04:40,759
+experience for the clients. It's taken a long-term view converting it into to
+
+46
+00:04:40,759 --> 00:04:45,079
+borrow from Jim Collins a flywheel concept it continually reinforces and
+
+47
+00:04:45,079 --> 00:04:50,100
+makes it better. No absolutely and I think we feel quite good at where we are
+
+48
+00:04:50,100 --> 00:04:57,360
+we've defined six broad areas for example AI engineering building agents
+
+49
+00:04:57,360 --> 00:05:03,720
+code modernization other areas which are growing rapidly and those areas with
+
+50
+00:05:03,720 --> 00:05:10,360
+this flywheel that you mentioned allow us to go faster and faster with ar i keep hearing that
+
+51
+00:05:10,360 --> 00:05:16,040
+emphasis on speed if you had one thing to say to your peers out there that are companies what
+
+52
+00:05:16,040 --> 00:05:22,600
+should they be thinking about at a strategic level to drive this i think here my sense is
+
+53
+00:05:22,600 --> 00:05:30,120
+the technology is already proven itself there are huge innovations especially here in the us
+
+54
+00:05:30,120 --> 00:05:36,920
+which can be leveraged across all businesses so to me this is the time to actually get in
+
+55
+00:05:36,920 --> 00:05:43,639
+and do these things at scale as you do them as our clients do them there will be ups and downs
+
+56
+00:05:43,639 --> 00:05:48,279
+but when you have a partner like infosys you can sort of ride that and make sure you can deliver
+
+57
+00:05:48,279 --> 00:05:53,879
+well and you'll be learning along the way absolutely it's ongoing the learning for them
+
+58
+00:05:53,879 --> 00:05:59,319
+and building on our sort of topaz fabric all the skills we can bring to them awesome so thank you
+
+59
+00:05:59,319 --> 00:06:02,639
+Thank you so much for your time and thanks very much for doing this.
+
+60
+00:06:02,639 --> 00:06:03,639
+I'm Jeff Cavanaugh.
+
+61
+00:06:03,639 --> 00:06:06,000
+Until next time, keep learning and keep sharing.
+

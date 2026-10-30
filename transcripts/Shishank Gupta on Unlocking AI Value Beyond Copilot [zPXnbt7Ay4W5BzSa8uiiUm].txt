@@ -1,0 +1,139 @@
+[00:00:06] I'm Jeff Cavanaugh, here at the Infosys Connect Conference in Los Angeles.
+[00:00:11] Here with Shasank Gupta, head of Microsoft Practice.
+[00:00:14] Good to see you.
+[00:00:14] Likewise, Ziv.
+[00:00:16] Interesting, important topic.
+[00:00:18] Obviously, it sits in our sessions.
+[00:00:21] Unlocking value in AI.
+[00:00:22] And I think that your area is perhaps not overlooked, but not fully appreciated because
+[00:00:28] of the pervasiveness of all the Microsoft ecosystem.
+[00:00:32] So where do you see AI making the big impact?
+[00:00:36] Now, AI has been there for the last couple of years.
+[00:00:39] Yeah, Copilot.
+[00:00:41] Everyone's been using it.
+[00:00:42] But as you rightly said, Copilot,
+[00:00:44] your focus in the last few years has always been about employee productivity.
+[00:00:47] How can I make things faster for employees,
+[00:00:49] summarize emails, meetings, and so on and so forth?
+[00:00:52] I've always believed that that's just the starting point of unlocking productivity
+[00:00:56] or AI value, not the endpoint.
+[00:00:59] And what we are seeing now, the conversations now,
+[00:01:01] is about how AI can make an impact to the business,
+[00:01:04] which is about how can I take the learnings from productivity for users to really unlock value on
+[00:01:09] the business processes and what the business does in terms of generating revenue, reducing cost,
+[00:01:14] improving regulatory compliances, and so on. So that, to me, is the real unlocking of AI value.
+[00:01:21] What Copilot did, or tools like Copilot did, was getting users more comfortable with using AI
+[00:01:26] technology, but that by itself was not sufficient. So I think now with the Gentic AI coming in,
+[00:01:30] that is where the true unlock will happen.
+[00:01:33] It's interesting you mention that.
+[00:01:35] What do you see with agentic AI coming in now
+[00:01:38] as a new form of, an elevated form of AI?
+[00:01:42] What is the non-technical change
+[00:01:44] it's bringing about in these environments?
+[00:01:46] So the key thing what agentic AI is trying to do
+[00:01:48] is not just help people do what they were doing before
+[00:01:53] faster and more efficiently.
+[00:01:54] It is helping users and businesses
+[00:01:57] to reimagine the way work was done.
+[00:02:00] way business processes were done create new business processes create new insights that
+[00:02:05] were possibly impossible for humans to do it or would take such a long time that the impact of
+[00:02:11] business it would have when people did it manually was minuscule so in that sense what agentiki is
+[00:02:17] doing is really as i said unlocking value in information and data that existed in using that
+[00:02:22] more efficiently and using what you already have to create new ways of working new processes new
+[00:02:28] business flows workflows so that their business can be reimagined you know when
+[00:02:33] you think about enterprise AI and some of these tools and models it's sometimes
+[00:02:39] hard to imagine at the individual level but in the world of the mic of Microsoft
+[00:02:44] you can already imagine we use Excel and PowerPoint and all these tools and an
+[00:02:49] outlook what is this bottoms-up dimension this very familiar dimension
+[00:02:54] that love these tools have how is that going to help them maybe accelerate
+[00:02:57] adoption for ai so we've spoken about the value of ai coming in from the context context and i think
+[00:03:04] the important part with microsoft that we get is all of us as users in fact most users across the
+[00:03:09] world are on microsoft technologies right word excel outlook sharepoint onedrive and that is a
+[00:03:15] lot of user information and context tied to it is also the organization context in which it operates
+[00:03:21] because i spoke about sharepoint and access privileges and so on and with windows as an
+[00:03:25] an operating system you know access permissions privileges roles and so on and so forth and teams
+[00:03:31] being a good collaboration channel over the recent past now that context when you put it in any AI
+[00:03:37] tool and obviously Microsoft would want to talk about co-pilot but for that matter any AI tool
+[00:03:42] that context gives a huge leverage to an organization to now create personalized journeys
+[00:03:48] for users to do their their jobs better because you can create persona specific AI solutions
+[00:03:54] Somebody working in operations can create tools and workflows that are specific to them.
+[00:03:58] Somebody working on sales and marketing can use CRM data more contextually.
+[00:04:03] Somebody doing research can use research tools on AI on data that they have permission to do
+[00:04:08] their work better. So that becomes very, very relevant and powerful.
+[00:04:12] I was just thinking that although these models were initially put out there are so important,
+[00:04:20] And really, the models will come and go, but your context and your data, that's in the company.
+[00:04:25] And Microsoft's pretty close to that.
+[00:04:26] Absolutely.
+[00:04:27] I think the models will do things that are standard and static or largely known to the universe.
+[00:04:32] Maybe they'll become a utility over time.
+[00:04:33] But the context is going to come from specific organization and user behavior.
+[00:04:36] That's your IP as well.
+[00:04:37] That's your IP.
+[00:04:38] And I think that's where the Microsoft technologies play a key role because they're so pervasive in the workplace space.
+[00:04:43] I think they really have an edge.
+[00:04:44] Now, it's up to them to leverage that more efficiently.
+[00:04:47] But I think they do have an edge in terms of the access and data.
+[00:04:49] because data is important and critical in AI adoption and scaling AI.
+[00:04:54] The fact that Microsoft products and systems are so embedded,
+[00:04:59] do you think it gives them a head start or a leg up in the privacy and cyber concerns?
+[00:05:03] It does. In fact, Microsoft ecosystem, I think, is very well placed
+[00:05:06] because if you look at the products they have,
+[00:05:08] they have products on user productivity, which is Teams and Outlook and so on.
+[00:05:12] They have products in the data space, which is Fabric.
+[00:05:15] They have tools in the space of cybersecurity,
+[00:05:20] which is Burview and Defender.
+[00:05:22] They are one of the hyperscalers with Azure.
+[00:05:24] So they have access to all the information
+[00:05:26] and the workflows and things that happen.
+[00:05:29] So it does give them a heads up
+[00:05:30] against most other organizations
+[00:05:32] who are either in the space of just creating a model
+[00:05:34] or are only hyperscalers, are only having ERP.
+[00:05:38] So they are limited.
+[00:05:39] But Microsoft is, by the way, I forgot Dynamics,
+[00:05:41] which is their ERP and CRM product as well.
+[00:05:42] No doubt.
+[00:05:43] So they do have a real head start in terms of the ecosystem in which they play.
+[00:05:48] Now, as I said, can they make the most of it is for time to tell, but they do have a head start.
+[00:05:53] Taking one step outward, you also have responsibility for what you call workplace services, digital workplace.
+[00:06:00] What does that encompass and how is AI playing a role there?
+[00:06:04] So digital workplace services is all about right from the first experience an employee has when he or she joins an organization,
+[00:06:10] whether it is their onboarding process into an organization all through their training their
+[00:06:16] learning processes what accesses they have the devices that they use management of those devices
+[00:06:21] management of all the services that they use in every and the entire ticketing process the
+[00:06:26] experience that comes with it so all of that is digital workplace services now what ai does is
+[00:06:31] really improve that experience multi-fold because a lot of those things which are human dependent
+[00:06:37] prone to error not learning from past can all be eliminated with AI a lot of
+[00:06:43] these things are self-help today they learn from context of the employee of
+[00:06:46] the organization they have real-time access to changes and policies and
+[00:06:50] permissions so it is far more different from what it used to be before and we
+[00:06:55] see that for our clients we are helping our clients to reimagine their workflows
+[00:06:59] when when users are onboarding the learning journeys are much more
+[00:07:03] personalized and customized basis their preferences their patterns their role
+[00:07:07] personas and so on. When they raise a ticket, most times tickets are auto-raised for them or
+[00:07:12] they are able to self-heal and solve the problems themselves before having to go to an agent.
+[00:07:18] Looking in this part of the business, what do you see is the most important item 9 to 12 months out
+[00:07:22] that if you can get it right will really increase AI adoption and value?
+[00:07:27] If you look at it from an organization perspective, the most obvious thing that comes
+[00:07:32] to mind is reduction in cost. However, I think it's not just the cost element. Cost will get
+[00:07:36] reduced with automation and agents. I think the consistency of experience, making sure that the
+[00:07:42] latest information is used all the time, the learning is much more broader and based on data
+[00:07:47] and not individuals who are servicing those things, those are going to be very significant
+[00:07:52] changes that will happen. And that will have a very positive impact on the experience of the users.
+[00:07:56] And when the users experience the positive impact of AI, they are more likely to use
+[00:08:02] AI for their own work because they see it works.
+[00:08:04] Kind of the last question, what do you see the role of humans as this progresses
+[00:08:10] and their relationship with these agents and robots?
+[00:08:13] I think today, if you think of the junior roles that we had and people talk about
+[00:08:18] roles will go away, I think they will get redefined.
+[00:08:22] They will all have buddies and agents to work with.
+[00:08:25] So now they become the people who are creating those, guiding them, maintaining them, making
+[00:08:30] sure they don't go rogue and making those final adjustments as they go along i also believe the
+[00:08:36] the uh the roles in the organization will now become more as i said mentors and guides to these
+[00:08:41] agents and teams rather than just doers of what they were doing before so it will be different
+[00:08:48] there will still be a manual effort but progressively that will go down and most
+[00:08:51] people will start to to feel more comfortable working with agents as their buddies rather than
+[00:08:57] looking at it as a competition right now and because they're already familiar with the tools
+[00:09:01] maybe that will increase adoption and they'll feel better about it as well absolutely all right thanks
+[00:09:06] you so much for your time thank you very much this jeff cavanaugh till next time keep learning
+[00:09:12] and keep sharing

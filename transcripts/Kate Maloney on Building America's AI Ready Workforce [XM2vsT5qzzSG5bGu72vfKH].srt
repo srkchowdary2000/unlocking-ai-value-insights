@@ -1,0 +1,616 @@
+1
+00:00:05,040 --> 00:00:10,560
+I'm Jeff Kavanaugh, here at the Emphasis Connect Conference in Los Angeles, here with Kate Maloney.
+
+2
+00:00:10,679 --> 00:00:11,539
+Great to see you, Kate.
+
+3
+00:00:11,720 --> 00:00:12,859
+Thanks for having me.
+
+4
+00:00:13,019 --> 00:00:18,620
+Yes, Kate leads the Emphasis Foundation USA, and always lovely to speak.
+
+5
+00:00:19,000 --> 00:00:26,239
+And today we'll talk about unlocking value from AI in a foundational kind of way.
+
+6
+00:00:27,379 --> 00:00:34,060
+First of all, what are you seeing now with our foundation and helping learners, especially learn AI?
+
+7
+00:00:34,060 --> 00:00:42,539
+Thank you for asking the question. We've been working historically with the K-12 population,
+
+8
+00:00:42,880 --> 00:00:49,520
+so that was teachers and students. But now we are evolving to looking at the talent needs of
+
+9
+00:00:49,520 --> 00:00:53,439
+industry and how we get them AI ready. So we've been...
+
+10
+00:00:53,439 --> 00:00:56,719
+The college age, first job, older workers...
+
+11
+00:00:56,719 --> 00:00:57,539
+The whole spectrum.
+
+12
+00:00:57,619 --> 00:00:57,920
+Everything.
+
+13
+00:00:57,920 --> 00:01:05,219
+So we've added a new pillar to our mission, which is workforce readiness, talent development.
+
+14
+00:01:05,260 --> 00:01:08,799
+Honestly, it's been missing, but I understood you had to build a good base first.
+
+15
+00:01:09,000 --> 00:01:16,340
+We had to build a base, and I feel like the foundation's work has evolved with where the United States has been.
+
+16
+00:01:16,840 --> 00:01:22,640
+Ten years ago when we were started, there was limited exposure to computer science education.
+
+17
+00:01:23,140 --> 00:01:28,200
+Now we've made some leaps and bounds, and now, as we know from working with our clients,
+
+18
+00:01:28,700 --> 00:01:34,159
+they are all focused on AI-ready talent, the skill sets people are coming in with,
+
+19
+00:01:34,159 --> 00:01:37,480
+and then how they're going to keep re-skilling them once they're hired.
+
+20
+00:01:37,760 --> 00:01:39,560
+And that's the lane we're pushing into.
+
+21
+00:01:40,040 --> 00:01:46,299
+So I've told leadership at Infosys it might take a second for us to start to see the results,
+
+22
+00:01:46,760 --> 00:01:51,359
+but what we are ambitiously trying to do is change lives through economic mobility,
+
+23
+00:01:51,359 --> 00:02:01,379
+jobs apprenticeships micro internships really be in this immediate really learning to career
+
+24
+00:02:01,379 --> 00:02:07,439
+spectrum so we hold on a little bit to the k-12 we're still working with teachers because they
+
+25
+00:02:07,439 --> 00:02:13,560
+are like the power force in the u.s and they are helping us reach students and inspire them at a
+
+26
+00:02:13,560 --> 00:02:19,860
+young age but then we really are trying to show impact in metrics that are around job creation
+
+27
+00:02:19,860 --> 00:02:28,780
+Well, that's exciting. Before we leave that one, I just want to highlight you had this goal of reaching 10 million learners. Have you made that yet?
+
+28
+00:02:28,780 --> 00:02:38,620
+We just finished the year and we can claim 1.2 million students reached by our work and over 16,000 teachers.
+
+29
+00:02:38,620 --> 00:02:50,500
+So I feel like that's an impressive number or a foundation, but it speaks to emphasis and the value they give to lifelong learning and human capital development.
+
+30
+00:02:50,500 --> 00:03:00,819
+So we are reaching those millions and thousand metrics each year and really trying to be transformational.
+
+31
+00:03:01,479 --> 00:03:03,319
+And we're getting ready this summer.
+
+32
+00:03:03,639 --> 00:03:08,340
+One of our best programs is an institute that we run, and this will be our ninth year.
+
+33
+00:03:08,919 --> 00:03:09,259
+Pathfinders?
+
+34
+00:03:09,419 --> 00:03:10,979
+The Pathfinders Summer Institute.
+
+35
+00:03:11,520 --> 00:03:15,199
+Everyone knows us for Emphasis Springboard, which I'd love to tell you about.
+
+36
+00:03:15,199 --> 00:03:21,460
+But our Pathfinders Institute, this summer we'll have 1,600 teachers from across the U.S.
+
+37
+00:03:21,759 --> 00:03:23,759
+So you're teaching those to teach others.
+
+38
+00:03:24,020 --> 00:03:29,139
+We are teaching those who are ready to bring computer science and AI into the classroom.
+
+39
+00:03:29,939 --> 00:03:38,259
+There are still pockets of the U.S. which are reticent to bringing AI into student classrooms and with teachers.
+
+40
+00:03:38,520 --> 00:03:43,199
+But we are advocates of being inspired by what AI can do.
+
+41
+00:03:43,199 --> 00:03:50,400
+So we are trying to advocate for those barriers to come down, and that's what we'll be doing June through August.
+
+42
+00:03:51,080 --> 00:03:58,139
+I was emphasizing that because as you look towards workforce readiness, these two aspects of the foundation,
+
+43
+00:03:58,340 --> 00:04:06,719
+reaching millions of learners in the U.S. and other places as far as with the platforms, like Springboard and our learning systems,
+
+44
+00:04:06,719 --> 00:04:10,740
+and the in-person helping teachers teach better,
+
+45
+00:04:11,219 --> 00:04:13,639
+what better way to then move up to the next level
+
+46
+00:04:13,639 --> 00:04:15,020
+with these more adult learners?
+
+47
+00:04:15,699 --> 00:04:17,220
+And it's true.
+
+48
+00:04:17,459 --> 00:04:20,360
+I know when leadership from Infosys,
+
+49
+00:04:20,540 --> 00:04:23,279
+those who support me and the work that we do,
+
+50
+00:04:23,680 --> 00:04:25,800
+want to be so transformational
+
+51
+00:04:25,800 --> 00:04:28,420
+with those who are pursuing those first jobs
+
+52
+00:04:28,420 --> 00:04:29,680
+or they're going to be disrupted
+
+53
+00:04:29,680 --> 00:04:31,740
+and need to find a different job
+
+54
+00:04:31,740 --> 00:04:33,899
+or perhaps they were in military service
+
+55
+00:04:33,899 --> 00:04:36,139
+and they're pursuing a civilian job.
+
+56
+00:04:36,720 --> 00:04:43,040
+uh we can't abandon what's happening in the classrooms k-12 and community colleges otherwise
+
+57
+00:04:43,040 --> 00:04:48,560
+we've got a pipeline it's a talent pipeline yeah and so that full spectrum we're probably shifting
+
+58
+00:04:48,560 --> 00:04:56,319
+the priority and the balance a little bit since k-12 has evolved enough and there are many actors
+
+59
+00:04:56,319 --> 00:05:01,439
+there and we're trying to push ahead along with many of our clients who are facing the same work
+
+60
+00:05:02,399 --> 00:05:08,800
+that same challenge we're also trying to bring opportunities for people who might be studying
+
+61
+00:05:08,800 --> 00:05:15,360
+cyber security or data science or ai we're trying to bring them into Infosys with our clients
+
+62
+00:05:15,360 --> 00:05:21,040
+give them some mentorship give them a real life challenge we just finished one with a large energy
+
+63
+00:05:21,040 --> 00:05:30,000
+company and we said the utility grid is under a cyber attack what would you do using ai to find
+
+64
+00:05:30,000 --> 00:05:35,600
+solutions to mitigate what has happened and these community college students were out of this world
+
+65
+00:05:35,600 --> 00:05:41,839
+with their ideas and out of the program too got job offers just from having gone through the
+
+66
+00:05:41,839 --> 00:05:50,079
+program so in both ambitious and humble ways we're trying to work across government non-profit
+
+67
+00:05:50,079 --> 00:05:56,079
+industry academia to really make a difference i'm glad you brought up the community colleges
+
+68
+00:05:56,079 --> 00:06:01,959
+because there's such an important link between the local and you know things we hear you know
+
+69
+00:06:01,959 --> 00:06:07,899
+AI and global one of the areas I'm real interested in along these lines is is almost building on the
+
+70
+00:06:07,899 --> 00:06:14,459
+apprentice model in the area of physical AI because you have those electricians and plumbers
+
+71
+00:06:14,459 --> 00:06:19,959
+basically people doing something physical construction and yet now you're adding AI and
+
+72
+00:06:19,959 --> 00:06:24,740
+other job skills to it can you comment at all about some of the things we're doing well that's
+
+73
+00:06:24,740 --> 00:06:31,339
+an area we're looking to move into. One of our partners outside of Washington, D.C. was working
+
+74
+00:06:31,339 --> 00:06:38,720
+with that exact population and recognizing they needed to upskill. This new year, which we've just
+
+75
+00:06:38,720 --> 00:06:45,680
+kicked off a few weeks ago, we're trying to find the non-profit partners who are at the most local
+
+76
+00:06:45,680 --> 00:06:51,600
+level working with those populations. So we keep bringing them springboard, back to Infosys
+
+77
+00:06:51,600 --> 00:06:58,500
+springboard as an online learning program it is it's a platform that we say it's next gen
+
+78
+00:06:58,500 --> 00:07:04,699
+it's absolutely no cost tailored individuals tailored we have micro sites that are developed
+
+79
+00:07:04,699 --> 00:07:11,819
+for particular populations white labeled yeah and we can do yes i love having internal advocates or
+
+80
+00:07:11,819 --> 00:07:18,779
+ambassadors of our work so if we can shape individual curated content right now there
+
+81
+00:07:18,779 --> 00:07:25,540
+are 13,000 offerings. That's super intimidating to someone. So we're trying to pull, it's like
+
+82
+00:07:25,540 --> 00:07:31,480
+off the digital shelf to have some content they can get started with. And once they can show a
+
+83
+00:07:31,480 --> 00:07:36,959
+certificate of completion and boast that on LinkedIn, which is great for us as well as them,
+
+84
+00:07:37,600 --> 00:07:44,279
+then that platform becomes something in their pocket and they can keep upskilling. Our partner,
+
+85
+00:07:44,279 --> 00:07:50,360
+Skillsoft, who gives us the majority of the content that's there, they are also updating
+
+86
+00:07:50,360 --> 00:07:55,839
+on a monthly basis the offerings. So we are staying current with evolution. That's what's
+
+87
+00:07:55,839 --> 00:08:01,279
+so important because universities struggle to have that kind of evolution. So in little, you know,
+
+88
+00:08:01,279 --> 00:08:08,660
+small ways, like I say, we're trying to add or amplify what community colleges are doing.
+
+89
+00:08:08,660 --> 00:08:14,160
+but having these they're almost like mini internships they're maybe six to eight weeks
+
+90
+00:08:14,160 --> 00:08:21,100
+at a time but they are actual challenges faced by industry that community college students can
+
+91
+00:08:21,100 --> 00:08:26,100
+then go talk about for a job interview or a placement their projects i call them a bullet
+
+92
+00:08:26,100 --> 00:08:31,399
+on the resume they're a line item yeah they are and and they will say being able to just give that
+
+93
+00:08:31,399 --> 00:08:37,519
+one example can change the trajectory of their opportunity they don't all have many are first
+
+94
+00:08:37,519 --> 00:08:44,539
+generation families. And they don't have the social capital to call someone to open a door
+
+95
+00:08:44,539 --> 00:08:49,120
+to get a fancy internship. No one really experiences either. And besides, the longer
+
+96
+00:08:49,120 --> 00:08:54,860
+internships, even for those going to these good schools, I have a nephew. He's in the second or
+
+97
+00:08:54,860 --> 00:08:59,539
+third year of aerospace engineering. And the line for some of the good internships, it's not until
+
+98
+00:08:59,539 --> 00:09:04,639
+he's a junior before he even gets one. And he does have the social capital. And there's that.
+
+99
+00:09:04,639 --> 00:09:09,559
+and also I think about the profile of the community college learner. They have a good job
+
+100
+00:09:09,559 --> 00:09:14,659
+and they're learning and they have families, so they can't necessarily go off the grid
+
+101
+00:09:14,659 --> 00:09:21,419
+for months at a time. These little micro moments also leverage the talent of Infotions.
+
+102
+00:09:22,080 --> 00:09:27,500
+We're always thinking about how do we bring the best of Infosys to bear and it's all of our
+
+103
+00:09:27,500 --> 00:09:33,740
+employees. So we're also trying to match those who want to volunteer with opportunities that
+
+104
+00:09:33,740 --> 00:09:39,740
+use their skills i know i'm a little biased but uh i think the volunteer spirit with an emphasis
+
+105
+00:09:39,740 --> 00:09:46,299
+employees it's it's pretty amazing they really want to help others they're my i have a booth
+
+106
+00:09:46,299 --> 00:09:51,740
+here today and the majority of people come over and they say how do i get involved how do i give
+
+107
+00:09:51,740 --> 00:09:58,700
+back depends on the time of the fiscal year when they can if we are reporting end of the quarter
+
+108
+00:09:58,700 --> 00:10:02,539
+or they're focused on an important client deliverable, that comes first.
+
+109
+00:10:03,240 --> 00:10:06,259
+But most, we have a good group of CSR champions
+
+110
+00:10:06,259 --> 00:10:10,679
+who are constantly keeping the pipeline of opportunity together.
+
+111
+00:10:10,679 --> 00:10:15,259
+And we really are trying to do these beyond business partnerships with our clients.
+
+112
+00:10:15,500 --> 00:10:20,080
+Again, it's leveraging what we both do well and giving back together.
+
+113
+00:10:20,679 --> 00:10:23,700
+Texas is really where we're wanting to lean in.
+
+114
+00:10:23,700 --> 00:10:28,539
+There are connections with universities, hyper-local organizations.
+
+115
+00:10:28,539 --> 00:10:31,059
+Being in that office, there's a lot of opportunity for sure.
+
+116
+00:10:31,580 --> 00:10:33,120
+Well, I have to tip my hat.
+
+117
+00:10:33,220 --> 00:10:34,639
+I do have someone on my team.
+
+118
+00:10:34,860 --> 00:10:35,879
+Her name is Beth Coleman.
+
+119
+00:10:36,159 --> 00:10:37,779
+She's the head of employee volunteering.
+
+120
+00:10:38,480 --> 00:10:42,200
+And she is the engine and the driver with James and others.
+
+121
+00:10:42,480 --> 00:10:44,600
+So we've upped our numbers.
+
+122
+00:10:44,840 --> 00:10:48,039
+We just finished National Volunteer Month and Richardson won.
+
+123
+00:10:48,480 --> 00:10:50,039
+It was a competition, by the way.
+
+124
+00:10:50,039 --> 00:10:53,700
+Another Jeff on the Knowledge Institute team, I think, was a big part of that too.
+
+125
+00:10:53,860 --> 00:10:54,600
+Okay, yes.
+
+126
+00:10:54,600 --> 00:11:10,620
+We have partnerships across the company, and I've tried to make that value that we live, that we're working with ISETS, we're working with the Knowledge Institute, we're working with a little bit on the recruiting side, all of the verticals.
+
+127
+00:11:10,620 --> 00:11:17,259
+As you look in the next six months or so, you know, we're the second month, maybe the fiscal year, six to nine months.
+
+128
+00:11:17,740 --> 00:11:28,059
+What is it that you hope to accomplish and that people out there, if they want to get involved either with the foundation or with their own foundation of their company, what is something that you recommend?
+
+129
+00:11:29,179 --> 00:11:36,419
+Well, inside, I tell our client service delivery teams to just be aware of who your clients are.
+
+130
+00:11:36,419 --> 00:11:43,740
+Beyond the needs that may sit with the CIO or CTO office, see what the CEOs of our clients are talking about.
+
+131
+00:11:44,019 --> 00:11:46,879
+We have our own purpose statement outside of this room.
+
+132
+00:11:47,700 --> 00:11:50,340
+Each company has a purpose statement.
+
+133
+00:11:50,659 --> 00:11:52,200
+They have ESG strategies.
+
+134
+00:11:52,500 --> 00:11:56,279
+They have ways that they are looking to be known, like their DNA.
+
+135
+00:11:56,960 --> 00:11:58,120
+So know your clients.
+
+136
+00:11:58,620 --> 00:11:59,919
+Make sure you know ours.
+
+137
+00:11:59,919 --> 00:12:05,799
+And if you can be a bridge between the two, it's a way to deepen connections with our client.
+
+138
+00:12:05,879 --> 00:12:23,000
+That may not be an immediate sales hit, but the ripple effect is that we, our foundation is helping Infosys be known for what the founders believed in way back in 1981, which was lifelong learning, human capital development, problem solving, innovation.
+
+139
+00:12:23,460 --> 00:12:28,440
+And I want our foundation to be seen as a contributor to that bigger story.
+
+140
+00:12:28,440 --> 00:12:36,379
+Great. So yeah, we have a lot in the AI era to tackle. And probably as I'm moving into this
+
+141
+00:12:36,379 --> 00:12:42,259
+workforce readiness space, we'll see more transformation or conversion from what people
+
+142
+00:12:42,259 --> 00:12:48,820
+are learning to how it's changing what their job opportunities become. So if we start to see those
+
+143
+00:12:48,820 --> 00:12:53,899
+metrics go up, I think it's a new area of success for us and for Infosys. Well, you know, a lot of
+
+144
+00:12:53,899 --> 00:12:59,000
+people talk about keeping humans first, humans in the loop and all that, but I can't think of
+
+145
+00:12:59,000 --> 00:13:04,320
+another group that's actually putting humans in the center as you're thinking about how AI will
+
+146
+00:13:04,320 --> 00:13:11,019
+transform things. Yes, we are the ultimate human-centered design unit of the companies.
+
+147
+00:13:11,279 --> 00:13:16,460
+For the United States. And for the U.S. We'll go big. We'll go big. Absolutely. So yeah, that's the
+
+148
+00:13:16,460 --> 00:13:22,659
+ambition for the next year and really keeping pace with the technology so that we are
+
+149
+00:13:22,659 --> 00:13:27,539
+opening doors, especially for those who are most underrepresented. And helping them stay relevant.
+
+150
+00:13:27,940 --> 00:13:32,700
+Helping them stay relevant. So classrooms have to stay relevant, community colleges have to have
+
+151
+00:13:32,700 --> 00:13:39,039
+connection to industry, and us keeping our doors open. I think you're definitely turning that
+
+152
+00:13:39,039 --> 00:13:45,600
+positive flywheel of humanity within the company. So thank you so much for your time. Oh, thanks for
+
+153
+00:13:45,600 --> 00:13:50,419
+having me. Thanks, Kate. Always a pleasure. All right, thank you. I'm Jeff Cavanaugh. Until next
+
+154
+00:13:50,419 --> 00:13:52,600
+time, keep learning and keep sharing.
+

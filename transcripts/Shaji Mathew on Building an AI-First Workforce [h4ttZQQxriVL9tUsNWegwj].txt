@@ -1,0 +1,202 @@
+[00:00:06] I'm Jeff Cavanaugh, head of the Emphasis Knowledge Institute here at Emphasis Connect Conference in Los Angeles.
+[00:00:12] I'm very happy today to be joined by Shaji, who's our global head of HR at Emphasis.
+[00:00:16] Shaji, thank you so much.
+[00:00:18] Hi, Jeff. Nice to be here.
+[00:00:19] I want to talk about talent in this age of AI.
+[00:00:23] How is Emphasis approaching the need to gear up on AI and talent?
+[00:00:28] So, Jeff, as we know, AI is transforming the way we do work.
+[00:00:33] And one of the most critical aspect is the talent transformation.
+[00:00:38] And we are approaching this on a three pillar strategy.
+[00:00:43] The first one is about how do we fit the requirement of the AI talent to the business that we are looking at?
+[00:00:51] We have AI first business, we have AI augmented business.
+[00:00:55] So we need to augment everyone in the organization with AI skills.
+[00:00:59] That's on one side.
+[00:01:00] On the other side, for the AI-first business, we need a deep engineering and domain expertise.
+[00:01:07] So therefore, we need to create that deep expertise within the organization.
+[00:01:11] So there are two tracks running in parallel.
+[00:01:13] There is AI-augmented talent, then there is a deep engineering and domain expertise,
+[00:01:19] and that's what we call an ambidextrous organization.
+[00:01:22] So the first pillar of our talent transformation strategy is to create an ambidextrous organization.
+[00:01:29] Once that is done, we need to have a mechanism to put them into a career architecture which will hold this ambidextrous organization.
+[00:01:39] So we call it as a Y-shaped career architecture.
+[00:01:43] So that is the second part. And the third and the most involved and probably the most complex process is to enable the entire organization to be AI first.
+[00:01:55] So it is a three-pillar strategy for us to do the entire talent transformation for the era of AI.
+[00:02:03] How do you develop deep engineering, Kala?
+[00:02:07] That's an interesting question.
+[00:02:09] So there are two channels.
+[00:02:11] One is about recruiting people with deep expertise.
+[00:02:15] Other one is, of course, enabling our talent to have that deep expertise.
+[00:02:19] So if I look at the recruitment, now we have started recruiting differently.
+[00:02:26] So recently in India, for example, we have started looking at people at a much higher compensation, about up to 21 lakh salary right from the college.
+[00:02:36] Now, these are to get the deep engineering expert expertise.
+[00:02:41] So we go to some of the best institutions in the country, and we also have a differentiated assessment methodology to get them to the organization.
+[00:02:52] Also, we are doubling down on special programmers.
+[00:02:56] We are looking at domain experts also through frontier talent.
+[00:03:00] I've even heard about that. Yes, the frontier talent, right?
+[00:03:03] All of that. The other part is about how do you enable internal talent?
+[00:03:07] Because we know that AI is developing so rapidly, all the required expertise is not available in the market.
+[00:03:15] So the success of the organization would depend on how fast we are able to enable our talent internally.
+[00:03:22] So we have developed bridge programs to enable people.
+[00:03:26] But what is more important is to assess them, to see that do they have the required deep engineering or the domain expertise.
+[00:03:35] So we have created a new assessment center of excellence, which assess people at various levels.
+[00:03:43] There is a five-point assessment methodology that we have developed, which is what we're going to use to get this specialized talent.
+[00:03:52] Also, we are looking at creating a capability-based organization, moving away from the job and job-based career architecture,
+[00:04:01] moving more to a capability-led organization.
+[00:04:04] To measure that, we have also created a new concept called Capability Quotient.
+[00:04:09] And that looks at people on four dimensions.
+[00:04:13] Look at people on technology.
+[00:04:14] They look at people on domain skills.
+[00:04:17] We look at foundational skills as well as societal skill.
+[00:04:22] It's a combination of all of this, which will look at the capability of an individual.
+[00:04:26] Can you distinguish between foundational and society?
+[00:04:29] So foundational is about what is required from a project management perspective,
+[00:04:36] from an estimation perspective, and some of those foundational aspects.
+[00:04:39] Got it. Professional foundation.
+[00:04:41] Right. And the societal ones, you know, the soft skills, etc. which are required.
+[00:04:44] Critical thinking, judgment.
+[00:04:46] And the thing is about, you know, we have mechanism to assess and measure people on
+[00:04:51] each of these capabilities now. That's what is really different now.
+[00:04:56] That's amazing.
+[00:04:56] Yeah.
+[00:04:57] So you'd mentioned career architecture, and I speak in some forums as well.
+[00:05:02] When I mention that, I see people just light up.
+[00:05:06] And I don't think as much about it because Infosys, we've been doing it for a long time.
+[00:05:09] But a lot of companies seem to stop at the upskilling and reskilling and don't put it into an architecture.
+[00:05:15] Can you discuss a little more about that?
+[00:05:17] Yeah, so this is an interesting study that we have taken.
+[00:05:21] so we've done benchmarking with about 20 odd companies not just our classic IT services
+[00:05:29] organization and looked at what is that we need to do to look at our new career architecture
+[00:05:35] typically or traditionally we have a linear career model people will join as a software
+[00:05:42] engineer or software engineer trainee they go through a linear career architecture or career
+[00:05:48] journey all the way to an executive vice president in the company.
+[00:05:53] Now what we are doing is what we call a why architecture. The why architecture at the base
+[00:05:59] you will have the same sort of people coming in but after a few years they get an opportunity
+[00:06:05] to branch out into a why. On the left side of the why are the people who would they're technically
+[00:06:12] much more competent than what we are doing today but they are the technology project managers.
+[00:06:17] they are augmented on AI and technology. But on the right side of the Y, we have the
+[00:06:24] specialist skill. Now for someone to move from the left side of the Y to the right side of the Y,
+[00:06:30] A, they have to go through certain bridge or enablement program, but more importantly they
+[00:06:36] have to go through this assessment framework which I spoke about earlier. So every individual
+[00:06:41] who move to this specialist skill
+[00:06:44] go through this assessment.
+[00:06:46] Only if they succeed in their assessment,
+[00:06:49] they will be able to go to the right side of the Y.
+[00:06:51] And once they do that,
+[00:06:53] they will get compensated differently.
+[00:06:58] Also, if they have to progress
+[00:06:59] on that right side of the Y,
+[00:07:03] every progression also will go through an assessment.
+[00:07:07] So that's how it's going to happen.
+[00:07:08] And so we will progressively add more and more people to the right side of the Y, which is your deep engineering and the domain expertise, which I was talking about.
+[00:07:18] In addition, we also have an expert-led organization, which are our deep engineering expertise that we have in the organization.
+[00:07:27] A flat hierarchy structure. Here we have roles like specialist engineers, DTE, which is Distinguished Technology Engineer, those kinds of skills.
+[00:07:42] So they will act as an accelerator for the larger specialist team to work around and will give the required enterprise-wide technology depth that the company needs.
+[00:07:53] So it's a combination of people who would be augmented on technology on one side, plus the ones who have got the deep engineering expertise.
+[00:08:02] It's almost like it's an evolution of maturation of emphasis overall as well, because you think about fellows, distinguished technologists, and recognizing technical depth, not just the number of people in your own chart.
+[00:08:12] Yeah, exactly.
+[00:08:14] So this is going to go through an evolution.
+[00:08:17] The good thing is that we have done all the groundwork that is required.
+[00:08:21] Now it's about activation and right now we are starting on the activation and moving people to the specialist stream as well as looking at the forward deployed engineers.
+[00:08:35] So we are right now starting on activation of that.
+[00:08:37] And this has to be deeply embedded in our operating model because you can only have comp structures in place in career architecture if you know how they're going to be deployed, built and the whole thing rolls up.
+[00:08:49] yeah so it's going to be a complete process by itself so the entire architecture has been
+[00:08:54] designed we have worked out what would be the new job roles and the the jds the job you know
+[00:09:01] the description what would be their kpis how will they be assessed on it will be a lot more outcome
+[00:09:08] based assessment going forward so all of those have been identified the blueprint is ready now
+[00:09:15] like i said we are ready to roll it out for the entire organization yeah i was trying to press
+[00:09:19] the point because i think it shows a strategic role that human resources play across the whole
+[00:09:26] company not just in hiring and retaining of people yeah so now the next task for us is to
+[00:09:34] create a talent development model right um we have the career architecture we spoke about we have got
+[00:09:40] all the enablement mechanism we've got the assessment all of that in place now we need
+[00:09:46] to also develop talent right from our entry level all the way to the senior most people in the
+[00:09:53] organization to be ai first so that is the next journey that we want to take in fact some of those
+[00:09:59] work has already started so when we look at the people who join us from the colleges especially
+[00:10:06] in our mysore development center the complete foundation program has been revamped for to have
+[00:10:14] an ai first career curriculum we have also developed career streams specifically for
+[00:10:21] ai for the specialist programmers who are joining in so what is going to be different now is we will
+[00:10:27] have ai first talent coming in right from the entry level rather than the talent who are retro
+[00:10:35] for the AI capabilities.
+[00:10:37] So that is something which is going to be quite new for us.
+[00:10:41] AI native talent right from day one for the organization.
+[00:10:44] That is when we look at the entry-level talent.
+[00:10:47] Then we look at the larger organization,
+[00:10:50] we have to develop them again differently
+[00:10:52] for the entire organization.
+[00:10:53] We are talking about 300,000 plus people.
+[00:10:56] So it's a massive exercise that we are undertaking.
+[00:11:00] Here we have got three levels of enablement
+[00:11:03] that we are doing.
+[00:11:04] All of us would have already heard about AI Aware program,
+[00:11:07] which is about now 90% of the people have gone through it.
+[00:11:11] They are all augmented for AI capabilities, tools,
+[00:11:15] so that they can all work on AI technology.
+[00:11:19] Right now, our focus is on developing
+[00:11:21] what we call the AI builders.
+[00:11:23] Today, as we speak, we have got about 50,000 people
+[00:11:26] in the company who are AI builders,
+[00:11:29] who can design, build, deploy AI solutions
+[00:11:33] for our clients.
+[00:11:35] And then we also have the AI masters,
+[00:11:37] about a few hundred of them.
+[00:11:39] And this is the deepest expertise
+[00:11:42] that we have in the company,
+[00:11:43] is an invitation-only program.
+[00:11:45] It takes about six months for them to go through
+[00:11:48] this program and to get certified.
+[00:11:50] And they will give that enterprise-wide,
+[00:11:52] the deep engineering expertise
+[00:11:55] that is required for the organization.
+[00:11:57] We can't forget the sales folks, right?
+[00:12:00] Now there are programs for the sales leaders.
+[00:12:02] There are foundational enablement program
+[00:12:05] for sales leaders.
+[00:12:07] We are rolling out a program for them
+[00:12:09] on various frontier models that's available,
+[00:12:14] whether it is Claude or Gemini or Cursor.
+[00:12:16] Is that to help them sell better
+[00:12:17] or help them understand what they're selling better or both?
+[00:12:20] It's both, right?
+[00:12:21] First of all, they need to understand
+[00:12:23] what is out of possible,
+[00:12:26] and then they should have the capability
+[00:12:28] to have the conversation with the client
+[00:12:30] so that they can really derive value out of the conversations
+[00:12:34] that they will have with the client.
+[00:12:35] So it's a combination of both so that they get better
+[00:12:39] in terms of delivering value to our clients.
+[00:12:42] A bit of a different question next.
+[00:12:44] Given all this, which I'm proud to be in small a part of,
+[00:12:48] how is this a competitive differentiator in the market for Infosys,
+[00:12:54] this approach to HR?
+[00:12:55] Yeah, see, I tell you, technology or the models
+[00:12:59] are available for all the organizations.
+[00:13:02] What would really differentiate an organization from the other
+[00:13:05] is your ability to enable your people
+[00:13:08] so that they are able to use this technology
+[00:13:12] the best way which will add value to the client.
+[00:13:15] So I personally believe the organizations which will succeed
+[00:13:19] are the ones who are able to undertake this human transformation
+[00:13:24] in the age of technology, in the age of AI.
+[00:13:28] And converting the people who, I don't want to use the word displaced, but as AI gets things more productive, they can be re-skilled in this new architecture.
+[00:13:36] And then hopefully the institutional knowledge and context makes the company stronger as well.
+[00:13:41] Absolutely. So the AI will obviously bring a lot of productivity, but then that extra productivity or the extra capacity that's available, there's so much work that needs to be done for all our clients.
+[00:13:56] so we'll be able to do that extra work that is available even for the people or internally for
+[00:14:01] our own teams if you look at for example let me look at HR as an example if I'm able to release
+[00:14:09] some bandwidth for our HR professionals they can actually use that extra capacity to bring in
+[00:14:16] better employee experience to do better service for our customer things they probably wanted to
+[00:14:23] do on the to-do list but never got to. Exactly. So that's really what I think technology will
+[00:14:28] enable us to do better. Last question. As you think about your peers out there leading HR
+[00:14:35] organizations out there in the market, what's your advice to them? Because they're facing some of the
+[00:14:40] same problems and questions. Absolutely. I mean, I've got the opportunity to talk to a lot of the
+[00:14:46] chief people officers across some of our client organizations. Everybody's grappling with this
+[00:14:52] same issue right now. And the conversations are very similar. How do I enable my talent,
+[00:14:59] my workforce to be AI first? But I don't see many organizations are looking at this,
+[00:15:08] looking at the career architecture and redesigning the career architecture to fit
+[00:15:13] the new talent model that we are looking at. Something which I found to be at least unique,
+[00:15:20] or maybe we are ahead of the curve compared to many of the organizations that I've seen.
+[00:15:25] I would agree. Crew architecture as an integral part of the operating model itself.
+[00:15:29] Absolutely, yes.
+[00:15:31] Shadji, I know you've got some other places to go at the conference.
+[00:15:33] Thank you so much for your time.
+[00:15:34] My pleasure.
+[00:15:35] Thank you. I'm Jeff Cavanaugh. Until next time, keep learning and keep sharing.

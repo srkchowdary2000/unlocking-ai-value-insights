@@ -1,0 +1,171 @@
+[00:00:04] I'm Jeff Kavanaugh here at Connect, Infosys Gauntlets here in Los Angeles.
+[00:00:08] I'm with Venky Iyengar.
+[00:00:10] Great to see you.
+[00:00:11] Good to see you.
+[00:00:12] Head of Quality, Engineering at Infosys.
+[00:00:14] Thank you.
+[00:00:15] You know, I tell people that quality engineering always gets a bad name, but it's misunderstood
+[00:00:21] because it doesn't sound exciting, and yet it's the foundation of almost everything that
+[00:00:25] goes on.
+[00:00:26] And what better area to talk about unlocking value from AI, because so much of this value
+[00:00:32] is kind of hidden or beneath the sodas.
+[00:00:34] Yeah.
+[00:00:34] What are you seeing out there with companies in the area of quality engineering when you apply AI to generate value?
+[00:00:43] Yeah, Jeff, that's a great question.
+[00:00:46] There are broadly two dimensions of how AI applies in the world of quality engineering.
+[00:00:53] One is, you know, how do you leverage AI to do quality engineering for the traditional types of testing that we do?
+[00:01:01] Testing.
+[00:01:02] Which are deterministic in nature.
+[00:01:05] Deterministic, yeah.
+[00:01:06] Yes.
+[00:01:07] But the second dimension, which is even more exciting,
+[00:01:11] is how do you test this probabilistic AI-infused applications or systems?
+[00:01:17] So, you know, it's a very interesting paradigm.
+[00:01:20] It's a huge opportunity for all of us.
+[00:01:22] It's, in fact, a tale of two cities.
+[00:01:25] Using AI for QE to test the deterministic applications
+[00:01:29] are going to bring down our services revenue.
+[00:01:31] But at the same time, testing AI systems to make sure that they are trustworthy, they are of great quality, and they have item-potent characteristics that the enterprises need is super important.
+[00:01:48] And that business is going to grow tremendously.
+[00:01:51] So, as you can imagine, the biggest barrier in adopting anything in life is trust.
+[00:01:58] So, how do you trust AI?
+[00:02:00] AI. And that's where the quality engineering comes in and reshakes the antenna.
+[00:02:05] You keep the words that run out of my mouth because I was thinking, well, quality
+[00:02:10] engineering might not be the first thing you think about. Trust sometimes is. And trust
+[00:02:16] is only earned because you believe in what's behind it. What is one of the biggest benefits
+[00:02:25] you've seen from AI developing that trust in the data?
+[00:02:28] yeah so there are you know when we look at what we have to you know look at from
+[00:02:34] a trust perspective we have critical thinking as humans to really see what
+[00:02:40] could go wrong right but you know we spend a lot of time typing in what is
+[00:02:47] there in our mind using keyboard typing things up and we spend a lot of time you
+[00:02:53] know that's the time that we can save that's the and you lose something in
+[00:02:57] translation too when you try to type something it's in yes exactly so now the area has given us
+[00:03:03] the power to you know focus on the critical thinking aspect and make sure the thinking
+[00:03:09] judgment ethics empathy absolutely you know all the things that could potentially make sure that
+[00:03:17] the systems are trustworthy you can think about it you can get the ai to do the task of typing
+[00:03:24] and creating the kind of tests that you need to do.
+[00:03:27] You know, you just made me think.
+[00:03:28] Quality engineering is a much tighter connection
+[00:03:31] to responsible AI than I thought.
+[00:03:33] Absolutely.
+[00:03:34] You know, we have done from MIT,
+[00:03:38] we have looked at all the failures of AI
+[00:03:41] around different enterprises, different business domains.
+[00:03:46] So we have looked at, you know, what can fail in an AI system.
+[00:03:50] So you're looking at failure modes,
+[00:03:51] Six Sigma, design experiments, all those tools still apply in this world.
+[00:03:56] Absolutely.
+[00:03:57] And, you know, so we have created a text on it, sort of an anthology of what could fail, why it would fail,
+[00:04:04] and, you know, how to make sure that, you know, it doesn't happen to our customers.
+[00:04:09] And so we have created, you know, the developers build these AI systems with some data in mind.
+[00:04:14] But in real world, the data is very different.
+[00:04:18] Oh, it's dirty, it's flowing, it's messy, ambiguous.
+[00:04:22] So, you know, we have created a system that will allow the enterprises to make sure that they can test under all age conditions.
+[00:04:30] And they can make sure that the system that they can put into production is trustworthy, is of great quality.
+[00:04:37] Now, what's an example of this at work at one of your clients?
+[00:04:40] So, for example, take the example of a local customer, one of our utility companies, they have built a utility advisor AI agent.
+[00:04:54] And when somebody calls the AI agent and asks, why is my bill so high?
+[00:05:01] Now, a human person would have taken several hours to dig through the details to find out what is the reason.
+[00:05:09] But now there is an AI agent that travels us through different systems, makes the judgment and provides a response to the person calling.
+[00:05:21] And how do you know whether there is an accident?
+[00:05:24] Is it because it was summer? Is it because there were some guests at home?
+[00:05:30] So, you know, you have to simulate all these conditions.
+[00:05:32] And that's what we did and prevented many of the wrong information going back to the customer and assured that the AI is doing the right thing that it is supposed to.
+[00:05:42] So that's a great example of how it is useful in the real world.
+[00:05:47] That's great for utilities.
+[00:05:49] Now, within Infosys itself, has it been an effective efficiency tool?
+[00:05:55] It has been.
+[00:05:55] I mean, you know, if you look at what we did just a couple of weeks back.
+[00:05:59] within my organization we looked at about the top hundred clients and we
+[00:06:07] looked at you know how people are leveraging AI to do the normal business
+[00:06:11] as usual work roughly believe it or not about 25% throughput increase efficiency
+[00:06:19] has been gained in the last about 12 months so that means the same number of
+[00:06:25] of people are able to deliver more work for the customers
+[00:06:29] than they were doing in the past.
+[00:06:31] Well, let's dig a little deeper on that one.
+[00:06:33] What was it that caused that 25% improvement?
+[00:06:36] So, you know, the team is able to build
+[00:06:39] what we call a digital brain or a context mesh.
+[00:06:43] So they look at the enterprise landscape.
+[00:06:45] They have a lot of this tacit knowledge
+[00:06:48] about how the systems work.
+[00:06:50] And so they're able to bring it all together
+[00:06:52] in a knowledge graph for an enterprise, for their customer.
+[00:06:56] So you're making knowledge graphs for the company
+[00:06:59] and that's simplifying all their work.
+[00:07:01] Yeah, so that makes sure that when we use AI,
+[00:07:04] the kind of tests that we develop,
+[00:07:06] the kind of scripts that we build
+[00:07:09] is very contextual to the customer and it is accurate.
+[00:07:12] And it reduces the token consumption,
+[00:07:14] but it more importantly produces accurate results.
+[00:07:17] Otherwise, the AI can produce hundreds of tests
+[00:07:22] which are not needed.
+[00:07:23] Is that a good mix, the token consumption reduction?
+[00:07:26] I mean, that's got to be real money saved.
+[00:07:28] Is that more or less than the other efficiencies?
+[00:07:30] It is.
+[00:07:32] When we say token consumption reduction,
+[00:07:34] what is very important is it's important to reduce
+[00:07:39] not only the overall token consumption,
+[00:07:41] but to make sure that the input token
+[00:07:44] versus the output token ratio is maintained.
+[00:07:48] So if output token is more, then it costs more.
+[00:07:52] Whereas if it is input token is more,
+[00:07:54] the accuracy increases, but the cost is less.
+[00:07:58] So you need to really look at-
+[00:07:59] Goal or input versus output?
+[00:08:00] More, yes.
+[00:08:02] And your quality engineering approach
+[00:08:03] is able to adjust that ratio in the right way?
+[00:08:06] It is, we are able to adjust it
+[00:08:08] because of the knowledge graph that we have created
+[00:08:10] that make sure that when a person asks a question,
+[00:08:14] it goes through the context mesh,
+[00:08:16] is able to take good input
+[00:08:18] and then able to produce quality limited output.
+[00:08:22] Using AI, are you now able to more easily
+[00:08:24] create a knowledge graph than before?
+[00:08:26] 100%.
+[00:08:27] It's able to.
+[00:08:28] I have a leading question, but I mentioned that
+[00:08:30] because when Rafi and I co-wrote the Live Enterprise,
+[00:08:33] knowledge graphs were still kind of new
+[00:08:36] and you can only do it for something really big
+[00:08:38] like Facebook had the social graph,
+[00:08:40] LinkedIn had their Play mode.
+[00:08:42] But if we can make a knowledge graph for every company,
+[00:08:45] Wow, nothing like it.
+[00:08:47] Absolutely.
+[00:08:47] You know, we are right now working with two of our customers
+[00:08:51] where we have built these knowledge graphs already.
+[00:08:54] Because, you know, as the quality assurance people,
+[00:08:56] they are the bridge between business and development.
+[00:09:00] You know, we...
+[00:09:01] You yourself as the bridge between the business folks and the...
+[00:09:05] Because the developers, they build, you know, components.
+[00:09:09] Business knows the end-to-end picture.
+[00:09:11] And there is somebody who is required in between
+[00:09:14] to make that bridge connection between the development of the quality engineering also
+[00:09:18] includes architecture absolutely we look at the architecture we look at the code we look at the
+[00:09:24] standard operating procedures we look at the whole picture to make sure from an end-to-end business
+[00:09:30] perspective nothing is used to be cut i feel better about quality engineering now after talking
+[00:09:36] i have one question for you what do you see in the next 12 6 to 12 months that companies should
+[00:09:42] really look for as maybe the next horizon of Imperter? Yeah so we from a AI for QE perspective
+[00:09:51] that means leveraging AI in doing quality engineering for deterministic applications
+[00:09:56] perspective we believe you know there will be hundreds of AI agents that will help us
+[00:10:03] accelerate that process but at the same time if you do not build the context mesh many customers
+[00:10:09] are not there today and they have to build that context mesh so context mesh you got to get it
+[00:10:15] right otherwise the agents are going to run wild twice and they're going to drift in uh in a
+[00:10:21] production there may be an uprising absolutely and therefore building a good control plane yeah
+[00:10:28] creating an observability for how the tokens are getting consumed how the agents are performing is
+[00:10:33] is going to be super cool.
+[00:10:34] Well, new times, new terms.
+[00:10:37] Absolutely.
+[00:10:38] And new challenges,
+[00:10:38] but sounds like a fantastic opportunity.
+[00:10:40] Venky, thanks so much.
+[00:10:41] Thank you, Jeff, thank you.
+[00:10:43] You bet.
+[00:10:44] I'm Jeff Cavanaugh.
+[00:10:45] Until next time, keep learning and keep sharing.

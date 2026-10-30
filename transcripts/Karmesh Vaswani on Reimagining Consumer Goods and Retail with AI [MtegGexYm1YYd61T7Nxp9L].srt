@@ -1,0 +1,672 @@
+1
+00:00:06,700 --> 00:00:10,679
+I'm Jeff Cavanaugh with Infosys Knowledge Institute, and we're here at Infosys Connect
+
+2
+00:00:10,679 --> 00:00:16,820
+Conference in Los Angeles. I'm joined by Karmesh Baswani, head of the Consumer Goods Retail
+
+3
+00:00:16,820 --> 00:00:21,019
+Logistics Unit. Karmesh, good to see you. Pleasure meeting you, Jeff. Thank you.
+
+4
+00:00:21,559 --> 00:00:28,559
+I have a few questions on unlocking value in AI for your industries. First one is,
+
+5
+00:00:28,559 --> 00:00:36,179
+what is it in this whole consumer goods and retail area that you see as a real trend when
+
+6
+00:00:36,179 --> 00:00:42,579
+people being successful well if you look at the evolution of consumer goods
+
+7
+00:00:42,579 --> 00:00:49,500
+industry yeah the typical cost of goods sold for a consumer products company and
+
+8
+00:00:49,500 --> 00:00:55,259
+the typical price paid by the consumer after it's sold through a retailer there
+
+9
+00:00:55,259 --> 00:01:00,619
+is approximately 70% of the value which is involved in shipment from the
+
+10
+00:01:00,619 --> 00:01:07,219
+consumer goods company through the retailer to the consumer and with AI a lot of these linear
+
+11
+00:01:07,219 --> 00:01:12,799
+consumer value chains can reimagine their business models both in the physical world and the digital
+
+12
+00:01:12,799 --> 00:01:19,180
+world reduce that 70 and reduce that 70 to lower which will help them improve the value proposition
+
+13
+00:01:19,180 --> 00:01:25,799
+to the consumer improve the yeah volumes improve the pricing power and generally create better
+
+14
+00:01:25,799 --> 00:01:30,400
+value for every entity in the value chain whether it's a consumer goods company the retailer the
+
+15
+00:01:30,400 --> 00:01:35,879
+distributor and the consumer. And I think AI is both the digital form factors of AI and the
+
+16
+00:01:35,879 --> 00:01:42,879
+physical form factors of AI are helping approach each segment of the consumer goods value chain
+
+17
+00:01:42,879 --> 00:01:47,959
+and the retail value chain to be reimagined, to be renovated, to be innovated. So that's helping
+
+18
+00:01:47,959 --> 00:01:52,319
+out with the productivity part. What about on the innovation part, maybe more of a personalization?
+
+19
+00:01:52,319 --> 00:02:00,920
+that's a that's a great point i mean if you think about the kind of advertising marketing
+
+20
+00:02:00,920 --> 00:02:06,319
+spends that the consumer products companies have in any channel whether it's a social media channel
+
+21
+00:02:06,319 --> 00:02:12,979
+or e-commerce channel like amazon or a marketplace like a walmart or a target marketplace or their
+
+22
+00:02:12,979 --> 00:02:19,340
+e-commerce businesses the promotional offers tend to be mass marketed yeah you don't get a
+
+23
+00:02:19,340 --> 00:02:25,139
+promotional offer that is personalized to your needs, your context, your demographics, your
+
+24
+00:02:25,139 --> 00:02:36,259
+situational reality. And as AI is helping bring multi-modal capabilities to process data, image,
+
+25
+00:02:36,259 --> 00:02:43,000
+text, audio, video, consumer goods companies are able to reimagine now on how to increase
+
+26
+00:02:43,000 --> 00:02:48,719
+the volume of personalized offers while reducing the cost of delivering those offers.
+
+27
+00:02:49,340 --> 00:03:06,340
+So, we recently worked for one of the leading global FMCG companies who has 3 billion consumers that touch their product, 3 billion consumers globally who touch one of their brands at any point in time in any part of the world.
+
+28
+00:03:06,340 --> 00:03:13,340
+And to reach those 3 billion consumers, they generate 19 million digital assets.
+
+29
+00:03:13,340 --> 00:03:22,340
+And those 19 million digital assets are nowhere close to achieving hyper-personalization with the consumers, because it all goes through a mass market format.
+
+30
+00:03:22,340 --> 00:03:29,340
+Now with AI, we are helping them reduce the cost of those 19 million assets by 95%.
+
+31
+00:03:29,340 --> 00:03:35,340
+So their average spend was $100 per asset. It's coming down to less than $2.
+
+32
+00:03:35,340 --> 00:03:42,340
+Which means now for the same spend, they can look at amplifying their personalization 50 times.
+
+33
+00:03:42,340 --> 00:03:49,620
+times and that'll that'll mean greater consumer engagement greater mindshare mindshare translates
+
+34
+00:03:49,620 --> 00:03:54,800
+into market share and greater growth better margins for their business that sounds like
+
+35
+00:03:54,800 --> 00:04:01,939
+reducing the cost but increasing that ability to reach them on the human side is similar so
+
+36
+00:04:01,939 --> 00:04:07,280
+you're increasing productivity but not firing a bunch of people or well in this case they were
+
+37
+00:04:07,280 --> 00:04:14,900
+relying on agency of record agency of record having local agencies in japan in tokyo in china
+
+38
+00:04:14,900 --> 00:04:23,959
+in u.s in europe now we are having ai agencies that we have designed for them there is a translation
+
+39
+00:04:23,959 --> 00:04:32,339
+studio there is adaptation studio there is a image factoring studio which is improved so they're not
+
+40
+00:04:32,339 --> 00:04:35,300
+losing any of their headcount internally.
+
+41
+00:04:35,300 --> 00:04:38,379
+So their headcount needs to become more productive.
+
+42
+00:04:38,379 --> 00:04:42,360
+Their category managers and brand managers feel more empowered that earlier they would
+
+43
+00:04:42,360 --> 00:04:47,279
+deal with an agency who takes six weeks to deliver something and it will go through five
+
+44
+00:04:47,279 --> 00:04:48,279
+iterations.
+
+45
+00:04:48,279 --> 00:04:54,500
+Now they are able to just talk through prompts, look at their past digital assets, reorient
+
+46
+00:04:54,500 --> 00:04:58,579
+those assets for any form factor that will appeal to you as a consumer.
+
+47
+00:04:58,579 --> 00:05:03,139
+A bit of a play on words, but the workers have more agency by working less through the agencies.
+
+48
+00:05:03,839 --> 00:05:04,019
+Yeah.
+
+49
+00:05:04,139 --> 00:05:06,100
+Now, the agencies might lose business.
+
+50
+00:05:06,259 --> 00:05:06,379
+Yeah.
+
+51
+00:05:06,639 --> 00:05:18,959
+The agencies who are smart and who have seen our work, they are saying we should embrace this model and help our CPG clients to increase the quantum of consumer engagement.
+
+52
+00:05:19,079 --> 00:05:21,319
+So their value add has to go up for them to stay relevant.
+
+53
+00:05:21,339 --> 00:05:21,660
+Absolutely.
+
+54
+00:05:22,040 --> 00:05:22,220
+Yeah.
+
+55
+00:05:22,699 --> 00:05:23,139
+Okay.
+
+56
+00:05:23,540 --> 00:05:27,420
+What do you think is the biggest challenge senior executives have to face?
+
+57
+00:05:27,420 --> 00:05:34,160
+Because what you're saying on an absolute basis is great, but if everyone's doing that in CPG or in retail, they have to compete.
+
+58
+00:05:34,459 --> 00:05:36,620
+So who will the winners be? What will they be doing?
+
+59
+00:05:37,339 --> 00:05:39,500
+So it's a hugely fragmented industry.
+
+60
+00:05:40,500 --> 00:05:47,540
+I mean, if you go into any hypermarket for every category, you'll find that there are a plethora of brands,
+
+61
+00:05:47,540 --> 00:05:52,860
+some from the big CPG, some from the mid-sized CPG, some from new emerging players.
+
+62
+00:05:52,860 --> 00:05:59,579
+I think this will lead to more consolidation because there will be few companies who will embrace this into their business model.
+
+63
+00:05:59,660 --> 00:06:05,339
+So the number of brands might not go down, but the number of companies holding all those, they'll wait to roll them up?
+
+64
+00:06:05,500 --> 00:06:17,339
+Absolutely. Absolutely. And as the consumer awareness goes up, because when consumers start having more personalized engagement, it will also lead to an element of number of brands reducing.
+
+65
+00:06:17,339 --> 00:06:25,319
+the opportunity for so many brands in a category to coexist is because the extent of personalization
+
+66
+00:06:25,319 --> 00:06:30,980
+is not there so every consumer goes and finds something that appeals to them if i'm using a
+
+67
+00:06:30,980 --> 00:06:35,740
+hair care product i'm using a skin care product everyone has some unique need which is not being
+
+68
+00:06:35,740 --> 00:06:39,160
+addressed by a certain brand they switch to a brand and that creates a market opportunity
+
+69
+00:06:39,160 --> 00:06:46,819
+and the lag between the manufacturer happening that happening and then being aware of it start
+
+70
+00:06:46,819 --> 00:06:52,019
+shrinking. And so they're able to, the innovation cycle is faster. Innovation cycle is much faster
+
+71
+00:06:52,019 --> 00:07:01,279
+because acquiring a consumer insight, converting that into a pattern, a cluster, comparing that
+
+72
+00:07:01,279 --> 00:07:06,480
+with the product attributes, the product benefit proposition, the product formulation, the product
+
+73
+00:07:06,480 --> 00:07:13,379
+positioning, those cycles are reducing and insight to action is becoming much faster. And that is a
+
+74
+00:07:13,379 --> 00:07:19,519
+massive headache for a human without that kind of tool set to address it absolutely yeah well if all
+
+75
+00:07:19,519 --> 00:07:25,360
+that happens then it seems the bottleneck is now on logistics supply chain fulfillment so what do
+
+76
+00:07:25,360 --> 00:07:32,040
+you see the impact of ai in that area so i think in logistics also we will see there would be
+
+77
+00:07:32,040 --> 00:07:37,399
+more intelligent form factors of logistics logistics is becoming multi-modal you earlier
+
+78
+00:07:37,399 --> 00:07:46,120
+only had demand sensing data talking to transport talking to warehouse now you could be having
+
+79
+00:07:47,000 --> 00:07:56,040
+real-time in-store video feeds or shelves talking directly to a warehouse which stops
+
+80
+00:07:56,040 --> 00:08:02,279
+directly to a transporter which automatically schedules the labor required to load the transport
+
+81
+00:08:02,279 --> 00:08:09,399
+which perhaps even talks to the the robotics equipment inside the warehouse and with very
+
+82
+00:08:09,399 --> 00:08:14,420
+little human intervention both inbound and outbound logistics is getting scheduled
+
+83
+00:08:14,420 --> 00:08:20,019
+and the human human is in the lead yeah but the effort that the humans had to take to
+
+84
+00:08:20,019 --> 00:08:27,980
+plan replan look for variations has surprises of a transporter not turning up or a truck having a
+
+85
+00:08:27,980 --> 00:08:31,860
+breakdown. All of those now are data signals which are talking to each other.
+
+86
+00:08:32,860 --> 00:08:37,700
+Well, you used to think of logistics being so deterministic because they're assuming a formulaic,
+
+87
+00:08:37,960 --> 00:08:44,580
+but now you're able to run so many scenarios and plan for it, which given whether it's geopolitics,
+
+88
+00:08:44,700 --> 00:08:48,799
+whether it's the price of fuel, they're having to run thousands of simulations just to make
+
+89
+00:08:48,799 --> 00:08:56,399
+their own choices. Yeah, so the ability to deal with data volume, variety, velocity in logistics.
+
+90
+00:08:56,399 --> 00:09:03,279
+logistics is like a live heartbeat living business living breathing business with so many variables
+
+91
+00:09:04,240 --> 00:09:11,279
+and the ability to do deterministic planning was constrained on the ability of being able to take
+
+92
+00:09:11,279 --> 00:09:18,399
+live data signals on different trade lanes or different routes on variations in pricing on
+
+93
+00:09:18,399 --> 00:09:25,440
+periodic surpluses shortages in capacity now all of that becomes a set of data signals which can
+
+94
+00:09:25,440 --> 00:09:27,740
+and be going into these planning algorithms
+
+95
+00:09:27,740 --> 00:09:30,519
+and help optimize the end-to-end logistics costs.
+
+96
+00:09:31,559 --> 00:09:33,519
+Looking ahead the next nine to 12 months,
+
+97
+00:09:33,519 --> 00:09:38,080
+what do you think executives should be either worried about
+
+98
+00:09:38,080 --> 00:09:41,620
+or hopeful about given the next evolution
+
+99
+00:09:41,620 --> 00:09:44,039
+of AI's impact on their business?
+
+100
+00:09:44,039 --> 00:09:46,220
+So I would take a macro view.
+
+101
+00:09:46,220 --> 00:09:51,220
+If you look at enterprise productivity in S&P 500 companies,
+
+102
+00:09:51,500 --> 00:09:53,159
+in the last 30 years,
+
+103
+00:09:53,159 --> 00:09:56,720
+there has been about 3.5 times productivity improvement.
+
+104
+00:09:56,720 --> 00:09:59,480
+So in 1990s for a S&P 500 company,
+
+105
+00:09:59,480 --> 00:10:01,440
+for every billion dollars of sale,
+
+106
+00:10:01,440 --> 00:10:05,240
+you had approximately 7,000 human headcount.
+
+107
+00:10:05,240 --> 00:10:10,240
+That figure has come down to about 2,500 by 2025.
+
+108
+00:10:11,259 --> 00:10:14,100
+But in the next three to five years,
+
+109
+00:10:14,100 --> 00:10:16,840
+2,000 could come down to about 500.
+
+110
+00:10:16,840 --> 00:10:20,220
+You could have a similar quantum of productivity improvement.
+
+111
+00:10:20,220 --> 00:10:22,740
+And every enterprise has to look at
+
+112
+00:10:22,740 --> 00:10:25,580
+that how much human effort do I have?
+
+113
+00:10:25,580 --> 00:10:27,480
+How much physical capital do I have?
+
+114
+00:10:27,480 --> 00:10:29,539
+How much working capital do I have?
+
+115
+00:10:29,539 --> 00:10:31,559
+And am I in a position to climb
+
+116
+00:10:31,559 --> 00:10:33,980
+a three to five times productivity improvement
+
+117
+00:10:33,980 --> 00:10:36,000
+in the next three to five years?
+
+118
+00:10:36,000 --> 00:10:38,419
+Because if I'm not doing that to my business,
+
+119
+00:10:38,419 --> 00:10:40,360
+my competitor might be doing it
+
+120
+00:10:40,360 --> 00:10:43,200
+and I might lose my relevance in the industry.
+
+121
+00:10:43,200 --> 00:10:45,799
+Yeah, because if you improve by this much,
+
+122
+00:10:45,799 --> 00:10:47,240
+but if someone else improves by this much
+
+123
+00:10:47,240 --> 00:10:48,899
+on a relative basis, you're still behind
+
+124
+00:10:48,899 --> 00:10:50,200
+because you're fighting the same consumer.
+
+125
+00:10:50,200 --> 00:10:51,220
+Absolutely. Same price point.
+
+126
+00:10:51,220 --> 00:10:52,539
+Yes.
+
+127
+00:10:52,539 --> 00:10:58,740
+What is the consumer of tomorrow or what should executives be doing to reach them?
+
+128
+00:10:58,799 --> 00:11:00,980
+You talked about the business, the outside-in view.
+
+129
+00:11:00,980 --> 00:11:05,059
+What is it that's going to be the consumer of tomorrow's, you know, the winning hand for them?
+
+130
+00:11:06,320 --> 00:11:13,639
+Well, the consumer of tomorrow would be someone who has a number of agents working for him or her.
+
+131
+00:11:13,639 --> 00:11:15,500
+So you're not just selling to them, but they're agents.
+
+132
+00:11:15,659 --> 00:11:21,659
+Yes, you're relying on how their agents are interpreting the mind, the behavior, the mood of the consumer.
+
+133
+00:11:21,659 --> 00:11:24,919
+and how those agents are coming
+
+134
+00:11:24,919 --> 00:11:26,580
+and looking at your value proposition
+
+135
+00:11:26,580 --> 00:11:29,179
+as a Tanjima goods company or a retail company
+
+136
+00:11:29,179 --> 00:11:31,139
+and how do you make sure
+
+137
+00:11:31,139 --> 00:11:33,179
+that for different sentiments,
+
+138
+00:11:33,419 --> 00:11:34,059
+different moods,
+
+139
+00:11:34,139 --> 00:11:36,860
+different behavioral aspects,
+
+140
+00:11:37,779 --> 00:11:38,620
+your proposition,
+
+141
+00:11:39,200 --> 00:11:40,220
+both in terms of products,
+
+142
+00:11:40,340 --> 00:11:41,700
+price, promotion, place,
+
+143
+00:11:41,700 --> 00:11:46,200
+is aligned to the segmentation of those agents.
+
+144
+00:11:46,779 --> 00:11:47,740
+Last question.
+
+145
+00:11:48,980 --> 00:11:50,440
+Are you fearful?
+
+146
+00:11:50,440 --> 00:11:55,000
+Are you optimistic about the impact that AI is going to have in your industry?
+
+147
+00:11:55,000 --> 00:12:01,220
+I'm quite optimistic because if we look at the historical evolution of humanity and humans
+
+148
+00:12:01,220 --> 00:12:06,299
+by their very nature are creative people, humanity will continue to find new ways and
+
+149
+00:12:06,299 --> 00:12:07,980
+means to uplift the standards.
+
+150
+00:12:07,980 --> 00:12:09,620
+Our wants keep growing, right?
+
+151
+00:12:09,620 --> 00:12:10,620
+Yeah.
+
+152
+00:12:10,620 --> 00:12:16,899
+So the standards of living will keep increasing and every evolution with technology of this
+
+153
+00:12:16,899 --> 00:12:23,940
+nature would mean that the aspirations can be fulfilled with lower effort lower cost lower time
+
+154
+00:12:24,899 --> 00:12:28,500
+and that means that there will be more availability more abundance
+
+155
+00:12:29,139 --> 00:12:38,179
+so this will help elevate access affordability in good form factors provided there is good
+
+156
+00:12:38,179 --> 00:12:44,580
+governance and regulation if there is responsible governance responsible regulation i think this
+
+157
+00:12:44,580 --> 00:12:52,080
+This AI wave can really help alleviate some of the perils of humanity around poverty,
+
+158
+00:12:52,080 --> 00:12:56,860
+around malnourishment, around lack of opportunities for literacy and education.
+
+159
+00:12:57,759 --> 00:13:03,000
+And at the same time, for the sections of the society who can afford all this,
+
+160
+00:13:03,500 --> 00:13:05,080
+give them a better value proposition.
+
+161
+00:13:06,019 --> 00:13:08,679
+Well, on that positive note, I appreciate your time.
+
+162
+00:13:08,840 --> 00:13:09,399
+Thank you very much.
+
+163
+00:13:09,399 --> 00:13:09,879
+Thank you, Jeff.
+
+164
+00:13:10,120 --> 00:13:10,980
+Pleasure talking to you again.
+
+165
+00:13:11,000 --> 00:13:11,279
+You bet.
+
+166
+00:13:11,399 --> 00:13:11,779
+Thank you.
+
+167
+00:13:11,779 --> 00:13:15,379
+Until next time, I'm Jeff Cavanaugh.
+
+168
+00:13:15,379 --> 00:13:16,620
+Keep learning and keep sharing.
+

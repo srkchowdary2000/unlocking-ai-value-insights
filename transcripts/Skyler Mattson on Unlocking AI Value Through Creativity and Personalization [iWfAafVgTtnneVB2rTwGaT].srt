@@ -1,0 +1,616 @@
+1
+00:00:05,419 --> 00:00:10,259
+I'm Jeff Cavanaugh with Infosys Knowledge Institute here at Infosys Tenet in Los Angeles.
+
+2
+00:00:10,740 --> 00:00:13,400
+I'm here with Skylar Mattson, head of Infosys Long Duty.
+
+3
+00:00:13,580 --> 00:00:16,359
+Hi, Jeff. It's great to see you and be here.
+
+4
+00:00:16,460 --> 00:00:17,820
+Great to see you again in your home turf.
+
+5
+00:00:18,179 --> 00:00:19,899
+I love it. I'm in my time zone.
+
+6
+00:00:20,079 --> 00:00:20,620
+You get a drive.
+
+7
+00:00:20,780 --> 00:00:23,699
+I'm usually tired and everybody else is feeling great.
+
+8
+00:00:23,800 --> 00:00:26,980
+So this time I'm seeing a lot of people yawning and I'm feeling wide awake.
+
+9
+00:00:27,179 --> 00:00:30,219
+Awesome. Well, we're talking about unlocking value from AI.
+
+10
+00:00:30,719 --> 00:00:34,579
+And I know we can have cliches and well-worn phrases,
+
+11
+00:00:34,579 --> 00:00:37,039
+but let's make it kind of fresh and specific.
+
+12
+00:00:37,700 --> 00:00:39,159
+You're in the world of creative.
+
+13
+00:00:40,079 --> 00:00:44,200
+How are your clients and companies in the industries out there
+
+14
+00:00:44,200 --> 00:00:47,640
+actually approaching AI and getting value from?
+
+15
+00:00:48,240 --> 00:00:51,740
+I think one of the most exciting things that we're seeing in our industry
+
+16
+00:00:51,740 --> 00:00:54,119
+is content creation at scale.
+
+17
+00:00:54,799 --> 00:00:58,560
+So if you take the old school way of doing things before AI,
+
+18
+00:00:58,880 --> 00:01:04,060
+it was a photo shoot and maybe traveling to some distant land
+
+19
+00:01:04,060 --> 00:01:09,939
+to get sun or beaches. And then it was days of retouching. Sometimes the models had a tattoo
+
+20
+00:01:09,939 --> 00:01:15,959
+or something you didn't like, and it was millions of dollars. Now with AI, we can take something
+
+21
+00:01:15,959 --> 00:01:23,640
+that was millions of dollars and six weeks long and do it in a day for pennies. So I'll share an
+
+22
+00:01:23,640 --> 00:01:29,859
+example for a global CPG brand we're currently working. This is a huge brand that has hundreds
+
+23
+00:01:29,859 --> 00:01:35,579
+of sub-brands underneath it and you can imagine the amount of assets they're creating daily
+
+24
+00:01:35,579 --> 00:01:43,760
+thousands of assets so let's take a a skincare product for example this one product probably
+
+25
+00:01:43,760 --> 00:01:51,260
+has 15 different sets and if you could take this one product and via a prompt say this is pumpkin
+
+26
+00:01:51,260 --> 00:01:57,319
+spice and have the entire background change this is ocean breeze have the entire background change
+
+27
+00:01:57,319 --> 00:01:59,359
+These are buttons that you're pushing.
+
+28
+00:01:59,359 --> 00:02:01,060
+This is for Instagram.
+
+29
+00:02:01,060 --> 00:02:02,120
+This is for.
+
+30
+00:02:02,120 --> 00:02:05,159
+Well, beyond Adobe Firefly, you're talking to everything changing.
+
+31
+00:02:05,159 --> 00:02:08,800
+Well, I mean, an Adobe Firefly is really starting with the content creation.
+
+32
+00:02:08,800 --> 00:02:11,759
+And we're going to go as far as also to deploy it
+
+33
+00:02:12,199 --> 00:02:16,539
+to measure how it's performing against other what's created.
+
+34
+00:02:17,000 --> 00:02:18,639
+It's completely integrated.
+
+35
+00:02:18,639 --> 00:02:20,439
+And this is the beauty of Infosys.
+
+36
+00:02:20,439 --> 00:02:25,120
+It's long duty plus DX plus DNA
+
+37
+00:02:25,120 --> 00:02:31,800
+all coming together to create assets to deploy assets to measure them and make them better
+
+38
+00:02:31,800 --> 00:02:38,979
+so this global cbg brand was spending around 150 per asset that's not a lot in the grand scheme
+
+39
+00:02:38,979 --> 00:02:44,560
+but when there's millions of them we are doing it for nine cents nine cents and i want to be clear
+
+40
+00:02:44,560 --> 00:02:50,419
+because when you talk about ai content creation you think it's oh it's speed and it's cost savings
+
+41
+00:02:50,419 --> 00:02:56,759
+it's not just that it's better content it's content and content you need the impact exactly
+
+42
+00:02:56,759 --> 00:03:01,979
+context and the impact that's right it's personalized and if i get something that's
+
+43
+00:03:01,979 --> 00:03:08,740
+personalized to me i'm 25 more likely to click on it and buy it well to click to engage to buy
+
+44
+00:03:08,740 --> 00:03:16,060
+exactly so it's it's incredibly exciting and i think too you know talking to our clients
+
+45
+00:03:16,060 --> 00:03:20,520
+we're not replacing their creative teams we are empowering their creative teams because I could
+
+46
+00:03:20,520 --> 00:03:26,360
+see a retail brand we're working with there's a woman who all she does is localize she just
+
+47
+00:03:26,360 --> 00:03:32,240
+translates and this is now a button but that's a button that she can push and prompt and now do
+
+48
+00:03:32,240 --> 00:03:38,460
+other more innovative things are the actual number of these content creators copywriters and
+
+49
+00:03:38,460 --> 00:03:45,240
+associated is that raw number of people going down and they're being redeployed or what's going on
+
+50
+00:03:45,240 --> 00:03:48,819
+Right now, it's not going down with the customers we're working with.
+
+51
+00:03:49,080 --> 00:03:52,539
+What's happening is their jobs are getting bigger and more interesting.
+
+52
+00:03:52,939 --> 00:03:56,139
+So you're going to be able to create this content more quickly.
+
+53
+00:03:56,580 --> 00:03:58,939
+Now let's talk about how we're going to innovate for our customer.
+
+54
+00:03:59,259 --> 00:04:01,360
+Now let's talk about new products.
+
+55
+00:04:01,520 --> 00:04:05,659
+Now let's talk about new, more interesting, creative ways to engage with our audience.
+
+56
+00:04:05,860 --> 00:04:07,659
+So that's what's exciting.
+
+57
+00:04:08,039 --> 00:04:10,539
+Once you save all this time, what do you do with it?
+
+58
+00:04:11,460 --> 00:04:13,039
+That's on an absolute basis.
+
+59
+00:04:13,180 --> 00:04:15,180
+Things are much less expensive and better.
+
+60
+00:04:15,800 --> 00:04:20,160
+Well, if everyone's doing that, how are companies competing given this new reality?
+
+61
+00:04:20,819 --> 00:04:21,600
+I mean, that's tough.
+
+62
+00:04:21,680 --> 00:04:25,980
+And I think the way companies are competing is the, what do we do with the extra now?
+
+63
+00:04:26,540 --> 00:04:29,399
+So it's not just, I mean, we're going to not have a job anymore.
+
+64
+00:04:29,519 --> 00:04:32,399
+If we're just faster, cheaper, all you're doing is prompting.
+
+65
+00:04:32,519 --> 00:04:33,959
+It's a race to the bottom in that case.
+
+66
+00:04:33,980 --> 00:04:34,920
+It's a race to the bottom.
+
+67
+00:04:34,920 --> 00:04:39,560
+What we have to do is say, we're going to automate these things so we can all start
+
+68
+00:04:39,560 --> 00:04:40,319
+thinking bigger.
+
+69
+00:04:41,199 --> 00:04:45,420
+What are the winners doing that are allowing them to do this?
+
+70
+00:04:46,180 --> 00:04:51,000
+I think what a lot of the winners are doing are co-creating with their clients.
+
+71
+00:04:51,459 --> 00:04:55,319
+So some of this falls apart at the adoption level, right?
+
+72
+00:04:55,439 --> 00:04:57,500
+So you could create all of these prompts.
+
+73
+00:04:57,800 --> 00:05:02,560
+We call this system a brand OS and we fill in the brand's name so that they know it's
+
+74
+00:05:02,560 --> 00:05:03,019
+for them.
+
+75
+00:05:03,420 --> 00:05:08,360
+Now, if we create this whole system and no one on the creative team uses it, you have
+
+76
+00:05:08,360 --> 00:05:15,339
+an unlocked AI value. You've spent a bunch of money on a new workflow that isn't adopted. And
+
+77
+00:05:15,339 --> 00:05:22,120
+so I think this co-creation with our clients is a winning behavior. I think showing clients that
+
+78
+00:05:22,120 --> 00:05:27,079
+they're a part of this process and that we aren't just giving them an off-the-shelf solution,
+
+79
+00:05:27,379 --> 00:05:34,019
+but something that is super specific to their unique workflows, their unique use cases. That's
+
+80
+00:05:34,019 --> 00:05:38,980
+the winners are doing i think it could be commoditized but those are people who are
+
+81
+00:05:38,980 --> 00:05:44,579
+saying here's an off-the-shelf solution good luck being a true business partner and saying
+
+82
+00:05:44,579 --> 00:05:51,620
+let's co-create let's empower let's ensure you're adopting and let's let's change and iterate along
+
+83
+00:05:51,620 --> 00:05:57,459
+the way because what we built for you today in two weeks we can make it better a gift list for cpg
+
+84
+00:05:57,459 --> 00:06:02,660
+what about for manufacturing uh industrial companies oh my gosh it's so exciting for
+
+85
+00:06:02,660 --> 00:06:09,060
+manufacturing so take automotive for example and i think if you think about the whole purchase cycle
+
+86
+00:06:09,060 --> 00:06:14,660
+for automotive people want to configure they want to go into a website and they want to try this
+
+87
+00:06:14,660 --> 00:06:20,259
+color and that color and then we want to serve them content specific to them so a little creepy
+
+88
+00:06:20,259 --> 00:06:25,220
+but let's say you go on to a website mitsubishi canada's a client so i can name them you're
+
+89
+00:06:25,220 --> 00:06:30,819
+looking for the outlander and you start configuring it it's blue it's going to have wraps you want to
+
+90
+00:06:30,819 --> 00:06:37,500
+to put your skis on it well the next time you're served content it's going to be that exactly and
+
+91
+00:06:37,500 --> 00:06:43,019
+when you do show up to that dealership or you can try they know you you're halfway there i'm more
+
+92
+00:06:43,019 --> 00:06:47,439
+than halfway you're halfway there we say it's a handshake not a handoff that dealer is going to
+
+93
+00:06:47,439 --> 00:06:53,180
+know everything about you when you walk in the door and not waste your time so not in the creepy
+
+94
+00:06:53,180 --> 00:06:58,160
+stalkery way but in the jeff you're a busy guy i want to show you what i think you're looking for
+
+95
+00:06:58,160 --> 00:07:02,220
+The style and tone of that disclaimer is so important.
+
+96
+00:07:02,319 --> 00:07:03,079
+I think so, too.
+
+97
+00:07:03,100 --> 00:07:03,420
+It is.
+
+98
+00:07:03,480 --> 00:07:04,779
+Otherwise, you're turned off by it.
+
+99
+00:07:04,899 --> 00:07:06,019
+I think so, too.
+
+100
+00:07:06,180 --> 00:07:06,300
+Yeah.
+
+101
+00:07:06,379 --> 00:07:10,939
+I mean, the other thing that's really interesting when you talk about websites and the way people
+
+102
+00:07:10,939 --> 00:07:17,420
+are shopping, when we're building an interactive experience, we used to only be targeting the
+
+103
+00:07:17,420 --> 00:07:17,879
+customer.
+
+104
+00:07:18,680 --> 00:07:22,500
+Now we're targeting agents because guess where people are going to shock?
+
+105
+00:07:22,860 --> 00:07:24,139
+They're going to chat GPT.
+
+106
+00:07:24,139 --> 00:07:32,040
+and so a lot of brands are taking their money out of tv for example and they're putting it in the
+
+107
+00:07:32,040 --> 00:07:39,800
+hands of influences because chat gpt is combing everything from a brand's website to tiktok
+
+108
+00:07:39,800 --> 00:07:47,839
+and you need as many third-party endorsements for that to be a recommended brand via an agent so
+
+109
+00:07:47,839 --> 00:07:54,000
+it's kind of wild we're now building experiences for the customer and the agent and you need the
+
+110
+00:07:54,000 --> 00:07:58,759
+analytics to extract insights and patterns in a way you haven't before well data's never been
+
+111
+00:07:58,759 --> 00:08:05,420
+more important and I do think one of the biggest barriers to unlocking AI value is a client's data
+
+112
+00:08:05,420 --> 00:08:11,779
+is not ready yeah and there's a lot of data and analytics guys Gopal just gave a great speech on
+
+113
+00:08:11,779 --> 00:08:17,720
+this who can go really deep into how Infosys is coming in and preparing data for AI readiness
+
+114
+00:08:17,720 --> 00:08:23,720
+yeah next question was kind of about keeping the humans kind of in the loop and in the office
+
+115
+00:08:23,720 --> 00:08:29,699
+what are you seeing so the companies that are able to not you have massive layoffs when they
+
+116
+00:08:29,699 --> 00:08:36,179
+do this or or maybe they succeed because of the human AI combo you know I think it can't be all
+
+117
+00:08:36,179 --> 00:08:41,559
+top down right it can't be leadership mandating like this is how our company is going to work
+
+118
+00:08:41,559 --> 00:08:45,519
+with AI and this is what everyone has to do now there needs to be a part of that and there needs
+
+119
+00:08:45,519 --> 00:08:51,399
+to be sort of these like safe sandboxes but there has to be a lot of bottom up and that's enabling
+
+120
+00:08:51,399 --> 00:08:57,700
+playgrounds and innovation hubs because everything's changing so fast I mean as a leader
+
+121
+00:08:57,700 --> 00:09:02,700
+of long duty I'm certain I don't know the most about everything I need my teams to be playing
+
+122
+00:09:02,700 --> 00:09:07,600
+and experimenting and sharing and so I think and have the trust to do so and have the trust to do
+
+123
+00:09:07,600 --> 00:09:15,059
+so for sure so you don't change the the bar every time you do something that's right all right well
+
+124
+00:09:15,059 --> 00:09:21,820
+What is the one thing that your market, your clients need to be on the guard for?
+
+125
+00:09:21,940 --> 00:09:24,519
+Either there's a risk or an opportunity in the next six to 12 months.
+
+126
+00:09:25,600 --> 00:09:29,519
+I think it's talent because everything starts with their talent.
+
+127
+00:09:29,519 --> 00:09:32,120
+That's ironic because people are saying, hey, we don't need as many people.
+
+128
+00:09:32,179 --> 00:09:33,779
+You're saying we do need the right people.
+
+129
+00:09:34,059 --> 00:09:34,879
+We need the right people.
+
+130
+00:09:35,019 --> 00:09:37,340
+And we're talking a lot about this during this conference.
+
+131
+00:09:37,500 --> 00:09:38,200
+It's reskilling.
+
+132
+00:09:38,700 --> 00:09:39,980
+It's not replacing.
+
+133
+00:09:40,279 --> 00:09:41,179
+It's reskilling.
+
+134
+00:09:41,179 --> 00:09:48,259
+and there are a lot of teams who are nervous but they're not they don't want to leave it takes
+
+135
+00:09:48,259 --> 00:09:53,980
+companies to make a bet though you're betting on their people and re-skilling not replacing
+
+136
+00:09:53,980 --> 00:09:59,419
+because the simple accounting thing to do is pull back now and hope to do it later that's right it's
+
+137
+00:09:59,419 --> 00:10:04,379
+a longer longer term play that's right i mean you need to inspire your people you need to help them
+
+138
+00:10:04,379 --> 00:10:09,960
+feel safe and it takes good leadership otherwise uh you have because you're signing up to do this
+
+139
+00:10:09,960 --> 00:10:29,600
+That's right. That's right. I mean, we talk about lifelong learners. Also, like when you're interviewing talent, I'm always asking, what do you look for? I'm like curiosity. Somebody, I always ask, what's the last thing you taught yourself or that you learned? What's something new that you learned recently? And I think, I think talent that doesn't want to be re-skilled or is nervous and hesitant, they're going to self-select out.
+
+140
+00:10:30,480 --> 00:10:34,019
+Yeah, it used to be, I used to call it a transformation, the third, third, third.
+
+141
+00:10:34,100 --> 00:10:36,899
+A third of the people, they're going to self-slugged out.
+
+142
+00:10:37,039 --> 00:10:40,580
+A third of the people will kind of muddle along and kind of see where the wind blows.
+
+143
+00:10:40,659 --> 00:10:42,399
+And a third of the people are your next leaders.
+
+144
+00:10:42,759 --> 00:10:43,759
+That's exactly right.
+
+145
+00:10:44,039 --> 00:10:45,080
+That's exactly right.
+
+146
+00:10:45,259 --> 00:10:47,320
+So it's such an exciting time.
+
+147
+00:10:47,419 --> 00:10:50,419
+I mean, I'm amazed at the things I'm learning.
+
+148
+00:10:50,539 --> 00:10:52,419
+I'm amazed at the things I'm seeing.
+
+149
+00:10:52,500 --> 00:10:56,379
+And I'm amazed at the way we're able to help our customers like never before.
+
+150
+00:10:56,379 --> 00:10:58,899
+So what a fun time to be in.
+
+151
+00:10:58,899 --> 00:10:59,179
+It is.
+
+152
+00:10:59,179 --> 00:11:04,600
+business transformation digital transformation creativity it is well I know you've got a lot
+
+153
+00:11:04,600 --> 00:11:09,039
+more people to connect with here at connect so thank you Skyler so much yes it's so good to see
+
+154
+00:11:09,039 --> 00:11:14,840
+you always you bet thank you I'm Jeff Cavanaugh until next time keep learning and keep sharing
+

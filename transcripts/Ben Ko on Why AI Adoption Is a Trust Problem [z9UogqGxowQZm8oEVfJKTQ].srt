@@ -1,0 +1,684 @@
+1
+00:00:07,309 --> 00:00:11,429
+I'm Jeff Cavanaugh here at the Infosys Connect conference in Los Angeles.
+
+2
+00:00:11,650 --> 00:00:14,730
+Here with Ben Coe, head of Kaleidoscope, part of Infosys.
+
+3
+00:00:14,849 --> 00:00:15,470
+Good to see you, Ben.
+
+4
+00:00:15,589 --> 00:00:16,070
+Thanks, Jeff.
+
+5
+00:00:16,690 --> 00:00:18,750
+Man, looking forward to talking with you.
+
+6
+00:00:19,190 --> 00:00:20,289
+It's always exciting.
+
+7
+00:00:20,989 --> 00:00:25,050
+You are leading a lot of the product innovation, product design for the company.
+
+8
+00:00:25,390 --> 00:00:28,789
+And we're talking here about AI value, how to unlock it.
+
+9
+00:00:29,289 --> 00:00:35,049
+What are you seeing with your work and your clients in this front end of the business with AI?
+
+10
+00:00:35,049 --> 00:00:53,850
+Yeah. So like you're right, Kaleidoscope Innovation is the product design and engineering arm of Infosys. And for three, four decades now, we've been inventing the future products that each of us use, either as consumers, video game players, drivers, surgeons, nurses.
+
+11
+00:00:53,850 --> 00:01:01,369
+we touch a lot of products that we use every day in life. These are physical products and
+
+12
+00:01:01,369 --> 00:01:06,709
+digital products and then the whole supply chain to make that a reality after you discover what
+
+13
+00:01:06,709 --> 00:01:12,530
+problem needs to be solved. So AI is manifesting a whole lot of ways as you can imagine very
+
+14
+00:01:12,530 --> 00:01:16,790
+different ways. Because on one hand you might think a physical product maybe AI wouldn't play
+
+15
+00:01:16,790 --> 00:01:21,730
+as big a role but you're saying it does. It absolutely does. Think about discovery of what
+
+16
+00:01:21,730 --> 00:01:27,650
+needs to be solved use the operating room for an example there's so much data in an operating room
+
+17
+00:01:27,650 --> 00:01:33,709
+but much of it is inaccessible it's qualitative data so in someone's head it's unstructured it's
+
+18
+00:01:33,709 --> 00:01:38,870
+in someone's head a nurse knows this a technician knows that the hospital administrator knows
+
+19
+00:01:38,870 --> 00:01:44,230
+something else ai is allowing us to bring that together and say there are physical and digital
+
+20
+00:01:44,230 --> 00:01:49,430
+product solutions to these problems but we have to know what the problem is first so how are we
+
+21
+00:01:49,430 --> 00:01:56,109
+using ai with leading uh hospital systems the on the provider side how are we using it with the
+
+22
+00:01:56,109 --> 00:02:01,370
+pharmaceutical companies and drug discovery and accelerating clinical trials how about surgical
+
+23
+00:02:01,370 --> 00:02:07,170
+robotics where yeah it's a it's a robotic physical system there's a lot of artificial intelligence
+
+24
+00:02:07,170 --> 00:02:14,129
+whether we're talking about like data ai and truly software ai or physical ai which is a massive part
+
+25
+00:02:14,129 --> 00:02:18,870
+of kaleidoscope's business we talk about robotics and automation and how that looks in an operating
+
+26
+00:02:18,870 --> 00:02:23,750
+room is completely different than how it looks in a manufacturing environment but the the
+
+27
+00:02:23,750 --> 00:02:28,949
+fundamentals of how you discover a problem and then reduce that to a potential solution
+
+28
+00:02:28,949 --> 00:02:33,830
+is very very similar and that's what we call product development and so our teams are using ai
+
+29
+00:02:33,830 --> 00:02:40,229
+across all of those systems sometimes to help product development be more effective to be faster
+
+30
+00:02:40,229 --> 00:02:44,949
+to be higher quality but sometimes it's even discovering what are the next things that we
+
+31
+00:02:44,949 --> 00:02:50,629
+need to be working on and focus our attention on those those big problem statements you can buy
+
+32
+00:02:50,629 --> 00:02:58,389
+something you can implement it but how do you get people to adopt this ai is very much a change
+
+33
+00:02:58,389 --> 00:03:05,030
+management problem as much as a technology problem and when we talk about rolling out a new piece of
+
+34
+00:03:05,030 --> 00:03:10,949
+tech in a product the old way of talking about it was oh there's a user error they didn't understand
+
+35
+00:03:10,949 --> 00:03:16,710
+how it functions um and and usability gets in the way that's what we call human factors engineering
+
+36
+00:03:16,710 --> 00:03:21,909
+human factors design when you talk about implementing these kinds of technologies
+
+37
+00:03:21,909 --> 00:03:28,310
+within a company not only do you have the the user interaction and the understanding of how the tech
+
+38
+00:03:28,310 --> 00:03:33,030
+works but you've also got this element of trust or that's not how we do it that's where i was headed
+
+39
+00:03:33,030 --> 00:03:40,229
+with the trust part yeah absolutely and so it by no means does this technology supplant the need
+
+40
+00:03:40,229 --> 00:03:47,030
+for good change management within a company and so part of our team's work we have a whole design
+
+41
+00:03:47,030 --> 00:03:54,310
+research team where they immerse within one of our clients businesses and it could be in a warehouse
+
+42
+00:03:54,310 --> 00:04:00,069
+environment where physical ai robotics are coming in and working side by side with humans or it
+
+43
+00:04:00,069 --> 00:04:05,189
+could be in more of a corporate design office where ai is being used to accelerate graphic
+
+44
+00:04:05,189 --> 00:04:10,550
+design user experience design and our design research team are embedding in these spaces
+
+45
+00:04:11,189 --> 00:04:15,669
+with the designers the researchers the associates the manufacturing operators
+
+46
+00:04:16,310 --> 00:04:24,709
+understand their opinions their feelings on these autonomous systems understand what keeps them up
+
+47
+00:04:24,709 --> 00:04:30,230
+at night or what do they wish was easier about their job showing how this technology can actually
+
+48
+00:04:30,230 --> 00:04:35,670
+solve their real problems not replacing them and then you start to turn these potential
+
+49
+00:04:36,709 --> 00:04:42,949
+resistance into advocates but you have to do the work of being there with the humans who are doing
+
+50
+00:04:42,949 --> 00:04:47,910
+this and bring their voice to the forefront and then incorporate that into your design process
+
+51
+00:04:48,550 --> 00:04:57,189
+getting specific how what have you seen in a company or or a warehouse or a surgical suite
+
+52
+00:04:57,189 --> 00:05:03,290
+where someone has created this value how they've seen it how have you how are you measuring it
+
+53
+00:05:03,290 --> 00:05:08,389
+it's as varied as the environment in which it's being deployed and sometimes it's
+
+54
+00:05:08,389 --> 00:05:14,889
+it's throughput it's yield it's you know failure states how many course corrections can you do
+
+55
+00:05:14,889 --> 00:05:18,850
+sometimes you're seeing a lot of it already oh absolutely or you're seeing very real measurable
+
+56
+00:05:18,850 --> 00:05:26,050
+outcomes where it's you know this metric increased by 28 because of automation or the decision making
+
+57
+00:05:26,050 --> 00:05:31,889
+was able to be accelerated by 15% because you have better data insights earlier, faster,
+
+58
+00:05:32,290 --> 00:05:39,069
+but it's not just more data, it's interpretable data. So it's contextualized, not just saying
+
+59
+00:05:39,069 --> 00:05:43,490
+here's a long list of metrics. Insightful data. Insightful data. And you can now take
+
+60
+00:05:43,490 --> 00:05:50,529
+multimodal streams. So what I'm getting from my corporate dashboard is aligning to what I'm seeing
+
+61
+00:05:50,529 --> 00:05:56,209
+in the manufacturing environment dashboard and here's my my inventory management system you're
+
+62
+00:05:56,209 --> 00:06:01,490
+bringing together these disparate systems and that's really the nature of physical ai we talk
+
+63
+00:06:01,490 --> 00:06:08,050
+about it a lot as if it's all robots and you know humanoids and things but if that the robotic
+
+64
+00:06:08,050 --> 00:06:12,610
+operating system isn't connecting to your warehouse management system to your manufacturing kit
+
+65
+00:06:12,610 --> 00:06:18,129
+execution system to your erp to all the other three-letter acronyms that run these businesses
+
+66
+00:06:18,129 --> 00:06:23,730
+then you're leaving a lot of opportunity on the table for for actual efficiency and each one of
+
+67
+00:06:23,730 --> 00:06:29,569
+those tools and the environments in which they're used will have their own metrics of success and
+
+68
+00:06:29,569 --> 00:06:35,250
+so again it comes back to your research design engineering teams need to understand what makes
+
+69
+00:06:35,970 --> 00:06:41,009
+those uh those leaders successful in each of those environments and those tools
+
+70
+00:06:41,009 --> 00:06:46,930
+and customize the solution one size does not fit all the great news about ai is it's very adaptable
+
+71
+00:06:46,930 --> 00:06:53,389
+and flexible, but you still need to have the expert context to ensure that when it is rolled
+
+72
+00:06:53,389 --> 00:06:59,329
+out, the change management's done well, and that you can prove the value. Because spending a lot
+
+73
+00:06:59,329 --> 00:07:03,430
+of money on this and corporate leaders want to know what's the value that I'm creating.
+
+74
+00:07:04,329 --> 00:07:07,810
+I see two big buckets. One is you're working with a product development organization
+
+75
+00:07:07,810 --> 00:07:12,990
+for their products to drive their innovation, or it could be for their process improvement teams,
+
+76
+00:07:12,990 --> 00:07:18,910
+like in the warehouse yep uh what's been the biggest resistance and what you have to overcome
+
+77
+00:07:18,910 --> 00:07:23,550
+for people to to agree with either your numbers or the value proposition and actually adopt it
+
+78
+00:07:25,069 --> 00:07:32,189
+if i use the example of um the teams who are using ai to i'll use design and engineering the
+
+79
+00:07:32,189 --> 00:07:38,670
+the r d teams there there is still a lot of concern about intellectual property privacy
+
+80
+00:07:38,670 --> 00:07:45,069
+data security that and that so if i'm using ai to help me invent a new piece of technology go
+
+81
+00:07:45,069 --> 00:07:49,870
+open someone else's cloud and my competitor gets it we don't want any accidental breaches or
+
+82
+00:07:49,870 --> 00:07:55,230
+disclosures of intellectual property prematurely because then you can risk your patent ability
+
+83
+00:07:56,670 --> 00:08:00,750
+you've you've got concerns about what if i'm uploading patient data all all these concerns
+
+84
+00:08:00,750 --> 00:08:06,990
+we've been talking about for half a decade now uh or really decades but with ai in particular
+
+85
+00:08:06,990 --> 00:08:12,389
+it jumped to the forefront five, six years ago. Those are still there. Now, the good news is
+
+86
+00:08:12,389 --> 00:08:19,490
+there are contextualized tools like Topaz Fabric that can live within our clients' data systems
+
+87
+00:08:19,490 --> 00:08:24,509
+where their data does not have to leave their environment, does not have to leave their
+
+88
+00:08:24,509 --> 00:08:31,970
+sandbox. So you've got a much more mature set of tools led by the large LLMs and the large
+
+89
+00:08:31,970 --> 00:08:37,830
+hyperscalers, but it's where we're seeing Infosys, Kaleidoscope Innovation, all of our companies
+
+90
+00:08:37,830 --> 00:08:44,529
+have built very, very mature models now and environments where we can reduce the concern
+
+91
+00:08:44,529 --> 00:08:50,009
+because they're made specifically to address those challenges. No one is trying to
+
+92
+00:08:50,570 --> 00:08:56,090
+sweep the privacy concerns or the data breach concerns under the rug. We're facing it as an
+
+93
+00:08:56,090 --> 00:09:01,129
+industry out in the open and developing tools specifically to address that. And I think that's
+
+94
+00:09:01,129 --> 00:09:07,990
+where we're seeing adoption accelerate because the legal teams, the compliance teams, the regulatory
+
+95
+00:09:07,990 --> 00:09:15,049
+teams are all saying, ah, finally, I'm being heard. I see tools that meet my needs, not just the cool
+
+96
+00:09:15,049 --> 00:09:20,370
+stuff that the engineers and designers want to see. What's the one thing that you're most excited
+
+97
+00:09:20,370 --> 00:09:27,350
+about in the next six to 12 months as it relates to AI in your field of work? I'm really excited to
+
+98
+00:09:27,350 --> 00:09:34,789
+see how it is making the product development process more accessible by that i mean we have
+
+99
+00:09:34,789 --> 00:09:40,169
+designers and engineers who spend their careers you know learning how to illustrate beautifully
+
+100
+00:09:40,169 --> 00:09:46,250
+learning how to work with computer aided design programs cad programs to come up with ear systems
+
+101
+00:09:46,250 --> 00:09:52,269
+or come up with really complicated electromechanical assemblies of course highly complex
+
+102
+00:09:52,269 --> 00:09:57,909
+code. But you've got business leaders across all of our clients, even our own companies,
+
+103
+00:09:58,350 --> 00:10:04,669
+who might be non-technical experts in their field, or they're experts in a non-technical field,
+
+104
+00:10:04,730 --> 00:10:08,970
+I should say, but need to be involved in the product development process. These might be
+
+105
+00:10:08,970 --> 00:10:15,669
+marketers, they might be finance folks, they might be sales folks who are working with the consumers,
+
+106
+00:10:15,870 --> 00:10:19,529
+the customers, the users of the technology that these companies are trying to invent.
+
+107
+00:10:19,529 --> 00:10:26,629
+we can now involve those leaders in the product development process and their ideas can be brought
+
+108
+00:10:26,629 --> 00:10:31,769
+to life so rather than you're democratizing the product development i'm very excited about this
+
+109
+00:10:31,769 --> 00:10:38,529
+because we've seen it with gen ai image generation but that's just like the baby step what happens
+
+110
+00:10:38,529 --> 00:10:43,450
+when you've got natural language processing for an engineering cad system the difference between
+
+111
+00:10:43,450 --> 00:10:48,710
+the image where oh that's cute there are dimensions to this there are tolerances there are specs
+
+112
+00:10:48,710 --> 00:10:53,549
+there's is it manufacturable how much is this thing going to cost will that be able to pass
+
+113
+00:10:53,549 --> 00:10:58,309
+down to the cnc machine and actually make it exactly and that's what we're we're doing this
+
+114
+00:10:58,309 --> 00:11:02,649
+within kaleidoscopes facilities where we've got a machine so you're living it you're living it
+
+115
+00:11:02,649 --> 00:11:06,970
+before you yeah our designers and engineers are you know they're working in their cad systems
+
+116
+00:11:06,970 --> 00:11:10,690
+they're getting 3d prints made they're going to the machine shop they're cutting steel they're
+
+117
+00:11:10,690 --> 00:11:16,629
+walking it into our operating room and then that cycle repeats in a couple of hours that has to
+
+118
+00:11:16,629 --> 00:11:20,909
+help you weeks or months as you're doing it with your own clients and it's incredibly fast for a
+
+119
+00:11:20,909 --> 00:11:25,730
+set of professional teams like we've got who this is their world but now we can start to bring in
+
+120
+00:11:25,730 --> 00:11:31,129
+folks who aren't part of this world into our process and that's really where co-design the
+
+121
+00:11:31,129 --> 00:11:36,009
+phrase i used earlier is design with not designed for we're designing with these folks we're
+
+122
+00:11:36,009 --> 00:11:40,870
+involving nurses in our process we're involving manufacturing associates in our process who have
+
+123
+00:11:40,870 --> 00:11:46,870
+never worked on an engineering problem before all right you've got great ideas but these agents
+
+124
+00:11:47,990 --> 00:11:57,190
+how do agents play into this agents i think become an augmenting tool so certainly there's
+
+125
+00:11:57,190 --> 00:12:04,629
+opportunities for efficiency you know processes can go faster but it also allows us as a company
+
+126
+00:12:04,629 --> 00:12:10,070
+or any of us as business leaders to redesign our own processes so i think if you just take agents
+
+127
+00:12:10,070 --> 00:12:14,389
+let's say out of the box you know let's they're custom agents but you just take them out of the
+
+128
+00:12:14,389 --> 00:12:19,429
+box and you apply them to your existing systems they'll go faster they'll allow your human
+
+129
+00:12:20,309 --> 00:12:25,509
+team to focus on the problems that they really need to focus on but if you really take the time
+
+130
+00:12:25,509 --> 00:12:32,789
+to redesign the processes for the agents working with humans and you're transforming yourself into
+
+131
+00:12:32,789 --> 00:12:37,190
+an ai native this is again the hard change management problem oh you're talking to the
+
+132
+00:12:37,190 --> 00:12:42,230
+non-ai area now you've got the exponential opportunity where it's not just okay we went
+
+133
+00:12:42,230 --> 00:12:48,629
+from here to faster now look what we can achieve i think that's the unlocked potential of agents
+
+134
+00:12:48,629 --> 00:12:54,389
+but it's got to be through really good detailed service implementation in front design you have
+
+135
+00:12:54,389 --> 00:12:59,190
+regulatory bodies both within a country and across countries what's the role they need to play
+
+136
+00:12:59,750 --> 00:13:05,429
+whether it's for patents whether it's for safety as ai makes all these things faster more possible
+
+137
+00:13:06,230 --> 00:13:10,169
+We, as humanity, need to get our heads wrapped around open systems.
+
+138
+00:13:10,169 --> 00:13:16,210
+So even though we're talking about artificial intelligence, and I'll use medical diagnostics as an example,
+
+139
+00:13:17,029 --> 00:13:25,669
+open models, AI models that are continuously learning from new data, are highly restricted or not permitted by FDA.
+
+140
+00:13:26,289 --> 00:13:32,330
+Because there's a question of, as that model keeps evolving, it's now different than what is approved.
+
+141
+00:13:32,330 --> 00:13:34,509
+and how do you revalidate it?
+
+142
+00:13:34,529 --> 00:13:35,929
+How do you prove that it's just as safe
+
+143
+00:13:35,929 --> 00:13:37,649
+as what was the data showed
+
+144
+00:13:37,649 --> 00:13:40,149
+in the clinical trial system
+
+145
+00:13:40,149 --> 00:13:43,549
+or the medical device approval process?
+
+146
+00:13:44,350 --> 00:13:47,190
+So the regulating bodies
+
+147
+00:13:47,190 --> 00:13:48,710
+are getting their heads wrapped around
+
+148
+00:13:48,710 --> 00:13:49,870
+how AI is being used
+
+149
+00:13:49,870 --> 00:13:51,710
+to accelerate some of these steps,
+
+150
+00:13:51,830 --> 00:13:54,570
+but not necessarily as the product itself
+
+151
+00:13:54,570 --> 00:13:57,470
+in a fully adaptive,
+
+152
+00:13:58,450 --> 00:14:00,309
+evolving software model.
+
+153
+00:14:00,690 --> 00:14:02,250
+I think that's a huge next step
+
+154
+00:14:02,250 --> 00:14:07,450
+we're going to have to confront. What if medicine can all of a sudden have a cure for cancer or have
+
+155
+00:14:07,450 --> 00:14:13,370
+that wonderful outcome, but it's not approved? I mean, the reverse is true as well. Something bad
+
+156
+00:14:13,370 --> 00:14:18,730
+can happen, you prevent, but it's a balance, isn't it? It absolutely is. And I had the pleasure of
+
+157
+00:14:18,730 --> 00:14:25,289
+listening to Dr. Francis Collins, who was the director of the NIH, talk about a patient-specific
+
+158
+00:14:25,289 --> 00:14:29,529
+treatment. This is unthinkable. I mean, it was science fiction. It's that nirvana for life
+
+159
+00:14:29,529 --> 00:14:38,250
+science is now and and now they can develop a gene therapy for a specific baby for her specific
+
+160
+00:14:38,250 --> 00:14:45,450
+disease based on where where her progression is yeah it still requires the discovery the clinical
+
+161
+00:14:45,450 --> 00:14:51,289
+trial all these you know the validation the safety but because of technology you can accelerate so
+
+162
+00:14:51,289 --> 00:14:56,330
+much of this to make it possible for one person now that's one example that happened just in
+
+163
+00:14:56,330 --> 00:15:01,289
+recent year but how do you scale it now and i think that's where we're heading and make it
+
+164
+00:15:01,289 --> 00:15:07,450
+affordable make it affordable absolutely accessible and it has to be safe all along the way but this
+
+165
+00:15:07,450 --> 00:15:12,250
+is where i think the science fiction now just becomes science future of how do we get there
+
+166
+00:15:12,250 --> 00:15:17,690
+it's through hard work and dedication of scientists engineers developers regulating bodies
+
+167
+00:15:17,690 --> 00:15:21,850
+but it's happening and that's incredibly exciting to me well man it's always a pleasure talking
+
+168
+00:15:21,850 --> 00:15:26,490
+with you because you're doing such interesting work it's both important technology-wise and
+
+169
+00:15:26,490 --> 00:15:31,690
+business-wise but you're also solving problems for real people it keeps it fun seeing you ben
+
+170
+00:15:31,690 --> 00:15:37,610
+thanks so much take care thank you i'm jeff cavanaugh until next time keep learning and keep
+
+171
+00:15:37,610 --> 00:15:39,289
+sharing
+

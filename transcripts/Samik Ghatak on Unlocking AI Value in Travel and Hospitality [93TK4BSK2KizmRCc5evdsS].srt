@@ -1,0 +1,616 @@
+1
+00:00:05,360 --> 00:00:11,019
+I'm Jeff Cavanaugh at the Infosys Knowledge Institute here at the Infosys Connect Conference in Los Angeles.
+
+2
+00:00:11,300 --> 00:00:16,539
+I'm glad to be here with Sivik, who leads the Infosys Travel and Hospitality area.
+
+3
+00:00:17,140 --> 00:00:17,559
+Good to see you.
+
+4
+00:00:17,579 --> 00:00:18,160
+Nice meeting you, Jeff.
+
+5
+00:00:18,280 --> 00:00:18,500
+You bet.
+
+6
+00:00:19,059 --> 00:00:24,780
+Well, given we've all traveled here, this is probably an appropriate topic.
+
+7
+00:00:25,719 --> 00:00:28,420
+Unlocking value in AI for travel and hospitality.
+
+8
+00:00:28,780 --> 00:00:31,000
+It's a crazy time for this industry.
+
+9
+00:00:31,500 --> 00:00:36,340
+What's top of mind for your clients as they think about where they are with AI right now?
+
+10
+00:00:36,640 --> 00:00:38,219
+Well, the first thing is, thank you for having me here.
+
+11
+00:00:38,640 --> 00:00:41,740
+The first thing, obviously, is that the travel industry loves when people travel.
+
+12
+00:00:41,740 --> 00:00:49,439
+So the fact that this event is happening and everybody's come here spending money on the travel industries like the airlines and the car rental companies.
+
+13
+00:00:49,719 --> 00:00:49,740
+Hotels.
+
+14
+00:00:50,200 --> 00:00:51,100
+Hotels, of course.
+
+15
+00:00:51,659 --> 00:00:58,280
+So that's the first thing is to make sure that people can connect because ultimately travel is about making people connect with people.
+
+16
+00:00:58,640 --> 00:00:58,979
+You know what?
+
+17
+00:00:59,060 --> 00:01:00,640
+I think COVID taught people a lesson.
+
+18
+00:01:01,000 --> 00:01:06,420
+That being in person and traveling, either to experience a vacation or traveling for business, it matters.
+
+19
+00:01:06,760 --> 00:01:07,939
+It absolutely matters.
+
+20
+00:01:07,939 --> 00:01:17,060
+And we've seen that, you know, people, if you go back hundreds of years, have traveled to meet other people and make friends, you know, make that personal connection.
+
+21
+00:01:17,340 --> 00:01:25,239
+And now with the technology and with all the things that are available to us, people still want to travel, even though you can do everything online, so to speak.
+
+22
+00:01:25,620 --> 00:01:29,439
+To see new experiences, to go out to places, to reach new destinations, new frontiers.
+
+23
+00:01:29,439 --> 00:01:34,359
+so what the travel industry is trying to make sure is that travel doesn't come in
+
+24
+00:01:34,359 --> 00:01:37,939
+the way of your personal aspirations your fulfillment your goals whatever it
+
+25
+00:01:37,939 --> 00:01:41,260
+may be and so when you think about traveling they want to make it as
+
+26
+00:01:41,260 --> 00:01:45,340
+frictionless as possible and technology is one big piece to make that happen and
+
+27
+00:01:45,340 --> 00:01:51,819
+they want to make sure that whether you shop online or you shop on Google or
+
+28
+00:01:51,819 --> 00:01:55,879
+whatever right you always get the best treatment you always get what you
+
+29
+00:01:55,879 --> 00:02:01,079
+actually want not adding more friction actually removing it yeah so the idea is that like for
+
+30
+00:02:01,079 --> 00:02:06,739
+example is let's say you've booked a car rental but you don't know which car you're going to get
+
+31
+00:02:06,739 --> 00:02:12,280
+until you reach the exact point right so technology and for that matter ai can actually help you
+
+32
+00:02:12,280 --> 00:02:18,219
+determine that once you land at lax you are going to get a pick of these five cars that are available
+
+33
+00:02:18,219 --> 00:02:25,520
+and that visibility is something that because you might need big suitcase family disability
+
+34
+00:02:25,520 --> 00:02:29,939
+access and and not only that you can even prescribe some of those things ahead of time
+
+35
+00:02:29,939 --> 00:02:35,120
+and then a digital concierge might show up and say that okay you know what this car is specifically
+
+36
+00:02:35,120 --> 00:02:40,680
+fitted for you and you can walk in out there and then drive it up and then that's it completely
+
+37
+00:02:40,680 --> 00:02:45,240
+makes experience frictionless for you so that's the blend of where technology and sort of the
+
+38
+00:02:45,240 --> 00:02:51,460
+that's on the experience side travel and hospitality also have a uh uh i don't know
+
+39
+00:02:51,460 --> 00:02:54,740
+financial ceiling they can charge before they lose people.
+
+40
+00:02:54,740 --> 00:02:58,180
+So getting their costs under control, despite fuel,
+
+41
+00:02:58,180 --> 00:03:02,699
+despite inflation, how is AI helping with that?
+
+42
+00:03:02,699 --> 00:03:04,860
+If you look at it historically,
+
+43
+00:03:04,860 --> 00:03:07,180
+companies have tried to make travel economical
+
+44
+00:03:07,180 --> 00:03:08,460
+to reach mass market.
+
+45
+00:03:08,460 --> 00:03:10,659
+If you go back to the 50s and 60s,
+
+46
+00:03:10,659 --> 00:03:13,460
+travel used to be only for the people who had money.
+
+47
+00:03:13,460 --> 00:03:15,060
+But over time, it has been democratized
+
+48
+00:03:15,060 --> 00:03:16,580
+and technology has helped that a lot.
+
+49
+00:03:16,580 --> 00:03:19,259
+And even today, the travel companies are making sure
+
+50
+00:03:19,259 --> 00:03:24,539
+that they're using technology very very efficiently to keep the cost under control and even with the
+
+51
+00:03:24,539 --> 00:03:29,199
+escalating jet fuel prices and everything else that is going on the efficiency that technology
+
+52
+00:03:29,199 --> 00:03:34,719
+is delivering in everyday work for example making sure that the flights are full the fares are
+
+53
+00:03:34,719 --> 00:03:40,360
+highly optimized the the cargo is most optimally delivered the fact that you know temperature
+
+54
+00:03:40,360 --> 00:03:45,280
+control in the in the inside the cabin is well maintained the fact that when they are taxiing
+
+55
+00:03:45,280 --> 00:03:50,639
+the runway only one engine is running and and and what cruise altitude they should fly so for every
+
+56
+00:03:50,639 --> 00:03:55,439
+single thing to optimize and make sure that they are doing the right things travel is essential
+
+57
+00:03:55,439 --> 00:04:00,000
+even in this hotel for the example i was talking to the manager and they were telling me that of
+
+58
+00:04:00,000 --> 00:04:04,560
+all the eight list banks only certain list banks operate at particular hours so that they can save
+
+59
+00:04:04,560 --> 00:04:08,879
+on fuel and then save on costs and generators and things like that so there's a lot of optimizations
+
+60
+00:04:08,879 --> 00:04:13,199
+that we don't see that's happening all the time and that's all being powered by technology by data
+
+61
+00:04:13,199 --> 00:04:18,639
+by AI and so on and so forth. Back on the care part one quick example even from last week
+
+62
+00:04:18,639 --> 00:04:22,959
+I accidentally left a laptop in a rental vehicle and of course very nervous about that
+
+63
+00:04:23,519 --> 00:04:29,519
+within a few hours was able to contact car rental agency isolate it and take care of it and I started
+
+64
+00:04:29,519 --> 00:04:36,560
+thinking if you didn't have tech working like that very manual who knows if you can get it back it's
+
+65
+00:04:36,560 --> 00:04:42,800
+It's mailed back weeks later, and so the ability to quickly pinpoint, personalize it, and make
+
+66
+00:04:42,800 --> 00:04:47,860
+sure that even though they're handling thousands of rentals, they could find that one.
+
+67
+00:04:47,860 --> 00:04:49,319
+That was one of the success stories.
+
+68
+00:04:49,319 --> 00:04:53,060
+Yeah, and that's just one of the so many examples that are out there.
+
+69
+00:04:53,060 --> 00:04:58,279
+I mean, if you see people traveling, especially on airlines, the number one concern that they
+
+70
+00:04:58,279 --> 00:05:02,399
+have besides the flight being on time is that they don't want to lose their bags when they
+
+71
+00:05:02,399 --> 00:05:03,399
+reach the destination.
+
+72
+00:05:03,399 --> 00:05:07,800
+so much important to every single passenger. So the airlines are making sure that they use
+
+73
+00:05:07,800 --> 00:05:13,480
+technology to pinpoint the exact bag if in case the bag does get missed in a tight connection
+
+74
+00:05:13,480 --> 00:05:19,240
+or whatever. But they have made sure that you can actually track your bag globally anywhere it is
+
+75
+00:05:19,240 --> 00:05:23,800
+and missed bag rates have come down dramatically. Not to reinforce your point but on the same trip
+
+76
+00:05:23,800 --> 00:05:30,920
+last week I had bags go because of cancellations in two different airports but was able to track
+
+77
+00:05:30,920 --> 00:05:35,439
+track them down the next day so at least we know where it was that's true so i felt better about
+
+78
+00:05:35,439 --> 00:05:39,579
+that yeah i'm glad you got the the you're able to trace it and then we'll get away and that goes to
+
+79
+00:05:39,579 --> 00:05:44,240
+the point that you know we are still a little bit away from where i would say the nirvana stage
+
+80
+00:05:44,240 --> 00:05:47,699
+where everything is perfect because we're never going to be there's always going to be weather
+
+81
+00:05:47,699 --> 00:05:52,279
+phenomenon and things which are outside of control and what travel is trying to do is making sure
+
+82
+00:05:52,279 --> 00:05:56,879
+that with technology with insights with data they're creating this what we call something
+
+83
+00:05:56,879 --> 00:06:01,160
+similar to what Infosys is talking about, like the Topaz framework, is an orchestration layer
+
+84
+00:06:01,160 --> 00:06:06,100
+which kind of operates the underlying subsystems in the best efficient way so that the travel and
+
+85
+00:06:06,100 --> 00:06:09,839
+the experience is delivered correctly. It's going to need to because now I think these things work
+
+86
+00:06:09,839 --> 00:06:14,680
+when you have a savvy traveler or a savvy person who kind of knows the questions to ask and what
+
+87
+00:06:14,680 --> 00:06:20,620
+to do. What about the person who might not know these things? So how can you make it more intuitive?
+
+88
+00:06:20,860 --> 00:06:25,379
+I think AI might be able to help there. One good example is that when people are traveling who do
+
+89
+00:06:25,379 --> 00:06:29,579
+not know english for example and and they are language language they're exactly and then you
+
+90
+00:06:29,579 --> 00:06:34,060
+know people coming into airports and they want to go through customs pick up bags or drop off bags
+
+91
+00:06:34,060 --> 00:06:38,920
+and things like that so every single message is being communicated on their mobile app with proper
+
+92
+00:06:38,920 --> 00:06:43,319
+guidance in their language and very specifically saying that okay your next connecting flight is
+
+93
+00:06:43,319 --> 00:06:48,319
+you know so many meters away and then go there contextualization as well it's a great point
+
+94
+00:06:48,319 --> 00:06:56,939
+Because, for example, LAX here, the Uber, the shared area, it's very different than every airport's different.
+
+95
+00:06:57,560 --> 00:07:04,560
+Some, they put you into a cattle car area, or some, it's very intuitive, but you need to make it so that isn't a big source of stress.
+
+96
+00:07:04,699 --> 00:07:10,519
+Yeah, and that's an interesting point because over here you see how widespread the travel industry is compared to others
+
+97
+00:07:10,519 --> 00:07:13,060
+because you're talking about three different service providers.
+
+98
+00:07:13,060 --> 00:07:16,019
+You've got the airline, which is taking you all the way to the gate.
+
+99
+00:07:16,019 --> 00:07:18,480
+Then you've got the airport, which actually is where you travel through.
+
+100
+00:07:18,740 --> 00:07:23,019
+Then you've got the transportation company, which is actually taking you from the bus to the Uber stand.
+
+101
+00:07:23,060 --> 00:07:24,000
+And then you've got Uber itself.
+
+102
+00:07:24,360 --> 00:07:26,800
+And then you've got the driver in a separate car.
+
+103
+00:07:26,959 --> 00:07:28,540
+So you've got all these you're trying to coordinate.
+
+104
+00:07:28,860 --> 00:07:35,699
+And the thing that I think we will start seeing in the very near future is that all these three or four ecosystem players
+
+105
+00:07:35,699 --> 00:07:43,740
+kind of share their data, share their technology, and make it easy for the traveler to actually get from the point they need to come from
+
+106
+00:07:43,740 --> 00:07:47,259
+the point that we need to go to in all very seamless way because you don't have to switch
+
+107
+00:07:47,259 --> 00:07:50,779
+between the airport app and the airline app and the uber app because it's all going to come
+
+108
+00:07:50,779 --> 00:07:55,259
+together we've already seen a fair degree of integration between let's say the uber and the
+
+109
+00:07:55,259 --> 00:07:59,660
+airline but we're also going to now see all of these three pieces come together so that you kind
+
+110
+00:07:59,660 --> 00:08:04,300
+of get through this process in a very serious way that's all on the rosy side what about the dark
+
+111
+00:08:04,300 --> 00:08:11,899
+underbelly security cyber security privacy yeah and and that's that's always keeping the the cios
+
+112
+00:08:11,899 --> 00:08:14,319
+and the CISOs of all these travel companies.
+
+113
+00:08:14,439 --> 00:08:16,000
+And we see that happen time to time.
+
+114
+00:08:16,540 --> 00:08:19,060
+Back 10 years ago, Starwood Hotels back then,
+
+115
+00:08:19,120 --> 00:08:21,439
+before they got acquired by Marriott, had a major breach.
+
+116
+00:08:21,779 --> 00:08:23,279
+A lot of loyalty data got out.
+
+117
+00:08:23,660 --> 00:08:25,120
+Since then, of course, things have improved.
+
+118
+00:08:25,439 --> 00:08:28,660
+And we're going to see continuously things being checked.
+
+119
+00:08:29,019 --> 00:08:32,279
+And now with AI and new mythos coming out,
+
+120
+00:08:32,340 --> 00:08:35,500
+I think there's a lot of focus to make sure that the internal systems
+
+121
+00:08:35,500 --> 00:08:38,919
+as well as the perimeter is well guarded so that travel data
+
+122
+00:08:38,919 --> 00:08:43,179
+And a lot of people have a lot of personal data about where they travel, who they travel with, things like that.
+
+123
+00:08:43,200 --> 00:08:44,000
+They want to keep it guarded.
+
+124
+00:08:44,500 --> 00:08:47,940
+And the last thing that any travel company wants to do is have a breach.
+
+125
+00:08:48,340 --> 00:08:50,679
+So there is always that sensitivity out there.
+
+126
+00:08:50,799 --> 00:09:00,059
+But the good thing is that with technology and with AI, a lot of things that were previously not possible is now possible, which is edge-based perimeter security.
+
+127
+00:09:00,120 --> 00:09:00,879
+What about the people?
+
+128
+00:09:00,960 --> 00:09:02,639
+It's a very people-oriented business.
+
+129
+00:09:02,759 --> 00:09:08,299
+And yet, in some industries, the concern is about AI taking over people's jobs.
+
+130
+00:09:08,299 --> 00:09:10,299
+Where do you see that playing out?
+
+131
+00:09:10,299 --> 00:09:16,460
+Yeah, so there is always going to be this dynamic between AI or technology and people.
+
+132
+00:09:16,460 --> 00:09:21,179
+And in some areas, like for example, contact center, I do see technology actually helping
+
+133
+00:09:21,179 --> 00:09:23,179
+and assisting contact center quite a bit.
+
+134
+00:09:23,179 --> 00:09:27,659
+So you don't have to spend during a disruption, one phone, even though you're a gold, platinum,
+
+135
+00:09:27,659 --> 00:09:30,059
+whatever, for hours talking to someone.
+
+136
+00:09:30,059 --> 00:09:31,659
+And help will be immediately available.
+
+137
+00:09:31,659 --> 00:09:33,340
+In most cases, it is proactive.
+
+138
+00:09:33,340 --> 00:09:35,980
+So it actually will send you the information most of the time.
+
+139
+00:09:35,980 --> 00:09:40,539
+but in other cases for example where let's say there is a real disruption and your bag is in a
+
+140
+00:09:40,539 --> 00:09:46,620
+pile of 10 000 bags in a heat throw you will you ai is not to the point where there is a robot which
+
+141
+00:09:46,620 --> 00:09:50,860
+goes and gets your bag and things like that there will be some of those elements still out there
+
+142
+00:09:50,860 --> 00:09:55,179
+uh but the good thing is that we are moving in the right direction uh so for example you know
+
+143
+00:09:55,179 --> 00:09:59,419
+in this particular hilton that we are here you could have checked a room and picked your room
+
+144
+00:09:59,419 --> 00:10:04,139
+ahead of time even before you showed up at the registration booth i mean those are things that
+
+145
+00:10:04,139 --> 00:10:08,220
+are out there which is actually making a little bit of i guess customers driving a little bit of
+
+146
+00:10:08,220 --> 00:10:13,100
+customer satisfaction but we are still far away from where the perfect world is but we're getting
+
+147
+00:10:13,100 --> 00:10:17,659
+that i think now technology is allowing people to get there i think it all comes down to the
+
+148
+00:10:17,659 --> 00:10:23,980
+underlying data the technology and um the the ability to make sure that the the data is such
+
+149
+00:10:23,980 --> 00:10:28,539
+that it can be actually worked with using the technology that is available today because travel
+
+150
+00:10:28,539 --> 00:10:33,899
+industry some vast amount of data i mean that is a given but how do you make use of all of that to
+
+151
+00:10:33,899 --> 00:10:38,940
+drive the efficient outcome that's where the real like many things in life a good foundation allows
+
+152
+00:10:38,940 --> 00:10:43,820
+you to do all the fun stuff that is true yeah and it's no different awesome you know i know you've
+
+153
+00:10:43,820 --> 00:10:49,259
+got to finish the conference thank you so much for your time thanks thank you i'm jeff cavanaugh
+
+154
+00:10:49,259 --> 00:10:52,620
+until next time keep learning and keep sharing
+

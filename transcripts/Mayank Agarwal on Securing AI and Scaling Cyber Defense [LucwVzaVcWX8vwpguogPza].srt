@@ -1,0 +1,796 @@
+1
+00:00:05,169 --> 00:00:07,870
+I'm Jeff Cavanaugh with the Infosys Knowledge Institute.
+
+2
+00:00:08,289 --> 00:00:11,070
+We're here at Infosys Connect conference in Los Angeles.
+
+3
+00:00:11,730 --> 00:00:17,550
+And very happy to be joined today by Mayank Ardawal, who's the head of cybersecurity Americas at Infosys.
+
+4
+00:00:17,769 --> 00:00:19,649
+Hey Jeff, so nice to meet you.
+
+5
+00:00:19,789 --> 00:00:20,070
+You bet.
+
+6
+00:00:20,890 --> 00:00:24,510
+We're talking about unlocking value from AI.
+
+7
+00:00:24,829 --> 00:00:28,769
+And I can't think of a more important and sometimes misunderstood area of cybersecurity.
+
+8
+00:00:29,589 --> 00:00:30,670
+So let's just jump into it.
+
+9
+00:00:30,670 --> 00:00:39,149
+what is it that you're seeing now trend wise with cyber security and AI it's a
+
+10
+00:00:39,149 --> 00:00:43,310
+pretty interesting topic first of all you talked about cyber security being a
+
+11
+00:00:43,310 --> 00:00:48,090
+little bit of a misunderstood topic thanks for saying that a lot of times
+
+12
+00:00:48,090 --> 00:00:55,049
+people talk about cyber security as a function that wants to port a lot of
+
+13
+00:00:55,049 --> 00:01:03,770
+guardrails that slows down innovation in fact the way i look at it is cyber security is fully
+
+14
+00:01:03,770 --> 00:01:10,650
+important in a environment in a client environment because these guardrails help you to go faster
+
+15
+00:01:10,650 --> 00:01:16,409
+it's like i was talking to one of the race drivers and what he said is typically in a
+
+16
+00:01:16,409 --> 00:01:22,810
+race car what do you think is the most important thing that helps me go faster and i was guessing
+
+17
+00:01:22,810 --> 00:01:29,689
+for some time and then he said to my surprise it's the brakes i was amazed uh because he said
+
+18
+00:01:29,689 --> 00:01:37,370
+yes uh it's the aerodynamic body the engine all of those are good but finally knowing that i can
+
+19
+00:01:37,370 --> 00:01:43,049
+truly rely on my braking systems because i have the right guard rail that truly helped me coming
+
+20
+00:01:43,049 --> 00:01:49,290
+back to your question on ai and cyber security that whole intersection we see two interplays in
+
+21
+00:01:49,290 --> 00:01:56,609
+that yeah first truly protecting AI because when you truly look at AI how do
+
+22
+00:01:56,609 --> 00:02:02,069
+you make sure that you work with the models the data is protected the agent
+
+23
+00:02:02,069 --> 00:02:06,569
+identity is taken care of all the output that's coming in that's right it's
+
+24
+00:02:06,569 --> 00:02:12,270
+acceptable it's following the laws of the land and so on and so forth so
+
+25
+00:02:12,270 --> 00:02:17,169
+that's one area which is all protecting and guarding the AI second piece is all
+
+26
+00:02:17,169 --> 00:02:25,030
+about leveraging AI to truly amplify the work that we are doing in cybersecurity.
+
+27
+00:02:25,030 --> 00:02:31,289
+So finding the needle in the haystack faster, fighting the bad actors in your
+
+28
+00:02:31,289 --> 00:02:35,830
+environment faster, and truly acting it at scale. So that's are the two things.
+
+29
+00:02:35,830 --> 00:02:41,849
+One is protecting AI and second is leveraging AI to make sure we are truly
+
+30
+00:02:41,849 --> 00:02:45,250
+amplifying the work of the cybersecurity team.
+
+31
+00:02:45,250 --> 00:02:47,770
+Can you share an example, a recent one,
+
+32
+00:02:47,770 --> 00:02:49,250
+from one of the clients you work with
+
+33
+00:02:49,250 --> 00:02:52,229
+where it really hit that home run?
+
+34
+00:02:52,229 --> 00:02:54,250
+You know, it really was able to overcome something
+
+35
+00:02:54,250 --> 00:02:56,009
+and build that trust?
+
+36
+00:02:56,009 --> 00:03:00,349
+So two things, what we did recently with a customer.
+
+37
+00:03:00,349 --> 00:03:05,349
+One, we built a agent that does a lot of work
+
+38
+00:03:07,729 --> 00:03:10,830
+which is needed in risk management,
+
+39
+00:03:10,830 --> 00:03:16,169
+compliance from a cybersecurity perspective and a lot of times that whole activity used
+
+40
+00:03:16,169 --> 00:03:21,530
+to be a big tedious activity reaching out to multiple sets of individuals, looking at
+
+41
+00:03:21,530 --> 00:03:24,069
+different sets of submission reports and stuff.
+
+42
+00:03:24,069 --> 00:03:31,870
+So we've been able to create a GRC agent that truly is a global risk and compliance agent
+
+43
+00:03:31,870 --> 00:03:36,789
+and that is something that has been able to automate a lot of that work.
+
+44
+00:03:36,789 --> 00:03:42,270
+been able to cut down the time it used to take to prepare for a cyber audit for a certain
+
+45
+00:03:42,270 --> 00:03:48,449
+function from more than four, four and a half months to less than a month timeframe.
+
+46
+00:03:48,449 --> 00:03:50,710
+So that has been significant.
+
+47
+00:03:50,710 --> 00:03:58,409
+Second piece, what we've done when it comes to leveraging AI in cyber, there is this whole
+
+48
+00:03:58,409 --> 00:04:02,289
+area called SOC, Security Operations Center.
+
+49
+00:04:02,289 --> 00:04:09,189
+And the whole job out there is to find out patterns and activities where you try to see
+
+50
+00:04:09,189 --> 00:04:14,490
+if there is an attacker who's trying to or an attacker or an adversary who's trying to
+
+51
+00:04:14,490 --> 00:04:17,889
+get into your environment, take all the good data.
+
+52
+00:04:17,889 --> 00:04:22,329
+So that's where earlier it used to take in a complex environment.
+
+53
+00:04:22,329 --> 00:04:30,029
+It used to take between 12 hours to almost two to three days to solve a very, very complex
+
+54
+00:04:30,029 --> 00:04:31,029
+kind of case.
+
+55
+00:04:31,029 --> 00:04:51,509
+Today, what we have been able to do is amplify the work that our agents are doing, and we've been able to correlate a lot of information, give them the information, and that has truly helped them to cut down this analysis from 12 hours to two to three days to almost like less than two hours.
+
+56
+00:04:51,829 --> 00:04:55,790
+So a lot of powerful use cases in cybersecurity around AI.
+
+57
+00:04:56,509 --> 00:05:00,610
+What I'm hearing as well is it's not just what you have to do is being reduced.
+
+58
+00:05:01,089 --> 00:05:05,290
+Maybe things you couldn't have time to do before, you can now do more of.
+
+59
+00:05:05,410 --> 00:05:08,350
+In other words, you can have more coverage, the nice-to-haves.
+
+60
+00:05:08,689 --> 00:05:11,889
+You can actually do more of that even beyond the compliance just for protection.
+
+61
+00:05:12,189 --> 00:05:12,850
+Oh, absolutely.
+
+62
+00:05:13,889 --> 00:05:15,069
+It's built in by design.
+
+63
+00:05:15,209 --> 00:05:16,269
+Yes, it's built in.
+
+64
+00:05:16,389 --> 00:05:23,509
+In fact, earlier we were running SOC for this large chip manufacturing company.
+
+65
+00:05:23,509 --> 00:05:31,129
+and what used to happen earlier was so there are significant number of alerts
+
+66
+00:05:31,129 --> 00:05:37,250
+which were there that who will assign to a user group and they were taking their
+
+67
+00:05:37,250 --> 00:05:42,649
+own time and trying to solve those and stuff now with the advent of AI what we
+
+68
+00:05:42,649 --> 00:05:48,230
+have been able to do is truly solve those things in a much efficient way and
+
+69
+00:05:48,230 --> 00:05:53,389
+then only escalate to those user groups which are the manufacturing say plant
+
+70
+00:05:53,389 --> 00:05:56,170
+which they have across the globe,
+
+71
+00:05:56,170 --> 00:06:00,350
+only a handful of them that truly needs their settings.
+
+72
+00:06:00,350 --> 00:06:03,550
+So what we've been able to do is cut down the work
+
+73
+00:06:03,550 --> 00:06:05,810
+of the manufacturing team out there
+
+74
+00:06:05,810 --> 00:06:09,350
+and effectively improve the cybersecurity in the region.
+
+75
+00:06:09,350 --> 00:06:11,009
+So it has worked out very well.
+
+76
+00:06:12,769 --> 00:06:15,410
+You know, we hear a lot about trust
+
+77
+00:06:15,410 --> 00:06:19,610
+and trust is often with loyalty and customers.
+
+78
+00:06:19,610 --> 00:06:22,550
+I'm thinking cyber has to play a role
+
+79
+00:06:22,550 --> 00:06:25,769
+in developing trust with regulatory agents,
+
+80
+00:06:25,769 --> 00:06:29,209
+with your customers, with your corporate leaders?
+
+81
+00:06:29,209 --> 00:06:33,230
+Absolutely, when you associate trust,
+
+82
+00:06:33,230 --> 00:06:35,509
+in fact, even in our strategy,
+
+83
+00:06:35,509 --> 00:06:38,689
+out of the hexagon strategy that we have,
+
+84
+00:06:38,689 --> 00:06:42,029
+Trust.ai is one of the big pillars which is out there.
+
+85
+00:06:42,029 --> 00:06:44,569
+And the reason why trust is so important,
+
+86
+00:06:44,569 --> 00:06:48,709
+because it's all about putting the right set of guardrails
+
+87
+00:06:48,709 --> 00:06:52,509
+when you are sending someone or some information,
+
+88
+00:06:52,509 --> 00:06:55,649
+You truly want to trust that information is coming in
+
+89
+00:06:55,649 --> 00:06:57,949
+from that individual, that person.
+
+90
+00:06:57,949 --> 00:07:00,310
+If it's a black box, you have to trust.
+
+91
+00:07:00,310 --> 00:07:05,310
+Absolutely, and there is nothing that has been truly made,
+
+92
+00:07:05,529 --> 00:07:07,250
+someone has not made any changes
+
+93
+00:07:07,250 --> 00:07:09,310
+when they send this information.
+
+94
+00:07:09,310 --> 00:07:10,930
+So there is confidentiality,
+
+95
+00:07:10,930 --> 00:07:13,389
+there is integrity and availability,
+
+96
+00:07:13,389 --> 00:07:17,230
+all through our very important dimensions of trust
+
+97
+00:07:17,230 --> 00:07:20,750
+that we take care of from a cybersecurity perspective.
+
+98
+00:07:20,750 --> 00:07:30,310
+Yeah. Well, as you're thinking about this, I think about the tens of thousands of attacks that could be coming in.
+
+99
+00:07:30,310 --> 00:07:39,230
+Could you just paint a picture of what a modern CISO, cyber officer in a company is dealing with?
+
+100
+00:07:39,589 --> 00:07:44,730
+How many attacks come in? How many of them are thwarted through AI?
+
+101
+00:07:45,089 --> 00:07:47,790
+And then how are they using cyber to overcome it?
+
+102
+00:07:47,790 --> 00:07:57,490
+So, let me define the role of this person, the head of cybersecurity, CISO.
+
+103
+00:07:57,490 --> 00:08:00,850
+Dealing with attacks is just one part of his job.
+
+104
+00:08:00,850 --> 00:08:08,029
+So that is what we call as threats, so he or she truly needs to look at what are the
+
+105
+00:08:08,029 --> 00:08:14,170
+different threat actors that are attacking the enterprise, not just indirectly, but maybe
+
+106
+00:08:14,170 --> 00:08:16,089
+through their suppliers as well.
+
+107
+00:08:16,089 --> 00:08:17,589
+That's true, tier two, tier three.
+
+108
+00:08:17,589 --> 00:08:19,470
+Yeah, the supply chain attacks that we talked about.
+
+109
+00:08:19,470 --> 00:08:20,449
+From their smart devices.
+
+110
+00:08:20,569 --> 00:08:21,610
+Yes, absolutely.
+
+111
+00:08:21,990 --> 00:08:26,269
+The cameras, even the target attack happened through a fish tank.
+
+112
+00:08:26,970 --> 00:08:28,029
+A fish tank? No way.
+
+113
+00:08:28,189 --> 00:08:31,069
+Yeah, so it's truly interesting.
+
+114
+00:08:31,490 --> 00:08:35,669
+So one is working and truly protecting the company against the threats.
+
+115
+00:08:36,070 --> 00:08:40,990
+Second piece is there are a lot of converting these threats into risks
+
+116
+00:08:40,990 --> 00:08:45,370
+because there is probability, there is impact analysis, impact to the business.
+
+117
+00:08:45,370 --> 00:08:50,929
+converting all of them into a risk then creating a risk mitigation plan some you
+
+118
+00:08:50,929 --> 00:08:55,490
+can transfer the risk to insurance some you can do a remediation residual risk
+
+119
+00:08:55,490 --> 00:09:00,210
+which is there and creating this whole risk management framework and reporting
+
+120
+00:09:00,210 --> 00:09:05,629
+back to the board that happens third is there's a lot of compliance that CISO
+
+121
+00:09:05,629 --> 00:09:11,070
+deals with so elements around SOX compliance which is all around software
+
+122
+00:09:11,070 --> 00:09:18,110
+attestation the identity and access pieces there are privacy requirement pci dss hipaa and so on
+
+123
+00:09:18,110 --> 00:09:25,470
+and so forth so a lot of those things that the cso has to deal with fourth is if there is a true
+
+124
+00:09:25,470 --> 00:09:32,669
+cyber event that happens how do you truly recover from it and it's really different from a bcp or a
+
+125
+00:09:32,669 --> 00:09:39,309
+dr event which is there so it's all about baking in a cyber resiliency plan which is there and
+
+126
+00:09:39,309 --> 00:09:47,570
+And lastly, cyber is also truly responsible for providing a secure user experience which
+
+127
+00:09:47,570 --> 00:09:52,129
+is there and all of this leveraging AI, protecting AI.
+
+128
+00:09:52,129 --> 00:09:56,690
+So that's where I call the five things that the CISOs are responsible for.
+
+129
+00:09:56,690 --> 00:10:02,509
+Managing threats, converting those threats into risk and reporting to the board, making
+
+130
+00:10:02,509 --> 00:10:09,230
+sure there is cyber compliance which is there, ensuring there is cyber resiliency and last
+
+131
+00:10:09,230 --> 00:10:13,929
+Mostly it's all about providing the secured user experience and those are five things
+
+132
+00:10:13,929 --> 00:10:18,649
+that the CISO is responsible for, not just Thrix.
+
+133
+00:10:18,649 --> 00:10:19,649
+Well put.
+
+134
+00:10:19,649 --> 00:10:20,649
+Well played.
+
+135
+00:10:20,649 --> 00:10:25,909
+You said one little phrase you dropped in there, important to the board.
+
+136
+00:10:25,909 --> 00:10:32,950
+It's interesting how visible, I mean board members, NACD, the whole corporate directors,
+
+137
+00:10:32,950 --> 00:10:35,350
+they have training for board members on cyber.
+
+138
+00:10:35,350 --> 00:10:39,509
+I think of all the areas that board members get training on, they actually go deeper and
+
+139
+00:10:39,509 --> 00:10:40,429
+more detailed in cyber.
+
+140
+00:10:40,809 --> 00:10:44,169
+So talk about why board members are getting involved with this.
+
+141
+00:10:44,970 --> 00:10:46,269
+So very interesting.
+
+142
+00:10:46,629 --> 00:10:54,529
+In fact, a cyber event can truly impact the market cap of a company in a big way.
+
+143
+00:10:54,529 --> 00:11:03,769
+We've seen instances where publicly traded companies, their market cap can drop by 25-30%
+
+144
+00:11:03,769 --> 00:11:05,210
+because of a cyber incident.
+
+145
+00:11:05,350 --> 00:11:08,190
+So that's a very, very large number.
+
+146
+00:11:08,370 --> 00:11:09,570
+We call it asymmetric warfare.
+
+147
+00:11:09,929 --> 00:11:10,049
+Yes.
+
+148
+00:11:11,049 --> 00:11:16,529
+And it could be like 20s, 30s of billions of dollars market cap that we are talking about.
+
+149
+00:11:16,889 --> 00:11:31,710
+So that's why the board has the fiduciary responsibility to truly make sure it puts the right set of processes in place and the oversight to ensure that the companies are there for long runs and long periods of time.
+
+150
+00:11:31,710 --> 00:11:39,710
+So for that, if a single event can impact the value by 30%, they have to understand it better.
+
+151
+00:11:40,129 --> 00:11:51,450
+They have to ensure that the management team is aware of the risk and they put all the right systems and processes to make sure it doesn't happen to them.
+
+152
+00:11:52,629 --> 00:11:57,490
+Well, taking that to a whole other level, we got to talk about mythos.
+
+153
+00:11:57,490 --> 00:12:07,929
+So, what's your perspective on the new model coming out, its impact on cyber risk, and what are you telling clients these days about it?
+
+154
+00:12:08,389 --> 00:12:17,169
+In fact, last, I'll say, less than five weeks, I've done at least 25 conversations around mythos.
+
+155
+00:12:18,009 --> 00:12:19,909
+So, obviously, it started with fear.
+
+156
+00:12:21,389 --> 00:12:25,649
+About the new model, and the problem comes out with it, and it's going to attack everyone.
+
+157
+00:12:25,649 --> 00:12:30,129
+Yes. So what is, let me just first talk about what Mythos does.
+
+158
+00:12:30,570 --> 00:12:39,110
+So Mythos, what it does is it truly provides an ability to chain multiple vulnerabilities
+
+159
+00:12:39,110 --> 00:12:44,330
+which could have been very low probability, low severity vulnerability.
+
+160
+00:12:44,850 --> 00:12:47,850
+But what it does is it chains all of them together
+
+161
+00:12:47,850 --> 00:12:52,730
+and it can create a truly critical vulnerability in the environment
+
+162
+00:12:52,730 --> 00:12:59,049
+which if and when it is exploited it can truly bring down the entire enterprise
+
+163
+00:12:59,049 --> 00:13:05,029
+and that's what what we have seen today not just mythos but all other models
+
+164
+00:13:05,029 --> 00:13:11,929
+included Opus 4.7 GPT 5.5 clear wing and law of other models which are there
+
+165
+00:13:11,929 --> 00:13:19,370
+they are have very very high ability to chain these vulnerabilities together and
+
+166
+00:13:19,370 --> 00:13:25,610
+and they are not just available to the attackers but now also to the defenders so one important
+
+167
+00:13:25,610 --> 00:13:34,730
+dimensions for all the seesaws and and and even the boards is to truly look at what's truly the
+
+168
+00:13:34,730 --> 00:13:40,090
+most important critical vulnerabilities or chain of vulnerabilities which are there in the
+
+169
+00:13:40,090 --> 00:13:46,090
+environment that could get impacted so that's one part figuring out having the right visibility
+
+170
+00:13:46,090 --> 00:13:50,529
+putting the remediation plan if you cannot remediate is there a risk
+
+171
+00:13:50,529 --> 00:13:55,509
+transfer plan can you put compensating controls they're out there so that's one
+
+172
+00:13:55,509 --> 00:14:05,409
+thing second piece is also about fully working on resilience a cyber resilience
+
+173
+00:14:05,409 --> 00:14:11,230
+plan that could work in minutes not in days yeah so that's a learning yeah yeah
+
+174
+00:14:11,230 --> 00:14:16,750
+the response time so that's the second part to it and third is making sure that
+
+175
+00:14:16,750 --> 00:14:23,830
+the entire enterprise is aware of such a thing because businesses if a
+
+176
+00:14:23,830 --> 00:14:28,470
+company is in a manufacturing space they are all worried about are there
+
+177
+00:14:28,470 --> 00:14:33,669
+manufacturing lines running are they making the right set of output and a
+
+178
+00:14:33,669 --> 00:14:38,169
+retail company is all focused on are there right skews at the places and
+
+179
+00:14:38,169 --> 00:14:42,450
+stuff so all talking about all of this and bringing it together I think that's
+
+180
+00:14:42,450 --> 00:14:46,389
+what it's important that the enterprise is aware of it and then taking the right
+
+181
+00:14:46,389 --> 00:14:51,889
+set of steps around it so that's what our role is on this well now you have to
+
+182
+00:14:51,889 --> 00:14:55,990
+get back to things one last question what is it that executives should be
+
+183
+00:14:55,990 --> 00:15:00,009
+thinking about relative to cyber as the next big thing coming or the next
+
+184
+00:15:00,009 --> 00:15:04,149
+opportunity for them the next nine to twelve months I said more than nine to
+
+185
+00:15:04,149 --> 00:15:10,330
+12 months the big opportunity today is definitely unlocking the value from AI
+
+186
+00:15:10,330 --> 00:15:16,210
+one is going back to the first question where we started one is protecting the
+
+187
+00:15:16,210 --> 00:15:21,250
+AI make sure you are putting the right set of guardrails you know which agent
+
+188
+00:15:21,250 --> 00:15:25,649
+is doing what and you are able to crack that entire lifecycle of that whole
+
+189
+00:15:25,649 --> 00:15:31,690
+thing second is leveraging AI to the fullest in this cyber function so that
+
+190
+00:15:31,690 --> 00:15:33,590
+that you are able to amplify the work
+
+191
+00:15:33,590 --> 00:15:35,110
+that the cyber teams have been doing.
+
+192
+00:15:35,110 --> 00:15:38,649
+So cyber for AI and cyber in AI.
+
+193
+00:15:38,649 --> 00:15:42,110
+Absolutely, you put it absolutely correctly.
+
+194
+00:15:42,110 --> 00:15:43,450
+Well, Mike, it's been a pleasure talking with you.
+
+195
+00:15:43,450 --> 00:15:44,289
+So nice meeting you.
+
+196
+00:15:44,289 --> 00:15:45,129
+Thank you so much for your time.
+
+197
+00:15:45,129 --> 00:15:46,129
+Thank you.
+
+198
+00:15:46,129 --> 00:15:47,110
+I'm Jeff Cavanaugh.
+
+199
+00:15:47,110 --> 00:15:50,169
+Until next time, keep learning, do check.
+

@@ -1,0 +1,556 @@
+1
+00:00:06,740 --> 00:00:09,900
+Hi, I'm Jeff Cavanaugh at Emphasis Connect in Los Angeles.
+
+2
+00:00:10,240 --> 00:00:15,660
+Today, I'm joined by Siyash, president of Simplus, one of Emphasis' subsidiaries.
+
+3
+00:00:15,839 --> 00:00:16,539
+Good to see you, Siyash.
+
+4
+00:00:16,859 --> 00:00:18,899
+Good to see you, Jeff, and thanks for the opportunity.
+
+5
+00:00:19,420 --> 00:00:19,859
+Absolutely.
+
+6
+00:00:20,460 --> 00:00:26,019
+Well, let's talk about the world of Salesforce and also what you're seeing in the ecosystem.
+
+7
+00:00:26,800 --> 00:00:30,920
+How are your companies, your clients, trying to unlock AI value?
+
+8
+00:00:31,640 --> 00:00:34,560
+So, very good question.
+
+9
+00:00:34,560 --> 00:00:41,560
+And from an unlocking AI perspective, I think there's a lot of focus right now towards the value.
+
+10
+00:00:42,200 --> 00:00:43,539
+So what we're seeing the customer...
+
+11
+00:00:43,539 --> 00:00:46,659
+So not just buying something, but actually getting something measurable from it.
+
+12
+00:00:46,840 --> 00:00:47,359
+Absolutely.
+
+13
+00:00:47,759 --> 00:00:53,740
+And the enterprise objectives and values are becoming more critical because the investments are huge.
+
+14
+00:00:54,479 --> 00:00:56,619
+And that's what's driving, right?
+
+15
+00:00:56,659 --> 00:00:57,880
+What's the return on investment?
+
+16
+00:00:57,880 --> 00:01:03,200
+And the unlocking of value right now is starting with a lot of new process reinventions,
+
+17
+00:01:03,920 --> 00:01:10,159
+understanding a lot of prospects and penetrating new markets, bringing new revenue opportunities
+
+18
+00:01:10,159 --> 00:01:16,480
+that did not exist in the past. So the efficiency part is also the innovation part. Absolutely.
+
+19
+00:01:17,040 --> 00:01:21,680
+So from a whole aspect, they're giving them the possibilities that they did not even know.
+
+20
+00:01:23,040 --> 00:01:28,640
+Which markets to penetrate, which territory to focus, where should I get the biggest bank for
+
+21
+00:01:28,640 --> 00:01:34,400
+my buck? How can I optimize my processes to reduce the cost? Some of those aspects were there,
+
+22
+00:01:34,400 --> 00:01:40,079
+but with AI, it's giving you those decisions now and then also a whole roadmap to execute.
+
+23
+00:01:40,799 --> 00:01:47,599
+What's a recent example of a client who came in wanting to maybe simplify or get more productive
+
+24
+00:01:47,599 --> 00:01:51,840
+and then found one of these nuggets of wisdom coming out of there? So one of our customers,
+
+25
+00:01:51,840 --> 00:02:00,480
+it's one of the top two or top three networking equipment manufacturers based in the San Francisco
+
+26
+00:02:00,480 --> 00:02:08,659
+Bay Area. And as they're reimagining their whole channel revenue cycles or partner relationship
+
+27
+00:02:08,659 --> 00:02:14,180
+management, one of the things we started to do was one of the big fours already did the whole
+
+28
+00:02:14,180 --> 00:02:19,520
+strategy for them, but it was not executable. They gave them a PowerPoint sitting with the
+
+29
+00:02:19,520 --> 00:02:26,479
+chief automation officer it was not even vibing it was opening one of our platforms like topaz fabric
+
+30
+00:02:26,479 --> 00:02:33,740
+and talking to them creating a prompt and then identifying a lot of those ass because see
+
+31
+00:02:33,740 --> 00:02:38,259
+the uniqueness of these companies is the assets the ai assets that they had right
+
+32
+00:02:38,259 --> 00:02:43,960
+so just like us like our assets are topaz fabric but also built on the back of 50 other
+
+33
+00:02:43,960 --> 00:02:48,900
+some shiny new model is what you already have their context absolutely so they ran the same
+
+34
+00:02:48,900 --> 00:02:57,219
+prompt on their own internal gpt version and then we ran it and what came out was the areas of focus
+
+35
+00:02:57,219 --> 00:03:04,000
+that they should like immediately get some define an mvp not just here's a strategy 30 60 90 day
+
+36
+00:03:04,000 --> 00:03:11,060
+two-year two-year plan but an mvp and then also created one very important aspect of even
+
+37
+00:03:11,060 --> 00:03:16,939
+onboarding partners how do you do due diligence how you assign your risk and what we were able
+
+38
+00:03:16,939 --> 00:03:23,780
+so you got down to the job to be done the actual activity in the job and defining an mvp what we
+
+39
+00:03:23,780 --> 00:03:27,919
+gave them as an outcome of this whole session so it was is the powerpoint they actually could
+
+40
+00:03:27,919 --> 00:03:35,979
+execute it it was not a powerpoint 95 of the partner onboarding could be very quickly automated
+
+41
+00:03:35,979 --> 00:03:43,500
+with ai and the cycle will go down from today which is like 16 to 20 days to hours no what
+
+42
+00:03:43,500 --> 00:03:49,520
+Hours. Hours. Because partners, they don't come and go, but you want the ability to change them
+
+43
+00:03:49,520 --> 00:03:54,780
+out when you need to. Absolutely. Absolutely. And then the other thing is which partners they
+
+44
+00:03:54,780 --> 00:03:58,939
+should not be doing any business with. That's another very important. You're seeing leading
+
+45
+00:03:58,939 --> 00:04:03,979
+indicators then pattern recognition of maybe why you shouldn't continue with a partner. Absolutely.
+
+46
+00:04:04,360 --> 00:04:12,360
+Absolutely. So see, this is AI value in action. You reduce the onboarding time by up to 95 percent,
+
+47
+00:04:12,360 --> 00:04:18,759
+moved it from days to hours the other aspect was fast tracking your time to revenue because
+
+48
+00:04:18,759 --> 00:04:23,480
+when the partner comes in you can enable them you can enable the right parker in the channel
+
+49
+00:04:23,480 --> 00:04:28,199
+to kind of drive that revenue through them so that's a real use because there's many more
+
+50
+00:04:28,199 --> 00:04:32,519
+about three four others in the communication technology space that they're working in
+
+51
+00:04:32,519 --> 00:04:37,240
+financial services specifically banking we're seeing a lot of this reinvention going on does
+
+52
+00:04:37,240 --> 00:04:41,319
+tech get in the way because you're doing the mvp you're putting the prompts in you're getting good
+
+53
+00:04:41,319 --> 00:04:46,519
+information back but you do have to at some point connect to an erp system or some kind of
+
+54
+00:04:46,519 --> 00:04:54,680
+foundational any issues there we are what we're seeing now is a heavy emphasis see models a lot
+
+55
+00:04:54,680 --> 00:04:59,800
+of the organizations are focusing on models entropic all the frontier models not to name
+
+56
+00:04:59,800 --> 00:05:08,680
+anybody but that's not where you start models are just one of the seven layers of ai right
+
+57
+00:05:08,680 --> 00:05:16,199
+and where we come in and play so tech can get in the way if you are not looking the holistic
+
+58
+00:05:16,199 --> 00:05:21,699
+picture like you start with defining your goals and objectives as we start and you work way your
+
+59
+00:05:21,699 --> 00:05:28,600
+way backward technology also will participate if they see the value that and then this is new
+
+60
+00:05:28,600 --> 00:05:34,560
+they want to play they do not want to become a roadblock in this reimagination that we are going
+
+61
+00:05:34,560 --> 00:05:39,120
+through and tech modernization actually is becoming a big thing as our chairman talked about
+
+62
+00:05:39,120 --> 00:05:46,279
+it there's 11.8 trillion dollar you know addressable market just on legacy modernization
+
+63
+00:05:46,279 --> 00:05:51,839
+so there's a lot of work so tech will not get in the way we'll be partnering with them to drive
+
+64
+00:05:51,839 --> 00:05:58,399
+some of this and the value we bring in is our engineering expertise how you integrate do see
+
+65
+00:05:58,399 --> 00:06:03,480
+you don't fix what's not broken right we are solving the whole technical debt burden absolutely
+
+66
+00:06:03,480 --> 00:06:10,019
+not just technical debt it's your process debt it's your data debt it's your strategy debt
+
+67
+00:06:10,019 --> 00:06:14,660
+and it's also your tech debt so it's not just one aspect we had to have this whole thing on
+
+68
+00:06:14,660 --> 00:06:20,079
+digital bankruptcy avoiding digital bankruptcy yeah so it's so it's exciting time and the other
+
+69
+00:06:20,079 --> 00:06:25,220
+thing one of the other aspects that you're seeing on the same topic of is tech or this business or
+
+70
+00:06:25,220 --> 00:06:31,680
+tech you know kind of tussle that we have seen and then the top down bottoms up approach what
+
+71
+00:06:31,680 --> 00:06:38,920
+I've seen now happen is a mandate from top down right which is very critical but also bottoms up
+
+72
+00:06:38,920 --> 00:06:45,779
+for adoption otherwise it's just theatrics it's just slideware conversation customers want to see
+
+73
+00:06:45,779 --> 00:06:51,079
+an experience versus being presented to people who already want to experiment they have their
+
+74
+00:06:51,079 --> 00:06:55,160
+own personal versions of all these things so these experiments have gone in for two years now
+
+75
+00:06:55,160 --> 00:07:03,879
+Yeah. Now we are able to deliver actual working apps and solutions within days and weeks,
+
+76
+00:07:04,519 --> 00:07:09,720
+not months and years. Let's talk about people for a second. The tech, the process, the strategy.
+
+77
+00:07:09,720 --> 00:07:12,759
+How are you keeping humans both in the loop and in the building?
+
+78
+00:07:12,759 --> 00:07:19,639
+Yeah, very good question. See, today it's not just about a company coming in and taking over.
+
+79
+00:07:19,639 --> 00:07:26,540
+coding is just one aspect right using frontier models some of these uh coding platform white
+
+80
+00:07:26,540 --> 00:07:34,240
+coding platforms you can automate that but still on the decisioning there's still a lot of
+
+81
+00:07:34,240 --> 00:07:38,939
+psychofancy and hallucinations on the model you cannot rely on it today and i don't think it's
+
+82
+00:07:38,939 --> 00:07:45,800
+going to change even ai will give you predictions it's going to give you projections it's going to
+
+83
+00:07:45,800 --> 00:07:53,920
+give you the data but ultimately the same uh prompt if you use on another model it could give
+
+84
+00:07:53,920 --> 00:07:58,420
+you a little bit of a nuanced oh absolutely that's the whole deterministic non-deterministic problem
+
+85
+00:07:58,420 --> 00:08:05,879
+yeah so it's moved from deterministic to indicative to realistic right to in in the form
+
+86
+00:08:05,879 --> 00:08:11,379
+of the decision making as long as the eye doesn't tell us it depends absolutely yeah no today models
+
+87
+00:08:11,379 --> 00:08:15,519
+are not telling it depends today the model is saying well excellence question let me and they
+
+88
+00:08:15,519 --> 00:08:17,399
+will answer, what do you want to hear?
+
+89
+00:08:17,399 --> 00:08:19,100
+They'll boldly say it incorrectly, yeah.
+
+90
+00:08:19,100 --> 00:08:19,939
+Right.
+
+91
+00:08:19,939 --> 00:08:22,620
+So it's a very interesting time, Jeff,
+
+92
+00:08:22,620 --> 00:08:24,060
+and I think we're living it.
+
+93
+00:08:24,959 --> 00:08:28,660
+What do you think is the one thing to look for
+
+94
+00:08:28,660 --> 00:08:32,399
+in the next six to 12 months that's going to help companies
+
+95
+00:08:32,399 --> 00:08:34,320
+kind of get to that next level?
+
+96
+00:08:34,320 --> 00:08:37,659
+I think I see very, and we are living,
+
+97
+00:08:37,659 --> 00:08:38,980
+obviously being in the Bay Area,
+
+98
+00:08:38,980 --> 00:08:41,940
+we get exposed to a lot of these new tech companies.
+
+99
+00:08:41,940 --> 00:08:46,159
+See, number one is customers are being thrown.
+
+100
+00:08:46,159 --> 00:08:49,220
+Go back to the dot-com or the cloud days.
+
+101
+00:08:49,220 --> 00:08:52,559
+A lot was throwing, everything was as a service.
+
+102
+00:08:52,559 --> 00:08:55,960
+Similar on-site we're seeing with AI now.
+
+103
+00:08:55,960 --> 00:08:58,820
+Companies are being thrown too many solutions,
+
+104
+00:08:58,820 --> 00:09:03,659
+too many AI native point solutions as well, or models.
+
+105
+00:09:03,659 --> 00:09:05,500
+Everyday new thing is coming.
+
+106
+00:09:05,500 --> 00:09:07,639
+I think choosing the right partner
+
+107
+00:09:07,639 --> 00:09:11,799
+and right AI stack is gonna be very important.
+
+108
+00:09:11,799 --> 00:09:14,879
+So look at a holistic strategy of partnership.
+
+109
+00:09:14,879 --> 00:09:17,720
+Look at your own objectives and goals, right?
+
+110
+00:09:17,720 --> 00:09:20,080
+And really if I, so those are the two main things
+
+111
+00:09:20,080 --> 00:09:22,080
+and then focus on the data.
+
+112
+00:09:22,080 --> 00:09:23,639
+There's garbage in and garbage out.
+
+113
+00:09:23,639 --> 00:09:26,259
+And this is where you can not take human out of them.
+
+114
+00:09:26,259 --> 00:09:28,059
+You definitely need data scientists.
+
+115
+00:09:28,059 --> 00:09:30,919
+You need experts that can view those things
+
+116
+00:09:30,919 --> 00:09:34,139
+and come back with this is my AI strategy
+
+117
+00:09:34,139 --> 00:09:35,320
+for the next 12 months.
+
+118
+00:09:35,320 --> 00:09:37,620
+So partnerships are very important.
+
+119
+00:09:37,620 --> 00:09:39,240
+That is where we also play as you know,
+
+120
+00:09:39,240 --> 00:09:41,159
+being simplest Salesforce partners.
+
+121
+00:09:42,019 --> 00:09:43,159
+But we need to expand.
+
+122
+00:09:43,259 --> 00:09:44,299
+We need to think through
+
+123
+00:09:44,299 --> 00:09:46,740
+of how the right partnership model
+
+124
+00:09:46,740 --> 00:09:47,759
+can be leveraged.
+
+125
+00:09:48,440 --> 00:09:50,340
+And the human and AI in the loop
+
+126
+00:09:50,340 --> 00:09:52,039
+is going to be pretty critical
+
+127
+00:09:52,039 --> 00:09:53,639
+to achieve those goals.
+
+128
+00:09:54,480 --> 00:09:54,820
+Got it.
+
+129
+00:09:54,879 --> 00:09:55,700
+Well, speaking of partnering,
+
+130
+00:09:55,779 --> 00:09:56,679
+I know you have a lot of people
+
+131
+00:09:56,679 --> 00:09:57,679
+at this conference to speak with.
+
+132
+00:09:57,720 --> 00:09:58,940
+So thank you so much for your time.
+
+133
+00:09:59,139 --> 00:09:59,820
+Thank you, Jeff.
+
+134
+00:09:59,860 --> 00:10:00,940
+And it's always a pleasure.
+
+135
+00:10:01,240 --> 00:10:01,899
+Yeah, you bet.
+
+136
+00:10:01,960 --> 00:10:02,419
+Thank you.
+
+137
+00:10:03,980 --> 00:10:04,960
+I'm Jeff Cavanaugh.
+
+138
+00:10:05,019 --> 00:10:05,799
+Until next time,
+
+139
+00:10:06,039 --> 00:10:07,679
+keep learning and keep sharing.
+

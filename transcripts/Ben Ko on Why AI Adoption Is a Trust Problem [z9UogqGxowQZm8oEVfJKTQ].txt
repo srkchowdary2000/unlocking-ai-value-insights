@@ -1,0 +1,171 @@
+[00:00:07] I'm Jeff Cavanaugh here at the Infosys Connect conference in Los Angeles.
+[00:00:11] Here with Ben Coe, head of Kaleidoscope, part of Infosys.
+[00:00:14] Good to see you, Ben.
+[00:00:15] Thanks, Jeff.
+[00:00:16] Man, looking forward to talking with you.
+[00:00:19] It's always exciting.
+[00:00:20] You are leading a lot of the product innovation, product design for the company.
+[00:00:25] And we're talking here about AI value, how to unlock it.
+[00:00:29] What are you seeing with your work and your clients in this front end of the business with AI?
+[00:00:35] Yeah. So like you're right, Kaleidoscope Innovation is the product design and engineering arm of Infosys. And for three, four decades now, we've been inventing the future products that each of us use, either as consumers, video game players, drivers, surgeons, nurses.
+[00:00:53] we touch a lot of products that we use every day in life. These are physical products and
+[00:01:01] digital products and then the whole supply chain to make that a reality after you discover what
+[00:01:06] problem needs to be solved. So AI is manifesting a whole lot of ways as you can imagine very
+[00:01:12] different ways. Because on one hand you might think a physical product maybe AI wouldn't play
+[00:01:16] as big a role but you're saying it does. It absolutely does. Think about discovery of what
+[00:01:21] needs to be solved use the operating room for an example there's so much data in an operating room
+[00:01:27] but much of it is inaccessible it's qualitative data so in someone's head it's unstructured it's
+[00:01:33] in someone's head a nurse knows this a technician knows that the hospital administrator knows
+[00:01:38] something else ai is allowing us to bring that together and say there are physical and digital
+[00:01:44] product solutions to these problems but we have to know what the problem is first so how are we
+[00:01:49] using ai with leading uh hospital systems the on the provider side how are we using it with the
+[00:01:56] pharmaceutical companies and drug discovery and accelerating clinical trials how about surgical
+[00:02:01] robotics where yeah it's a it's a robotic physical system there's a lot of artificial intelligence
+[00:02:07] whether we're talking about like data ai and truly software ai or physical ai which is a massive part
+[00:02:14] of kaleidoscope's business we talk about robotics and automation and how that looks in an operating
+[00:02:18] room is completely different than how it looks in a manufacturing environment but the the
+[00:02:23] fundamentals of how you discover a problem and then reduce that to a potential solution
+[00:02:28] is very very similar and that's what we call product development and so our teams are using ai
+[00:02:33] across all of those systems sometimes to help product development be more effective to be faster
+[00:02:40] to be higher quality but sometimes it's even discovering what are the next things that we
+[00:02:44] need to be working on and focus our attention on those those big problem statements you can buy
+[00:02:50] something you can implement it but how do you get people to adopt this ai is very much a change
+[00:02:58] management problem as much as a technology problem and when we talk about rolling out a new piece of
+[00:03:05] tech in a product the old way of talking about it was oh there's a user error they didn't understand
+[00:03:10] how it functions um and and usability gets in the way that's what we call human factors engineering
+[00:03:16] human factors design when you talk about implementing these kinds of technologies
+[00:03:21] within a company not only do you have the the user interaction and the understanding of how the tech
+[00:03:28] works but you've also got this element of trust or that's not how we do it that's where i was headed
+[00:03:33] with the trust part yeah absolutely and so it by no means does this technology supplant the need
+[00:03:40] for good change management within a company and so part of our team's work we have a whole design
+[00:03:47] research team where they immerse within one of our clients businesses and it could be in a warehouse
+[00:03:54] environment where physical ai robotics are coming in and working side by side with humans or it
+[00:04:00] could be in more of a corporate design office where ai is being used to accelerate graphic
+[00:04:05] design user experience design and our design research team are embedding in these spaces
+[00:04:11] with the designers the researchers the associates the manufacturing operators
+[00:04:16] understand their opinions their feelings on these autonomous systems understand what keeps them up
+[00:04:24] at night or what do they wish was easier about their job showing how this technology can actually
+[00:04:30] solve their real problems not replacing them and then you start to turn these potential
+[00:04:36] resistance into advocates but you have to do the work of being there with the humans who are doing
+[00:04:42] this and bring their voice to the forefront and then incorporate that into your design process
+[00:04:48] getting specific how what have you seen in a company or or a warehouse or a surgical suite
+[00:04:57] where someone has created this value how they've seen it how have you how are you measuring it
+[00:05:03] it's as varied as the environment in which it's being deployed and sometimes it's
+[00:05:08] it's throughput it's yield it's you know failure states how many course corrections can you do
+[00:05:14] sometimes you're seeing a lot of it already oh absolutely or you're seeing very real measurable
+[00:05:18] outcomes where it's you know this metric increased by 28 because of automation or the decision making
+[00:05:26] was able to be accelerated by 15% because you have better data insights earlier, faster,
+[00:05:32] but it's not just more data, it's interpretable data. So it's contextualized, not just saying
+[00:05:39] here's a long list of metrics. Insightful data. Insightful data. And you can now take
+[00:05:43] multimodal streams. So what I'm getting from my corporate dashboard is aligning to what I'm seeing
+[00:05:50] in the manufacturing environment dashboard and here's my my inventory management system you're
+[00:05:56] bringing together these disparate systems and that's really the nature of physical ai we talk
+[00:06:01] about it a lot as if it's all robots and you know humanoids and things but if that the robotic
+[00:06:08] operating system isn't connecting to your warehouse management system to your manufacturing kit
+[00:06:12] execution system to your erp to all the other three-letter acronyms that run these businesses
+[00:06:18] then you're leaving a lot of opportunity on the table for for actual efficiency and each one of
+[00:06:23] those tools and the environments in which they're used will have their own metrics of success and
+[00:06:29] so again it comes back to your research design engineering teams need to understand what makes
+[00:06:35] those uh those leaders successful in each of those environments and those tools
+[00:06:41] and customize the solution one size does not fit all the great news about ai is it's very adaptable
+[00:06:46] and flexible, but you still need to have the expert context to ensure that when it is rolled
+[00:06:53] out, the change management's done well, and that you can prove the value. Because spending a lot
+[00:06:59] of money on this and corporate leaders want to know what's the value that I'm creating.
+[00:07:04] I see two big buckets. One is you're working with a product development organization
+[00:07:07] for their products to drive their innovation, or it could be for their process improvement teams,
+[00:07:12] like in the warehouse yep uh what's been the biggest resistance and what you have to overcome
+[00:07:18] for people to to agree with either your numbers or the value proposition and actually adopt it
+[00:07:25] if i use the example of um the teams who are using ai to i'll use design and engineering the
+[00:07:32] the r d teams there there is still a lot of concern about intellectual property privacy
+[00:07:38] data security that and that so if i'm using ai to help me invent a new piece of technology go
+[00:07:45] open someone else's cloud and my competitor gets it we don't want any accidental breaches or
+[00:07:49] disclosures of intellectual property prematurely because then you can risk your patent ability
+[00:07:56] you've you've got concerns about what if i'm uploading patient data all all these concerns
+[00:08:00] we've been talking about for half a decade now uh or really decades but with ai in particular
+[00:08:06] it jumped to the forefront five, six years ago. Those are still there. Now, the good news is
+[00:08:12] there are contextualized tools like Topaz Fabric that can live within our clients' data systems
+[00:08:19] where their data does not have to leave their environment, does not have to leave their
+[00:08:24] sandbox. So you've got a much more mature set of tools led by the large LLMs and the large
+[00:08:31] hyperscalers, but it's where we're seeing Infosys, Kaleidoscope Innovation, all of our companies
+[00:08:37] have built very, very mature models now and environments where we can reduce the concern
+[00:08:44] because they're made specifically to address those challenges. No one is trying to
+[00:08:50] sweep the privacy concerns or the data breach concerns under the rug. We're facing it as an
+[00:08:56] industry out in the open and developing tools specifically to address that. And I think that's
+[00:09:01] where we're seeing adoption accelerate because the legal teams, the compliance teams, the regulatory
+[00:09:07] teams are all saying, ah, finally, I'm being heard. I see tools that meet my needs, not just the cool
+[00:09:15] stuff that the engineers and designers want to see. What's the one thing that you're most excited
+[00:09:20] about in the next six to 12 months as it relates to AI in your field of work? I'm really excited to
+[00:09:27] see how it is making the product development process more accessible by that i mean we have
+[00:09:34] designers and engineers who spend their careers you know learning how to illustrate beautifully
+[00:09:40] learning how to work with computer aided design programs cad programs to come up with ear systems
+[00:09:46] or come up with really complicated electromechanical assemblies of course highly complex
+[00:09:52] code. But you've got business leaders across all of our clients, even our own companies,
+[00:09:58] who might be non-technical experts in their field, or they're experts in a non-technical field,
+[00:10:04] I should say, but need to be involved in the product development process. These might be
+[00:10:08] marketers, they might be finance folks, they might be sales folks who are working with the consumers,
+[00:10:15] the customers, the users of the technology that these companies are trying to invent.
+[00:10:19] we can now involve those leaders in the product development process and their ideas can be brought
+[00:10:26] to life so rather than you're democratizing the product development i'm very excited about this
+[00:10:31] because we've seen it with gen ai image generation but that's just like the baby step what happens
+[00:10:38] when you've got natural language processing for an engineering cad system the difference between
+[00:10:43] the image where oh that's cute there are dimensions to this there are tolerances there are specs
+[00:10:48] there's is it manufacturable how much is this thing going to cost will that be able to pass
+[00:10:53] down to the cnc machine and actually make it exactly and that's what we're we're doing this
+[00:10:58] within kaleidoscopes facilities where we've got a machine so you're living it you're living it
+[00:11:02] before you yeah our designers and engineers are you know they're working in their cad systems
+[00:11:06] they're getting 3d prints made they're going to the machine shop they're cutting steel they're
+[00:11:10] walking it into our operating room and then that cycle repeats in a couple of hours that has to
+[00:11:16] help you weeks or months as you're doing it with your own clients and it's incredibly fast for a
+[00:11:20] set of professional teams like we've got who this is their world but now we can start to bring in
+[00:11:25] folks who aren't part of this world into our process and that's really where co-design the
+[00:11:31] phrase i used earlier is design with not designed for we're designing with these folks we're
+[00:11:36] involving nurses in our process we're involving manufacturing associates in our process who have
+[00:11:40] never worked on an engineering problem before all right you've got great ideas but these agents
+[00:11:47] how do agents play into this agents i think become an augmenting tool so certainly there's
+[00:11:57] opportunities for efficiency you know processes can go faster but it also allows us as a company
+[00:12:04] or any of us as business leaders to redesign our own processes so i think if you just take agents
+[00:12:10] let's say out of the box you know let's they're custom agents but you just take them out of the
+[00:12:14] box and you apply them to your existing systems they'll go faster they'll allow your human
+[00:12:20] team to focus on the problems that they really need to focus on but if you really take the time
+[00:12:25] to redesign the processes for the agents working with humans and you're transforming yourself into
+[00:12:32] an ai native this is again the hard change management problem oh you're talking to the
+[00:12:37] non-ai area now you've got the exponential opportunity where it's not just okay we went
+[00:12:42] from here to faster now look what we can achieve i think that's the unlocked potential of agents
+[00:12:48] but it's got to be through really good detailed service implementation in front design you have
+[00:12:54] regulatory bodies both within a country and across countries what's the role they need to play
+[00:12:59] whether it's for patents whether it's for safety as ai makes all these things faster more possible
+[00:13:06] We, as humanity, need to get our heads wrapped around open systems.
+[00:13:10] So even though we're talking about artificial intelligence, and I'll use medical diagnostics as an example,
+[00:13:17] open models, AI models that are continuously learning from new data, are highly restricted or not permitted by FDA.
+[00:13:26] Because there's a question of, as that model keeps evolving, it's now different than what is approved.
+[00:13:32] and how do you revalidate it?
+[00:13:34] How do you prove that it's just as safe
+[00:13:35] as what was the data showed
+[00:13:37] in the clinical trial system
+[00:13:40] or the medical device approval process?
+[00:13:44] So the regulating bodies
+[00:13:47] are getting their heads wrapped around
+[00:13:48] how AI is being used
+[00:13:49] to accelerate some of these steps,
+[00:13:51] but not necessarily as the product itself
+[00:13:54] in a fully adaptive,
+[00:13:58] evolving software model.
+[00:14:00] I think that's a huge next step
+[00:14:02] we're going to have to confront. What if medicine can all of a sudden have a cure for cancer or have
+[00:14:07] that wonderful outcome, but it's not approved? I mean, the reverse is true as well. Something bad
+[00:14:13] can happen, you prevent, but it's a balance, isn't it? It absolutely is. And I had the pleasure of
+[00:14:18] listening to Dr. Francis Collins, who was the director of the NIH, talk about a patient-specific
+[00:14:25] treatment. This is unthinkable. I mean, it was science fiction. It's that nirvana for life
+[00:14:29] science is now and and now they can develop a gene therapy for a specific baby for her specific
+[00:14:38] disease based on where where her progression is yeah it still requires the discovery the clinical
+[00:14:45] trial all these you know the validation the safety but because of technology you can accelerate so
+[00:14:51] much of this to make it possible for one person now that's one example that happened just in
+[00:14:56] recent year but how do you scale it now and i think that's where we're heading and make it
+[00:15:01] affordable make it affordable absolutely accessible and it has to be safe all along the way but this
+[00:15:07] is where i think the science fiction now just becomes science future of how do we get there
+[00:15:12] it's through hard work and dedication of scientists engineers developers regulating bodies
+[00:15:17] but it's happening and that's incredibly exciting to me well man it's always a pleasure talking
+[00:15:21] with you because you're doing such interesting work it's both important technology-wise and
+[00:15:26] business-wise but you're also solving problems for real people it keeps it fun seeing you ben
+[00:15:31] thanks so much take care thank you i'm jeff cavanaugh until next time keep learning and keep
+[00:15:37] sharing

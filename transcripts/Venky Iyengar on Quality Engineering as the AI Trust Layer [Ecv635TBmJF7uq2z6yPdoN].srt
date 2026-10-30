@@ -1,0 +1,684 @@
+1
+00:00:04,530 --> 00:00:08,710
+I'm Jeff Kavanaugh here at Connect, Infosys Gauntlets here in Los Angeles.
+
+2
+00:00:08,910 --> 00:00:10,330
+I'm with Venky Iyengar.
+
+3
+00:00:10,730 --> 00:00:11,529
+Great to see you.
+
+4
+00:00:11,630 --> 00:00:12,009
+Good to see you.
+
+5
+00:00:12,029 --> 00:00:13,750
+Head of Quality, Engineering at Infosys.
+
+6
+00:00:14,089 --> 00:00:14,550
+Thank you.
+
+7
+00:00:15,650 --> 00:00:21,109
+You know, I tell people that quality engineering always gets a bad name, but it's misunderstood
+
+8
+00:00:21,109 --> 00:00:25,629
+because it doesn't sound exciting, and yet it's the foundation of almost everything that
+
+9
+00:00:25,629 --> 00:00:26,129
+goes on.
+
+10
+00:00:26,710 --> 00:00:32,049
+And what better area to talk about unlocking value from AI, because so much of this value
+
+11
+00:00:32,049 --> 00:00:33,750
+is kind of hidden or beneath the sodas.
+
+12
+00:00:34,310 --> 00:00:34,450
+Yeah.
+
+13
+00:00:34,530 --> 00:00:43,030
+What are you seeing out there with companies in the area of quality engineering when you apply AI to generate value?
+
+14
+00:00:43,990 --> 00:00:45,350
+Yeah, Jeff, that's a great question.
+
+15
+00:00:46,310 --> 00:00:52,509
+There are broadly two dimensions of how AI applies in the world of quality engineering.
+
+16
+00:00:53,070 --> 00:01:01,810
+One is, you know, how do you leverage AI to do quality engineering for the traditional types of testing that we do?
+
+17
+00:01:01,810 --> 00:01:02,369
+Testing.
+
+18
+00:01:02,710 --> 00:01:04,189
+Which are deterministic in nature.
+
+19
+00:01:05,290 --> 00:01:06,250
+Deterministic, yeah.
+
+20
+00:01:06,329 --> 00:01:06,670
+Yes.
+
+21
+00:01:07,109 --> 00:01:10,329
+But the second dimension, which is even more exciting,
+
+22
+00:01:11,049 --> 00:01:16,969
+is how do you test this probabilistic AI-infused applications or systems?
+
+23
+00:01:17,930 --> 00:01:20,030
+So, you know, it's a very interesting paradigm.
+
+24
+00:01:20,250 --> 00:01:22,230
+It's a huge opportunity for all of us.
+
+25
+00:01:22,790 --> 00:01:24,549
+It's, in fact, a tale of two cities.
+
+26
+00:01:25,650 --> 00:01:29,709
+Using AI for QE to test the deterministic applications
+
+27
+00:01:29,709 --> 00:01:31,769
+are going to bring down our services revenue.
+
+28
+00:01:31,769 --> 00:01:48,370
+But at the same time, testing AI systems to make sure that they are trustworthy, they are of great quality, and they have item-potent characteristics that the enterprises need is super important.
+
+29
+00:01:48,909 --> 00:01:51,030
+And that business is going to grow tremendously.
+
+30
+00:01:51,989 --> 00:01:58,129
+So, as you can imagine, the biggest barrier in adopting anything in life is trust.
+
+31
+00:01:58,769 --> 00:02:00,750
+So, how do you trust AI?
+
+32
+00:02:00,750 --> 00:02:05,730
+AI. And that's where the quality engineering comes in and reshakes the antenna.
+
+33
+00:02:05,730 --> 00:02:10,409
+You keep the words that run out of my mouth because I was thinking, well, quality
+
+34
+00:02:10,409 --> 00:02:16,990
+engineering might not be the first thing you think about. Trust sometimes is. And trust
+
+35
+00:02:16,990 --> 00:02:25,030
+is only earned because you believe in what's behind it. What is one of the biggest benefits
+
+36
+00:02:25,030 --> 00:02:28,990
+you've seen from AI developing that trust in the data?
+
+37
+00:02:28,990 --> 00:02:34,550
+yeah so there are you know when we look at what we have to you know look at from
+
+38
+00:02:34,550 --> 00:02:40,810
+a trust perspective we have critical thinking as humans to really see what
+
+39
+00:02:40,810 --> 00:02:47,150
+could go wrong right but you know we spend a lot of time typing in what is
+
+40
+00:02:47,150 --> 00:02:53,409
+there in our mind using keyboard typing things up and we spend a lot of time you
+
+41
+00:02:53,409 --> 00:02:57,789
+know that's the time that we can save that's the and you lose something in
+
+42
+00:02:57,789 --> 00:03:03,770
+translation too when you try to type something it's in yes exactly so now the area has given us
+
+43
+00:03:03,770 --> 00:03:09,930
+the power to you know focus on the critical thinking aspect and make sure the thinking
+
+44
+00:03:09,930 --> 00:03:17,189
+judgment ethics empathy absolutely you know all the things that could potentially make sure that
+
+45
+00:03:17,189 --> 00:03:24,169
+the systems are trustworthy you can think about it you can get the ai to do the task of typing
+
+46
+00:03:24,169 --> 00:03:27,289
+and creating the kind of tests that you need to do.
+
+47
+00:03:27,289 --> 00:03:28,449
+You know, you just made me think.
+
+48
+00:03:28,909 --> 00:03:31,729
+Quality engineering is a much tighter connection
+
+49
+00:03:31,729 --> 00:03:33,349
+to responsible AI than I thought.
+
+50
+00:03:33,789 --> 00:03:34,310
+Absolutely.
+
+51
+00:03:34,729 --> 00:03:37,810
+You know, we have done from MIT,
+
+52
+00:03:38,370 --> 00:03:41,590
+we have looked at all the failures of AI
+
+53
+00:03:41,590 --> 00:03:45,629
+around different enterprises, different business domains.
+
+54
+00:03:46,229 --> 00:03:50,169
+So we have looked at, you know, what can fail in an AI system.
+
+55
+00:03:50,229 --> 00:03:51,449
+So you're looking at failure modes,
+
+56
+00:03:51,449 --> 00:03:56,590
+Six Sigma, design experiments, all those tools still apply in this world.
+
+57
+00:03:56,710 --> 00:03:57,090
+Absolutely.
+
+58
+00:03:57,830 --> 00:04:04,370
+And, you know, so we have created a text on it, sort of an anthology of what could fail, why it would fail,
+
+59
+00:04:04,889 --> 00:04:08,229
+and, you know, how to make sure that, you know, it doesn't happen to our customers.
+
+60
+00:04:09,050 --> 00:04:14,509
+And so we have created, you know, the developers build these AI systems with some data in mind.
+
+61
+00:04:14,969 --> 00:04:18,189
+But in real world, the data is very different.
+
+62
+00:04:18,189 --> 00:04:21,569
+Oh, it's dirty, it's flowing, it's messy, ambiguous.
+
+63
+00:04:22,449 --> 00:04:29,910
+So, you know, we have created a system that will allow the enterprises to make sure that they can test under all age conditions.
+
+64
+00:04:30,649 --> 00:04:36,689
+And they can make sure that the system that they can put into production is trustworthy, is of great quality.
+
+65
+00:04:37,290 --> 00:04:40,829
+Now, what's an example of this at work at one of your clients?
+
+66
+00:04:40,829 --> 00:04:53,649
+So, for example, take the example of a local customer, one of our utility companies, they have built a utility advisor AI agent.
+
+67
+00:04:54,389 --> 00:05:00,610
+And when somebody calls the AI agent and asks, why is my bill so high?
+
+68
+00:05:01,870 --> 00:05:09,730
+Now, a human person would have taken several hours to dig through the details to find out what is the reason.
+
+69
+00:05:09,730 --> 00:05:20,310
+But now there is an AI agent that travels us through different systems, makes the judgment and provides a response to the person calling.
+
+70
+00:05:21,689 --> 00:05:23,449
+And how do you know whether there is an accident?
+
+71
+00:05:24,329 --> 00:05:29,689
+Is it because it was summer? Is it because there were some guests at home?
+
+72
+00:05:30,129 --> 00:05:32,910
+So, you know, you have to simulate all these conditions.
+
+73
+00:05:32,910 --> 00:05:42,410
+And that's what we did and prevented many of the wrong information going back to the customer and assured that the AI is doing the right thing that it is supposed to.
+
+74
+00:05:42,750 --> 00:05:46,310
+So that's a great example of how it is useful in the real world.
+
+75
+00:05:47,569 --> 00:05:48,990
+That's great for utilities.
+
+76
+00:05:49,990 --> 00:05:54,509
+Now, within Infosys itself, has it been an effective efficiency tool?
+
+77
+00:05:55,129 --> 00:05:55,730
+It has been.
+
+78
+00:05:55,850 --> 00:05:59,850
+I mean, you know, if you look at what we did just a couple of weeks back.
+
+79
+00:05:59,850 --> 00:06:07,810
+within my organization we looked at about the top hundred clients and we
+
+80
+00:06:07,810 --> 00:06:11,750
+looked at you know how people are leveraging AI to do the normal business
+
+81
+00:06:11,750 --> 00:06:19,689
+as usual work roughly believe it or not about 25% throughput increase efficiency
+
+82
+00:06:19,689 --> 00:06:25,029
+has been gained in the last about 12 months so that means the same number of
+
+83
+00:06:25,029 --> 00:06:29,829
+of people are able to deliver more work for the customers
+
+84
+00:06:29,829 --> 00:06:31,589
+than they were doing in the past.
+
+85
+00:06:31,589 --> 00:06:33,449
+Well, let's dig a little deeper on that one.
+
+86
+00:06:33,449 --> 00:06:36,730
+What was it that caused that 25% improvement?
+
+87
+00:06:36,730 --> 00:06:39,829
+So, you know, the team is able to build
+
+88
+00:06:39,829 --> 00:06:43,470
+what we call a digital brain or a context mesh.
+
+89
+00:06:43,470 --> 00:06:45,670
+So they look at the enterprise landscape.
+
+90
+00:06:45,670 --> 00:06:48,189
+They have a lot of this tacit knowledge
+
+91
+00:06:48,189 --> 00:06:50,970
+about how the systems work.
+
+92
+00:06:50,970 --> 00:06:52,790
+And so they're able to bring it all together
+
+93
+00:06:52,790 --> 00:06:56,529
+in a knowledge graph for an enterprise, for their customer.
+
+94
+00:06:56,529 --> 00:06:59,350
+So you're making knowledge graphs for the company
+
+95
+00:06:59,350 --> 00:07:01,149
+and that's simplifying all their work.
+
+96
+00:07:01,149 --> 00:07:04,290
+Yeah, so that makes sure that when we use AI,
+
+97
+00:07:04,290 --> 00:07:06,470
+the kind of tests that we develop,
+
+98
+00:07:06,470 --> 00:07:09,370
+the kind of scripts that we build
+
+99
+00:07:09,370 --> 00:07:12,829
+is very contextual to the customer and it is accurate.
+
+100
+00:07:12,829 --> 00:07:14,790
+And it reduces the token consumption,
+
+101
+00:07:14,790 --> 00:07:17,930
+but it more importantly produces accurate results.
+
+102
+00:07:17,930 --> 00:07:22,230
+Otherwise, the AI can produce hundreds of tests
+
+103
+00:07:22,230 --> 00:07:23,269
+which are not needed.
+
+104
+00:07:23,269 --> 00:07:26,069
+Is that a good mix, the token consumption reduction?
+
+105
+00:07:26,069 --> 00:07:28,370
+I mean, that's got to be real money saved.
+
+106
+00:07:28,370 --> 00:07:30,990
+Is that more or less than the other efficiencies?
+
+107
+00:07:30,990 --> 00:07:32,569
+It is.
+
+108
+00:07:32,569 --> 00:07:34,910
+When we say token consumption reduction,
+
+109
+00:07:34,910 --> 00:07:39,029
+what is very important is it's important to reduce
+
+110
+00:07:39,029 --> 00:07:41,709
+not only the overall token consumption,
+
+111
+00:07:41,709 --> 00:07:44,129
+but to make sure that the input token
+
+112
+00:07:44,129 --> 00:07:48,050
+versus the output token ratio is maintained.
+
+113
+00:07:48,050 --> 00:07:52,629
+So if output token is more, then it costs more.
+
+114
+00:07:52,629 --> 00:07:54,910
+Whereas if it is input token is more,
+
+115
+00:07:54,910 --> 00:07:58,069
+the accuracy increases, but the cost is less.
+
+116
+00:07:58,069 --> 00:07:59,370
+So you need to really look at-
+
+117
+00:07:59,370 --> 00:08:00,709
+Goal or input versus output?
+
+118
+00:08:00,709 --> 00:08:02,189
+More, yes.
+
+119
+00:08:02,189 --> 00:08:03,870
+And your quality engineering approach
+
+120
+00:08:03,870 --> 00:08:06,250
+is able to adjust that ratio in the right way?
+
+121
+00:08:06,250 --> 00:08:08,149
+It is, we are able to adjust it
+
+122
+00:08:08,149 --> 00:08:10,910
+because of the knowledge graph that we have created
+
+123
+00:08:10,910 --> 00:08:14,709
+that make sure that when a person asks a question,
+
+124
+00:08:14,709 --> 00:08:16,649
+it goes through the context mesh,
+
+125
+00:08:16,649 --> 00:08:18,790
+is able to take good input
+
+126
+00:08:18,790 --> 00:08:22,209
+and then able to produce quality limited output.
+
+127
+00:08:22,209 --> 00:08:24,649
+Using AI, are you now able to more easily
+
+128
+00:08:24,649 --> 00:08:26,850
+create a knowledge graph than before?
+
+129
+00:08:26,850 --> 00:08:27,790
+100%.
+
+130
+00:08:27,790 --> 00:08:28,889
+It's able to.
+
+131
+00:08:28,889 --> 00:08:30,949
+I have a leading question, but I mentioned that
+
+132
+00:08:30,949 --> 00:08:33,870
+because when Rafi and I co-wrote the Live Enterprise,
+
+133
+00:08:33,870 --> 00:08:36,029
+knowledge graphs were still kind of new
+
+134
+00:08:36,029 --> 00:08:38,409
+and you can only do it for something really big
+
+135
+00:08:38,409 --> 00:08:40,289
+like Facebook had the social graph,
+
+136
+00:08:40,289 --> 00:08:42,190
+LinkedIn had their Play mode.
+
+137
+00:08:42,190 --> 00:08:45,929
+But if we can make a knowledge graph for every company,
+
+138
+00:08:45,929 --> 00:08:46,889
+Wow, nothing like it.
+
+139
+00:08:47,110 --> 00:08:47,509
+Absolutely.
+
+140
+00:08:47,809 --> 00:08:51,029
+You know, we are right now working with two of our customers
+
+141
+00:08:51,029 --> 00:08:53,889
+where we have built these knowledge graphs already.
+
+142
+00:08:54,389 --> 00:08:56,870
+Because, you know, as the quality assurance people,
+
+143
+00:08:56,950 --> 00:09:00,269
+they are the bridge between business and development.
+
+144
+00:09:00,809 --> 00:09:01,490
+You know, we...
+
+145
+00:09:01,490 --> 00:09:05,269
+You yourself as the bridge between the business folks and the...
+
+146
+00:09:05,269 --> 00:09:08,730
+Because the developers, they build, you know, components.
+
+147
+00:09:09,470 --> 00:09:11,450
+Business knows the end-to-end picture.
+
+148
+00:09:11,970 --> 00:09:14,309
+And there is somebody who is required in between
+
+149
+00:09:14,309 --> 00:09:18,070
+to make that bridge connection between the development of the quality engineering also
+
+150
+00:09:18,070 --> 00:09:24,870
+includes architecture absolutely we look at the architecture we look at the code we look at the
+
+151
+00:09:24,870 --> 00:09:30,710
+standard operating procedures we look at the whole picture to make sure from an end-to-end business
+
+152
+00:09:30,710 --> 00:09:36,789
+perspective nothing is used to be cut i feel better about quality engineering now after talking
+
+153
+00:09:36,789 --> 00:09:42,710
+i have one question for you what do you see in the next 12 6 to 12 months that companies should
+
+154
+00:09:42,710 --> 00:09:51,909
+really look for as maybe the next horizon of Imperter? Yeah so we from a AI for QE perspective
+
+155
+00:09:51,909 --> 00:09:56,309
+that means leveraging AI in doing quality engineering for deterministic applications
+
+156
+00:09:56,309 --> 00:10:02,470
+perspective we believe you know there will be hundreds of AI agents that will help us
+
+157
+00:10:03,029 --> 00:10:09,509
+accelerate that process but at the same time if you do not build the context mesh many customers
+
+158
+00:10:09,509 --> 00:10:15,990
+are not there today and they have to build that context mesh so context mesh you got to get it
+
+159
+00:10:15,990 --> 00:10:21,429
+right otherwise the agents are going to run wild twice and they're going to drift in uh in a
+
+160
+00:10:21,429 --> 00:10:28,309
+production there may be an uprising absolutely and therefore building a good control plane yeah
+
+161
+00:10:28,309 --> 00:10:33,909
+creating an observability for how the tokens are getting consumed how the agents are performing is
+
+162
+00:10:33,909 --> 00:10:34,870
+is going to be super cool.
+
+163
+00:10:34,870 --> 00:10:37,250
+Well, new times, new terms.
+
+164
+00:10:37,250 --> 00:10:38,090
+Absolutely.
+
+165
+00:10:38,090 --> 00:10:38,909
+And new challenges,
+
+166
+00:10:38,909 --> 00:10:40,610
+but sounds like a fantastic opportunity.
+
+167
+00:10:40,610 --> 00:10:41,850
+Venky, thanks so much.
+
+168
+00:10:41,850 --> 00:10:43,409
+Thank you, Jeff, thank you.
+
+169
+00:10:43,409 --> 00:10:44,690
+You bet.
+
+170
+00:10:44,690 --> 00:10:45,529
+I'm Jeff Cavanaugh.
+
+171
+00:10:45,529 --> 00:10:48,330
+Until next time, keep learning and keep sharing.
+

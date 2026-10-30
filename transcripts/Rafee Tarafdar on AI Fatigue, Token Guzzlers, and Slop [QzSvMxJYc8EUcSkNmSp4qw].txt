@@ -1,0 +1,184 @@
+[00:00:05] I'm Jeff Cavanaugh, here at the Intesys Connect Conference in Los Angeles.
+[00:00:09] Very happy to be here with Rafi Parftar, our Chief Technology Officer.
+[00:00:13] Rafi, it's great to see you.
+[00:00:14] Hey, good to be here, Jeff.
+[00:00:16] It's great to see you in person.
+[00:00:17] Dive right in, because obviously AI and AI value is the topic of the day.
+[00:00:23] What is it in your role looking after technology and direction for the company
+[00:00:27] that you see as the, I'll call it the biggest current focus
+[00:00:33] for Infosys and also for our clients in this area.
+[00:00:36] Yeah.
+[00:00:37] I think, see, the biggest focus right now
+[00:00:39] for unlocking value is largely to see
+[00:00:41] how do we accelerate with speed.
+[00:00:44] So speed.
+[00:00:45] Accelerate with speed,
+[00:00:46] because I think that's when the value will get delivered.
+[00:00:49] If you're able to actually push things into...
+[00:00:51] So no more three-year ERP implementation.
+[00:00:53] No more three-year ERP.
+[00:00:55] So for this, again, the way I look at it is
+[00:00:57] there are five anti-patterns that I see today
+[00:01:00] which are preventing a lot of this value unlock.
+[00:01:03] One is most organizations are dealing with AI fatigue because there is a lot of the pilots experiments and also the AI itself is changing so fast that you, you know, for three years, you know, it's like running on a treadmill with changes that are constantly happening and it is not stopping.
+[00:01:22] So unless you have a right way to deal with these new changes, able to identify value for the enterprise and then be able to drive the team coming into your whole approach.
+[00:01:32] Yeah.
+[00:01:33] So that needs to be addressed and there are ways to do that.
+[00:01:36] The second is to also deal with a lot of these token guzzlers because today what's happening
+[00:01:42] Token guzzlers.
+[00:01:43] Yeah.
+[00:01:44] We have some new terms that are coming out here.
+[00:01:46] So what's happening is, see today, most of the agentic implementations are also not very
+[00:01:51] optimized, which means we've already seen that some of them rolled out and then they
+[00:01:55] had to pull it back because they're slow, they consume a lot, a lot.
+[00:01:59] So it's not very efficient.
+[00:02:00] So we need to have a way to manage these token guzzlers
+[00:02:03] to cost-aware architecture so that you manage it well.
+[00:02:07] The third thing is there's a lot of AI slough, right?
+[00:02:10] So a lot of what is generated may not be of value.
+[00:02:14] Value in terms of either cost or revenue or other,
+[00:02:17] or accuracy as well.
+[00:02:19] So that needs to be dealt with.
+[00:02:22] The fourth is today most of these AI vendors
+[00:02:25] are productizing a lot of capabilities.
+[00:02:27] So, which means a lot of commoditization is happening.
+[00:02:30] Now when this commoditization happens,
+[00:02:32] the way the enterprises can create value
+[00:02:35] is by managing their business context
+[00:02:38] and applying it to these AI models and agents
+[00:02:41] to drive higher accuracy and value.
+[00:02:44] So that's again something that
+[00:02:45] So if they productize it,
+[00:02:47] then the enterprise has to take the burden
+[00:02:48] of tailoring it to their situation, contact.
+[00:02:51] So that needs to happen.
+[00:02:52] And then eventually in all of these,
+[00:02:56] they also have to make sure that
+[00:02:57] this also needs a mindset change,
+[00:02:59] which means you have to come out of your comfort trap.
+[00:03:02] For 20 years, I've done this way
+[00:03:04] and we can't continue doing the same way.
+[00:03:06] So you need to move to this exponential way.
+[00:03:08] So I think if these five anti-patterns can be addressed
+[00:03:11] with AI vitality, with your cost-aware architecture,
+[00:03:16] with a clinic-based approach, with context and harness,
+[00:03:20] and with an exponential mindset,
+[00:03:23] then a lot of value can be unlocked.
+[00:03:25] and you're calling them anti-patterns
+[00:03:27] because they're patterns that aren't healthy.
+[00:03:29] Okay, got it.
+[00:03:31] A few years ago, when we co-wrote the Live Enterprise,
+[00:03:34] there was a chapter on digital runway
+[00:03:37] and the architecture and the evolving.
+[00:03:39] And one of the key concepts that still rings so true
+[00:03:41] is you've got to have an evolving architecture.
+[00:03:44] How do you design an architecture to evolve for AI?
+[00:03:48] So when I said the first anti-pattern is AI fatigue,
+[00:03:51] See, one question is, now how do I abstract anything that can change?
+[00:03:56] So if I look at AI world, the abstraction has to be done at several levels.
+[00:04:00] The first is you abstract models out so that I can choose model based on the purpose,
+[00:04:07] which could be a small mid-sized frontier model, which could be any poly model.
+[00:04:12] That's first.
+[00:04:13] Second, the agent framework themselves are evolving,
+[00:04:16] which means I need the ability to choose any agent framework.
+[00:04:19] And is the agent framework by industry or is it some structural thing?
+[00:04:25] This is more on the tech implementation for agents.
+[00:04:27] So this is like a Google ADK, a Landgraf, or you have the AWS strands.
+[00:04:33] So it's more framework like that.
+[00:04:35] Then you have agent run types, which run these agents.
+[00:04:38] Then you have different AI platforms on each of the cloud.
+[00:04:43] Then you have different business platforms, enterprise platforms,
+[00:04:46] data platforms that have to be connected.
+[00:04:49] so across this ecosystem using standards using the philosophy of abstract isolate
+[00:04:57] and standardize is what will enable that you ensure that everything is abstracted so that
+[00:05:03] as and when things change you have the ability to pick the best but i should also say that
+[00:05:09] because the field itself is changing so fast you can't expect 100 abstraction so some of it
+[00:05:16] you will have to refactor because take for you know two years back we used to talk about prompts
+[00:05:22] now we are saying okay instead of prompts we need to do skills obviously it's a different
+[00:05:27] manifestation but then the standards are evolving towards skills and that's how everybody is now
+[00:05:32] building it so as the tech changes some of these refactoring and changes will also be required
+[00:05:39] Do you think, asymptotically, the pace itself will start to mature and stabilize,
+[00:05:46] or do you see, or how long do you see it still being this, not volatile, but rapid and turning?
+[00:05:51] No, see, I think if I go layer by layer, models are today more or less fairly stabilized,
+[00:05:57] but if I go to agent layer, then there is a lot of evolution that is happening.
+[00:06:01] So each of the different levels of the stack, layers of the stack,
+[00:06:05] there's different levels of maturity, and it's managing those,
+[00:06:08] you say abstracting but looking at them individually on their own maturity okay
+[00:06:13] because see i think you have to look at it and put them on a four-dimensional map is the tech
+[00:06:19] today very early and is still evolving second is it where you're largely doing custom development
+[00:06:26] third is where it becomes productized fourth is where it becomes commoditized and the utility
+[00:06:33] right so four layers of maturity level maturity so when anything is commoditized and utility then
+[00:06:38] it's a lot more mature. You can plug and play change. Anything which is productized is a good
+[00:06:43] way because you don't have to build it. Anything which is in custom, that is where, you know,
+[00:06:49] it's still changing. So now you need to make a decision. You know, do I wait? Do I do something
+[00:06:55] or not do something? And then there are things in research which you try. Well, you mentioned
+[00:07:01] decisions. So imagine you're speaking to your peers, your counterparts out there in large
+[00:07:07] companies who are grappling with this. Are they equipped right now? Are they struggling?
+[00:07:13] You know, what's keeping him up at night? Yeah, I think, see, the struggle will be at least in
+[00:07:19] two areas. So one, I think, is this whole mindset change. I think that takes a little longer.
+[00:07:25] Second, finding the right AI use cases that can deliver value beyond productivity. That, again,
+[00:07:33] is a bit of a struggle the third is taking more and more of these things to production and having
+[00:07:39] that velocity in the engineering process to do it that again i think is a problem today now the ctos
+[00:07:46] are probably more comfortable with the third but those other two items this change management
+[00:07:51] yeah it's the process it's almost like it's a coo responsibility that's right i think it's
+[00:07:56] everybody's responsibility it is it is but uh as far as people who have traditionally
+[00:08:00] had that it's almost like you need this superhuman person to sort it all out because if you have
+[00:08:06] silos it's not working no one is that jeff but i also think everybody in the organization has to
+[00:08:13] undergo that mental change yeah that mindset change because unless everybody changes this
+[00:08:18] change is not possible so while the leadership can drive it but then everybody has to go through
+[00:08:24] that process where i was headed with it maybe the superhuman is this whole capability compared to
+[00:08:30] yesterday, tomorrow compared to yesterday.
+[00:08:33] What is it, though, that an organization needs to do
+[00:08:36] so that more of those folks can have that mindset shift?
+[00:08:40] I think this goes back to what we had talked about
+[00:08:43] in the live enterprise book, which is about micro-chains.
+[00:08:46] So I think they have to start with a micro-change approach,
+[00:08:49] is start driving change in few teams, few areas,
+[00:08:53] perfect it, drive it, and then keep scaling it across.
+[00:08:55] Because it is tailored to their context.
+[00:08:57] Yeah. Yeah.
+[00:08:59] And if the future is not written yet,
+[00:09:01] then there is no zero to one or zero to 100.
+[00:09:04] You're incremental.
+[00:09:06] What is it that people are getting wrong right now
+[00:09:08] that they're keeping them from it?
+[00:09:12] No, I wouldn't say they're getting wrong.
+[00:09:13] It is just that the process is taking a little longer
+[00:09:18] because of multiple reasons.
+[00:09:21] Probably one could be the risk approach.
+[00:09:24] Well, that's what I meant by getting it wrong
+[00:09:26] is maybe they're not moving aggressively enough.
+[00:09:29] Maybe they're not iterating enough.
+[00:09:31] Yeah, you're right.
+[00:09:32] So I think the way you deal with the AI risks
+[00:09:35] and manage it based on the different areas
+[00:09:38] that are working, that sometimes takes a little longer.
+[00:09:41] The decisions take longer, the approvals take longer
+[00:09:44] because of which the cycle gets extended.
+[00:09:47] That is one.
+[00:09:49] The second bit also is doing this right way
+[00:09:54] for the right set of use cases
+[00:09:56] because initially everybody's focus was on productivity.
+[00:09:59] Everybody said, let's use it to drive productivity,
+[00:10:02] be it at an individual level.
+[00:10:04] Now we're moving it at a team level,
+[00:10:06] but then we need to now move beyond that.
+[00:10:09] If you had one thing that you'd recommend
+[00:10:12] your counterparts out there to think about and to do,
+[00:10:16] what is it that they should focus on
+[00:10:18] over the next nine, 12 months?
+[00:10:21] No, I would just say democratize innovation
+[00:10:24] and drive distributed innovation across the organization
+[00:10:30] and then focus on value.
+[00:10:33] Valuable, tangible value.
+[00:10:36] Yeah.
+[00:10:36] Value is your North Star.
+[00:10:37] Yes.
+[00:10:38] Got it.
+[00:10:39] Well, listen, I know we have to get back
+[00:10:40] to the rest of the conference.
+[00:10:41] Thank you so much.
+[00:10:42] Oh, thank you.
+[00:10:43] Always a pleasure.
+[00:10:44] I'm Jeff Cavanaugh.
+[00:10:45] Until next time, keep learning, keep sharing.
